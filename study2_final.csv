@@ -1,0 +1,1220 @@
+﻿startdate,enddate,responseId,participant_id,check_choose_avatar,attention_check,exclude,condition,black_white,female_male,dissim_self,dissim_other,sim_self,sim_other,dissim_choice,sim_choice,dissim_similar,sim_similar,age,sex,race,feedback
+9/27/21 9:26,9/27/21 9:31,R_yNITCtYHGeyPpWV,wm_65,5,7,3,w_m,white,male,4,4,4,4,1,1,4,4,52,1,5,
+9/27/21 9:32,9/27/21 9:39,R_27QIWy7lyHQ9jHe,wm_66,5,6,3,w_m,white,male,6,6,6,5,1,1,5,5,72,1,5,very good
+9/27/21 10:52,9/27/21 11:12,R_26b4C2TCIvOLbSa,wm_141,10,6,3,w_m,white,male,6,5,3,5,2,2,5,6,39,1,5,no
+9/27/21 10:39,9/27/21 10:43,R_udI6suUiWkFDShz,wm_142,10,2,3,w_m,white,male,4,4,4,4,2,2,7,3,39,1,4,I'm quite boring
+9/27/21 9:50,9/27/21 9:58,R_3scs4AYt8gUyhKt,wm_300,23,7,3,w_m,white,male,7,7,5,6,1,1,7,7,41,1,5,
+9/27/21 9:11,9/27/21 9:16,R_0JpBhP06s8LooAF,wm_1,1,5,2,w_m,white,male,1,1,1,1,2,2,1,7,35,1,2,
+9/27/21 9:20,9/27/21 9:24,R_2ckGE5nOzj8IIpm,wm_2,1,5,2,w_m,white,male,4,4,4,4,1,1,3,6,55,1,2,
+9/21/21 12:35,9/21/21 12:57,R_3vC0b527WP3fTC9,wm_64,4,5,2,w_m,white,male,5,4,4,5,2,1,5,3,8,2,3,
+9/27/21 8:52,9/27/21 8:55,R_2CdDJuEefQE08Py,wm_166,12,5,2,w_m,white,male,3,3,2,2,1,1,4,3,42,1,2,no
+9/27/21 9:02,9/27/21 9:06,R_3JmjIW3FAXayCOO,wm_167,12,5,2,w_m,white,male,5,4,5,4,1,1,3,3,21,1,2,hello researchers!
+9/27/21 9:18,9/27/21 9:29,R_2dQK25XNbP4sOGE,wm_227,15,5,2,w_m,white,male,6,6,5,6,1,1,6,5,43,1,2,No
+9/20/21 8:09,9/20/21 8:14,R_yWMVLiE4Pmr6fvP,wm_231,16,5,2,w_m,white,male,4,4,4,4,1,1,4,4,42,2,5,
+9/27/21 8:48,9/27/21 8:52,R_1EYikSVKyl0c05y,wm_238,17,5,2,w_m,white,male,5,5,5,5,1,1,3,5,48,1,2,Disappointed that I didn't get to chat with anyone
+9/27/21 9:55,9/27/21 9:58,R_1IGYFBLc9PFDvvd,wm_278,22,5,2,w_m,white,male,1,1,1,1,2,2,1,1,22,1,2,
+9/27/21 10:12,9/27/21 10:16,R_1i2wIJDv8FjYIzf,wm_279,22,5,2,w_m,white,male,3,4,3,3,2,2,2,2,21,1,2,
+9/27/21 9:05,9/27/21 9:18,R_3n1n8UXm9d2IAF2,wm_61,2,5,1,w_m,white,male,7,6,7,6,1,1,5,5,43,1,5,nice study. thank you.
+9/27/21 9:29,9/27/21 9:40,R_BGsEQyqGBcPqKzv,wm_62,2,5,1,w_m,white,male,6,6,7,6,1,1,7,7,43,1,5,good study overall.
+9/27/21 9:15,9/27/21 9:29,R_1N4ww1HmzK5aNG9,wm_63,3,5,1,w_m,white,male,4,7,4,7,1,2,4,7,32,1,5,
+9/27/21 8:21,9/27/21 8:25,R_3L1KanAMo3mdpro,wm_163,11,5,1,w_m,white,male,6,3,5,5,1,1,3,5,43,1,5,No
+9/27/21 10:44,9/27/21 10:49,R_8dIGJAFFsRi8XAd,wm_164,11,5,1,w_m,white,male,5,7,7,5,1,1,3,5,34,1,5,Good survey
+9/27/21 10:48,9/27/21 10:53,R_2di0wDf4Dll1Ttz,wm_165,11,5,1,w_m,white,male,6,5,6,5,1,1,2,6,49,1,5,no
+9/27/21 7:51,9/27/21 8:01,R_25RegcTsUEvNleQ,wm_228,15,5,1,w_m,white,male,6,5,7,5,1,1,5,5,35,1,5,No.
+9/27/21 9:06,9/27/21 9:10,R_2TSinC7CKOiN0Th,wm_229,15,5,1,w_m,white,male,7,7,7,7,1,1,7,4,34,1,5,none
+9/27/21 10:29,9/27/21 10:33,R_80VYHye4oTssPHX,wm_230,15,5,1,w_m,white,male,6,7,6,5,1,1,6,5,47,1,5,Thank you.
+9/27/21 8:46,9/27/21 8:50,R_2xKL5cluXxFCAhG,wm_276,21,5,1,w_m,white,male,7,4,7,3,1,1,5,2,26,1,5,"It was fun, thanks!"
+9/27/21 10:27,9/27/21 10:33,R_2Yyrfosnm1yDXQo,wm_277,21,5,1,w_m,white,male,6,5,5,4,1,1,4,5,41,1,5,No
+9/27/21 7:57,9/27/21 8:01,R_Qa0wU9UjuacKdln,wm_3,1,5,0,w_m,white,male,6,5,6,5,1,1,6,6,23,1,5,Interesting to see the outcome of this study 
+9/27/21 8:01,9/27/21 8:09,R_3RmZtGI4mhu746i,wm_4,1,5,0,w_m,white,male,4,3,2,3,1,1,3,5,42,1,5,
+9/27/21 8:09,9/27/21 8:13,R_3pg30YQ3kpDImxH,wm_5,1,5,0,w_m,white,male,5,5,5,4,1,1,5,5,32,1,5,
+9/27/21 8:13,9/27/21 8:15,R_yUCbxc3jPR3oJ6V,wm_6,1,5,0,w_m,white,male,7,4,7,5,1,1,4,6,31,1,5,No
+9/27/21 8:36,9/27/21 8:40,R_vIdx6ENflRyzSLf,wm_7,1,5,0,w_m,white,male,1,1,1,1,2,2,2,6,44,1,5,
+9/27/21 8:37,9/27/21 8:43,R_1kMFFbvzH8fvVE4,wm_8,1,5,0,w_m,white,male,7,5,6,4,2,1,4,4,41,1,5,no
+9/27/21 8:43,9/27/21 8:51,R_8CT1faM0M8oLvc5,wm_9,1,5,0,w_m,white,male,5,4,5,4,1,1,4,4,34,1,5,They survey tried to ‚Äútrick‚Äù me into thinking that I was going to engage with actual participants but intuitively it was easy to figure out that it wasn‚Äôt the case.
+9/27/21 8:47,9/27/21 8:52,R_Q6WsJcKKB7xNPMt,wm_10,1,5,0,w_m,white,male,5,4,5,4,1,1,3,4,27,1,5,Thank you for your consideration
+9/27/21 8:50,9/27/21 8:56,R_1kXoKwIxSRusqhY,wm_11,1,5,0,w_m,white,male,7,7,7,7,1,1,4,4,39,1,5,No
+9/27/21 8:54,9/27/21 8:57,R_x3YSClbZruouUet,wm_12,1,5,0,w_m,white,male,4,4,4,4,1,1,4,4,42,1,5,
+9/27/21 8:47,9/27/21 8:59,R_1KlknWHZMSNdNul,wm_13,1,5,0,w_m,white,male,5,4,6,4,1,1,3,5,38,1,5,no comment
+9/27/21 8:57,9/27/21 9:00,R_1hytGbPGXuAIDAf,wm_14,1,5,0,w_m,white,male,3,1,1,1,1,2,4,4,36,1,5,
+9/27/21 9:05,9/27/21 9:09,R_1CeVFIKm8AkFvoB,wm_15,1,5,0,w_m,white,male,5,5,5,5,1,1,4,4,45,1,5,
+9/27/21 9:06,9/27/21 9:10,R_3IXlpHpHs90qjuY,wm_16,1,5,0,w_m,white,male,4,4,4,4,1,1,3,5,44,1,5,
+9/27/21 9:08,9/27/21 9:11,R_prsm3St8cxtC6MV,wm_17,1,5,0,w_m,white,male,1,1,1,1,2,2,1,7,29,1,5,
+9/27/21 9:06,9/27/21 9:11,R_1mmzWI80uBDKJXQ,wm_18,1,5,0,w_m,white,male,7,5,7,5,1,1,3,6,20,1,5,Really interesting survey. Enjoyed it very much.
+9/27/21 9:08,9/27/21 9:18,R_2fqc53fP8wq2K7A,wm_19,1,5,0,w_m,white,male,5,4,5,4,1,1,4,4,60,1,5,I was getting worried I might actually have to talk to them. I don't have a microphone.
+9/27/21 9:14,9/27/21 9:19,R_3nH5nzRWWfHPlyc,wm_20,1,5,0,w_m,white,male,2,2,2,2,1,1,4,4,30,1,5,
+9/27/21 9:19,9/27/21 9:22,R_eCJoezp761acT61,wm_21,1,5,0,w_m,white,male,4,4,4,4,1,1,4,4,49,1,5,no
+9/27/21 9:22,9/27/21 9:26,R_3je4QGDthKyOzrW,wm_22,1,5,0,w_m,white,male,4,3,4,4,2,2,3,4,18,1,5,no thank you
+9/27/21 9:23,9/27/21 9:28,R_2rkcLniBACWisoa,wm_23,1,5,0,w_m,white,male,5,5,5,5,1,2,3,5,43,1,5,no
+9/27/21 9:26,9/27/21 9:28,R_20Ng7PHO62uGucI,wm_24,1,5,0,w_m,white,male,5,3,5,3,1,1,2,4,31,1,5,
+9/27/21 9:27,9/27/21 9:31,R_1nO6xF61UBFUZOw,wm_25,1,5,0,w_m,white,male,7,5,5,5,1,1,4,7,26,1,5,
+9/27/21 9:29,9/27/21 9:34,R_scdzzazFzot4GMV,wm_26,1,5,0,w_m,white,male,5,4,5,4,1,1,3,5,20,1,5,
+9/27/21 9:32,9/27/21 9:35,R_27dLCdC46zmnNQU,wm_27,1,5,0,w_m,white,male,7,7,7,7,1,1,5,5,28,1,5,
+9/27/21 9:32,9/27/21 9:36,R_2fy8yVCqXzf7fN1,wm_28,1,5,0,w_m,white,male,4,4,4,4,1,1,3,5,35,1,5,"There were 24 potential avatars, but when I chose number 24 it gave an error message and told me I can only pick numbers 1-23."
+9/27/21 9:32,9/27/21 9:37,R_1MM5viULX44fjwz,wm_29,1,5,0,w_m,white,male,6,4,5,4,1,2,3,5,35,1,5,
+9/27/21 9:40,9/27/21 9:43,R_yL68N0RA5oha8yl,wm_30,1,5,0,w_m,white,male,5,4,5,4,1,1,5,6,21,1,5,
+9/27/21 9:42,9/27/21 9:46,R_4SLtDTRivTvP7cR,wm_31,1,5,0,w_m,white,male,6,3,4,4,1,2,3,5,32,1,5,
+9/27/21 9:46,9/27/21 9:50,R_3EbwtXyl5BP3rNc,wm_32,1,5,0,w_m,white,male,6,3,5,3,1,2,2,4,20,1,5,
+9/27/21 9:51,9/27/21 9:54,R_2RPTcEtgd87jbfj,wm_33,1,5,0,w_m,white,male,2,2,2,2,1,2,4,4,24,1,5,
+9/27/21 9:47,9/27/21 9:56,R_UnAYzZPDiFm6BAl,wm_34,1,5,0,w_m,white,male,4,4,4,4,1,1,4,5,37,1,5,"I was presented with 24 options for avatar. But when I tried to select avatar 24, I was given an error message similar to ""Please choose a number less than or equal to 23"". I ended up choosing avatar 1 as it was the next closest.
+Later, it claimed participant 2 had selected avatar 24, which I knew was impossible. Although, I guess if the avatar selection was randomized it'd be possible. You should get that error corrected anyway."
+9/27/21 9:55,9/27/21 10:00,R_3syVA3vrgLNC1Ef,wm_35,1,5,0,w_m,white,male,7,7,7,7,1,1,6,7,33,1,5,
+9/27/21 9:59,9/27/21 10:03,R_2VdXIakP6EuTUiW,wm_36,1,5,0,w_m,white,male,4,4,4,4,1,1,4,4,48,1,5,
+9/27/21 9:56,9/27/21 10:03,R_3iEk2SwKG0Ju2is,wm_37,1,5,0,w_m,white,male,5,5,5,5,1,1,5,6,36,1,5,
+9/27/21 10:01,9/27/21 10:05,R_2cqgkvxW47p3izQ,wm_38,1,5,0,w_m,white,male,1,1,1,1,1,2,1,2,23,1,5,
+9/27/21 10:02,9/27/21 10:07,R_12nYHDPc0Efktiz,wm_39,1,5,0,w_m,white,male,7,5,5,5,1,1,2,5,59,1,5,
+9/27/21 10:07,9/27/21 10:10,R_oXcT53VkQnojDUZ,wm_40,1,5,0,w_m,white,male,7,5,5,5,1,1,3,5,25,1,5,N/A
+9/27/21 10:07,9/27/21 10:11,R_vCuRKLZ985QPg6R,wm_41,1,5,0,w_m,white,male,5,5,5,5,1,1,5,5,31,1,5,
+9/27/21 10:11,9/27/21 10:14,R_1l4vs32jXqQ2ndu,wm_42,1,5,0,w_m,white,male,3,3,3,3,2,2,3,3,37,1,5,
+9/27/21 10:07,9/27/21 10:15,R_3edZLh2F9PfN0xX,wm_43,1,5,0,w_m,white,male,4,4,4,4,1,1,3,4,36,1,5,"I feel less ""similar"" to the first indivisible based on the outfit. Choosing to select a suit and tie makes me feel that the person is likely to either work in a business setting, which I do not, or dress is a part of their identity that they are projecting,which does not match well with me. On the other hand, the second picture matches more closely to what I chose to represent myself, which gives me the idea that we may at least have a generally similar attitude in how we choose to present ourselves to others. This does not suggest that we have similar views on anything else though, which is why I chose to only go one past neutral."
+9/27/21 10:12,9/27/21 10:17,R_111NxY8pPi2aoHK,wm_44,1,5,0,w_m,white,male,3,1,3,1,2,2,4,4,39,1,5,
+9/27/21 10:13,9/27/21 10:17,R_1QhG6RS61ZB10hB,wm_45,1,5,0,w_m,white,male,6,4,5,4,1,1,3,5,35,1,5,
+9/27/21 10:15,9/27/21 10:20,R_3e9thYRPj5u7334,wm_46,1,5,0,w_m,white,male,1,1,1,1,2,2,1,1,28,1,5,
+9/27/21 10:18,9/27/21 10:22,R_3no9uYAZMOWuemP,wm_47,1,5,0,w_m,white,male,4,3,3,3,1,1,3,4,34,1,5,
+9/27/21 10:18,9/27/21 10:23,R_2ToZfxc4PnSgZSo,wm_48,1,5,0,w_m,white,male,3,3,3,3,1,1,2,2,32,1,5,
+9/27/21 10:22,9/27/21 10:25,R_33dl54EwiJ1H29r,wm_49,1,5,0,w_m,white,male,2,2,2,2,2,2,3,4,37,1,5,
+9/27/21 10:14,9/27/21 10:27,R_1I4rLCdDnJX0PEJ,wm_50,1,5,0,w_m,white,male,5,5,5,4,1,1,3,6,29,1,5,
+9/27/21 10:22,9/27/21 10:27,R_2qfsmqMHopttHlF,wm_51,1,5,0,w_m,white,male,5,3,5,3,1,1,5,5,41,1,5,Thanks for considering my submission. 
+9/27/21 10:25,9/27/21 10:28,R_1dy6YNE2ttdJIni,wm_52,1,5,0,w_m,white,male,4,4,4,4,2,2,3,4,28,1,5,
+9/27/21 10:32,9/27/21 10:36,R_3Jrb574Hwuaj62W,wm_53,1,5,0,w_m,white,male,6,4,6,5,1,1,3,5,23,1,5,"Cool study!
+
+Kind of guessed that I wouldn‚Äôt really be talking some one. I presume this is about race?"
+9/27/21 10:33,9/27/21 10:39,R_3m29yojIpOfl3D2,wm_54,1,5,0,w_m,white,male,1,1,1,1,2,2,1,3,22,1,5,"I suspected that I wouldn't actually be connected to talk to anyone (I'm a software engineer, and know that developing a chat system that matched people together would probably be prohibitive for a single study), but I still felt intense social anxiety at the prospect of having to chat with a stranger at all. That's the main drive for not wanting to get to know either ""participant"""
+9/27/21 10:37,9/27/21 10:40,R_2PiJi3J2E3Q24QC,wm_55,1,5,0,w_m,white,male,4,4,4,4,1,1,4,4,23,1,5,
+9/27/21 10:35,9/27/21 10:41,R_28SXJykuDrum4ha,wm_56,1,5,0,w_m,white,male,3,1,2,1,1,2,1,4,25,1,5,
+9/27/21 10:42,9/27/21 10:46,R_XZkrBQdP8TbAn3H,wm_57,1,5,0,w_m,white,male,6,5,5,6,1,1,4,4,71,1,5,no
+9/27/21 10:45,9/27/21 10:49,R_7ZIvYhzbvE5FpQJ,wm_58,1,5,0,w_m,white,male,3,2,2,2,1,1,2,3,22,1,5,
+9/27/21 10:42,9/27/21 10:59,R_1f0Zrmilx8FdX7F,wm_59,1,5,0,w_m,white,male,6,6,6,6,1,1,6,6,35,1,5,Not really. Thank you
+9/27/21 11:00,9/27/21 11:07,R_1doVTb7BGqRe8n2,wm_60,1,5,0,w_m,white,male,5,5,5,5,1,1,2,6,21,1,5,"When shown pictures of the avatars to choose from, I was shown 1-24, but was only allowed to select up to 23. I‚Äôm not sure if this was an intended aspect of the experiment but it was slightly confusing"
+9/27/21 7:48,9/27/21 7:52,R_3dNcvI3Hma0gG3S,wm_67,5,5,0,w_m,white,male,2,2,1,1,2,2,4,4,49,1,5,
+9/27/21 7:51,9/27/21 7:54,R_3r1It4NHjOmCEAT,wm_68,5,5,0,w_m,white,male,3,2,2,2,2,2,1,6,42,1,5,
+9/27/21 7:52,9/27/21 8:01,R_1pWGWj0TI1xqP2y,wm_69,5,5,0,w_m,white,male,4,3,7,5,2,1,3,6,41,1,5,
+9/27/21 8:04,9/27/21 8:08,R_2rE4yogzUYdoosV,wm_70,5,5,0,w_m,white,male,1,1,1,1,2,2,5,3,40,1,5,
+9/27/21 8:10,9/27/21 8:13,R_1rqqN1GMPDI77Iw,wm_71,5,5,0,w_m,white,male,5,3,2,1,1,1,1,5,43,1,5,
+9/27/21 8:10,9/27/21 8:16,R_2X5U4hVXW5EgrCi,wm_72,5,5,0,w_m,white,male,6,6,6,5,1,1,6,5,39,1,5,
+9/27/21 8:14,9/27/21 8:18,R_6DuXr0isLtEAJtT,wm_73,5,5,0,w_m,white,male,6,5,6,5,1,1,6,6,30,1,5,
+9/27/21 8:18,9/27/21 8:22,R_3Db9FE49FZ5gIPg,wm_74,5,5,0,w_m,white,male,6,6,6,5,2,2,5,6,46,1,5,
+9/27/21 8:20,9/27/21 8:25,R_3q8NOdV0EmAULnk,wm_75,5,5,0,w_m,white,male,3,3,3,3,2,2,3,3,46,1,5,
+9/27/21 8:19,9/27/21 8:27,R_D762dvwpkWfJuOl,wm_76,5,5,0,w_m,white,male,2,2,2,2,1,1,3,3,25,1,5,No
+9/27/21 8:24,9/27/21 8:29,R_DGeXF9nLItpqO8p,wm_77,5,5,0,w_m,white,male,5,5,4,5,1,1,5,4,46,1,5,no
+9/27/21 8:23,9/27/21 8:30,R_CkT0ehuU1hNSEX7,wm_78,5,5,0,w_m,white,male,7,6,7,3,1,1,2,4,29,1,5,"Nothing really, but the survey was awesome"
+9/27/21 8:27,9/27/21 8:31,R_2UWOTpbknenVgLi,wm_79,5,5,0,w_m,white,male,4,4,4,4,2,2,5,5,39,1,5,
+9/27/21 8:29,9/27/21 8:32,R_3sglvbeNgqreaFp,wm_80,5,5,0,w_m,white,male,7,6,7,7,1,1,7,6,41,1,5,
+9/27/21 8:20,9/27/21 8:32,R_2QYTbdQYQYjBO7o,wm_81,5,5,0,w_m,white,male,7,7,7,7,1,1,7,7,41,1,5,
+9/27/21 8:32,9/27/21 8:36,R_2yqDnqJMEKHyjGt,wm_82,5,5,0,w_m,white,male,5,4,4,5,1,1,4,4,50,1,5,
+9/27/21 8:31,9/27/21 8:36,R_1HnmPcqDgK21RIN,wm_83,5,5,0,w_m,white,male,6,5,7,6,1,1,4,6,43,1,5,no
+9/27/21 8:31,9/27/21 8:39,R_2t7QPES8b0wXuxj,wm_84,5,5,0,w_m,white,male,5,4,4,3,1,2,5,4,36,1,5,
+9/27/21 8:38,9/27/21 8:42,R_AA1kX76BavOKkyl,wm_85,5,5,0,w_m,white,male,6,6,7,5,2,1,5,6,43,1,5,
+9/27/21 8:35,9/27/21 8:44,R_2DN4KPqyLj9GNxY,wm_86,5,5,0,w_m,white,male,5,4,5,4,1,1,4,5,44,1,5,
+9/27/21 8:40,9/27/21 8:44,R_DBGWfxTkiQLWWCR,wm_87,5,5,0,w_m,white,male,4,4,4,4,1,1,4,4,60,1,5,I think my responses were self explanatory 
+9/27/21 8:41,9/27/21 8:45,R_3Orm4SDWZEFJENQ,wm_88,5,5,0,w_m,white,male,4,4,4,4,1,1,4,4,25,1,5,
+9/27/21 8:46,9/27/21 8:51,R_10x7NrMWjnbe3Dh,wm_89,5,5,0,w_m,white,male,2,2,2,3,1,2,2,5,38,1,5,
+9/27/21 8:48,9/27/21 8:52,R_ABW8FFnO0xDEbpD,wm_90,5,5,0,w_m,white,male,3,3,3,3,1,1,3,5,34,1,5,"Nothing, good jorb with study. Give 5 stars, would take again :-)"
+9/27/21 8:50,9/27/21 8:53,R_28HGecBKzgO5Y5Y,wm_91,5,5,0,w_m,white,male,7,4,7,4,1,1,4,4,38,1,5,
+9/27/21 8:55,9/27/21 9:02,R_Ti3hFjYU8mlCNlT,wm_92,5,5,0,w_m,white,male,7,6,7,5,1,1,4,4,38,1,5,The survey was quite interesting 
+9/27/21 9:00,9/27/21 9:13,R_2cj6zHEokQijP0t,wm_93,5,5,0,w_m,white,male,7,5,7,7,1,1,7,7,39,1,5,no
+9/27/21 9:14,9/27/21 9:19,R_2cvGO4zgDPCYd9i,wm_94,5,5,0,w_m,white,male,5,5,5,3,1,2,5,3,55,1,5,
+9/27/21 9:20,9/27/21 9:24,R_3sc63tkMUJH1w3X,wm_95,5,5,0,w_m,white,male,5,3,1,1,1,2,1,5,30,1,5,No
+9/27/21 9:19,9/27/21 9:25,R_2B35cLxgidKqz1T,wm_96,5,5,0,w_m,white,male,3,2,3,4,2,2,4,5,40,1,5,No
+9/27/21 9:18,9/27/21 9:25,R_3FOSYrkALvsRB8q,wm_97,5,5,0,w_m,white,male,6,6,5,6,1,1,2,7,47,1,5,
+9/27/21 9:26,9/27/21 9:28,R_1DZvBbeo9eUzsBL,wm_98,5,5,0,w_m,white,male,7,7,6,6,2,2,6,6,45,1,5,
+9/27/21 9:20,9/27/21 9:33,R_2cBemQU1TEXFLPi,wm_99,5,5,0,w_m,white,male,5,5,5,5,1,1,5,4,46,1,5,"The prospect of a random chat was strangely and terribly uncomfortable‚ÄîI didn't expect to feel this way. On considering why, I realized just how rare it is to converse without some previous context and under the control of a third party. A bit eye-opening for me, even if not the intended purpose... so thanks."
+9/27/21 9:29,9/27/21 9:35,R_2zLSmcq31Hoo6L4,wm_100,5,5,0,w_m,white,male,1,1,1,1,2,2,5,5,41,1,5,I don't know how useful my answers will be because I didn't particularly want to talk to anybody. Their avatars had nothing to do with my answers. 
+9/27/21 9:32,9/27/21 9:36,R_33ebM2bJif4Jfrq,wm_101,5,5,0,w_m,white,male,5,5,5,5,1,1,5,5,43,1,5,nope
+9/27/21 9:26,9/27/21 9:40,R_UZ4UNIWCyA8YbUl,wm_102,5,5,0,w_m,white,male,6,4,5,5,1,2,5,4,48,1,5,nice
+9/27/21 9:37,9/27/21 9:40,R_2e9UuoHXBimthDG,wm_103,5,5,0,w_m,white,male,5,4,5,4,1,1,5,5,43,1,5,"Interesting, but chatting would have been fun!"
+9/27/21 9:35,9/27/21 9:42,R_31syhVAB2AcNuW7,wm_104,5,5,0,w_m,white,male,5,5,6,6,1,2,5,6,29,1,5,this is good 
+9/27/21 9:42,9/27/21 9:45,R_2XnD3f7eu4IeSm1,wm_105,5,5,0,w_m,white,male,3,3,3,2,1,1,2,3,25,1,5,
+9/27/21 9:42,9/27/21 9:48,R_2XbapVMFxz1ogwE,wm_106,5,5,0,w_m,white,male,7,4,7,4,1,1,5,7,29,1,5,
+9/27/21 9:37,9/27/21 9:49,R_1FTYM1XuuvdxCTv,wm_107,5,5,0,w_m,white,male,7,6,7,4,1,2,7,5,34,1,5,N/A
+9/27/21 9:44,9/27/21 9:50,R_Dl5ZpMApuKylDl7,wm_108,5,5,0,w_m,white,male,3,3,3,3,1,1,4,4,46,1,5,
+9/27/21 9:41,9/27/21 9:51,R_3EYxBaab3AHe0RH,wm_109,5,5,0,w_m,white,male,7,6,7,6,1,1,5,5,39,1,5,no please
+9/27/21 9:49,9/27/21 9:51,R_1obEME0tI92NtBY,wm_110,5,5,0,w_m,white,male,1,1,1,1,1,1,3,3,34,1,5,
+9/27/21 9:31,9/27/21 9:54,R_3QFcbbnvHW1dFDX,wm_111,5,5,0,w_m,white,male,6,6,5,6,1,1,6,6,39,1,5,nice survey
+9/27/21 9:43,9/27/21 9:56,R_x9Pm8E4MbPGsnAZ,wm_112,5,5,0,w_m,white,male,5,5,5,6,1,1,5,5,49,1,5,no
+9/27/21 9:43,9/27/21 9:58,R_3L0kp7lPTUH9B7s,wm_113,5,5,0,w_m,white,male,6,6,5,5,1,1,5,5,50,1,5,no
+9/27/21 9:56,9/27/21 9:59,R_24d8MJYZHfgD45n,wm_114,5,5,0,w_m,white,male,2,3,2,3,1,1,4,4,29,1,5,
+9/27/21 9:59,9/27/21 10:03,R_Y4vkdHtqRjjt5Sx,wm_115,5,5,0,w_m,white,male,4,4,4,4,1,1,4,5,50,1,5,
+9/27/21 9:52,9/27/21 10:05,R_3kcBtLiEwMfAJMn,wm_116,5,5,0,w_m,white,male,7,7,7,7,1,1,3,4,30,1,5,
+9/27/21 9:58,9/27/21 10:07,R_24nQVe7anYb0e0A,wm_117,5,5,0,w_m,white,male,6,5,7,5,1,1,4,3,38,1,5,
+9/27/21 10:02,9/27/21 10:07,R_vBJ0SXqXHT3XQEV,wm_118,5,5,0,w_m,white,male,4,4,4,4,2,2,1,2,49,1,5,nope
+9/27/21 10:07,9/27/21 10:12,R_2tEbiYY5eGAzaXa,wm_119,5,5,0,w_m,white,male,3,2,3,2,1,1,2,4,42,1,5,
+9/27/21 10:09,9/27/21 10:13,R_2QnxT6LosNENLzk,wm_120,5,5,0,w_m,white,male,4,3,3,3,1,2,5,4,35,1,5,Interesting selection process
+9/27/21 10:09,9/27/21 10:18,R_3KHF1YSm1WS3HmB,wm_121,5,5,0,w_m,white,male,6,5,6,5,1,1,6,4,44,1,5,"No,thanks."
+9/27/21 10:21,9/27/21 10:25,R_1KjdUgHUdba0WU9,wm_122,5,5,0,w_m,white,male,3,2,2,2,1,1,4,4,34,1,5,
+9/27/21 10:17,9/27/21 10:30,R_eFI7HYroBtFAyfT,wm_123,5,5,0,w_m,white,male,7,7,7,6,1,1,4,3,37,1,5,Its fun
+9/27/21 10:26,9/27/21 10:30,R_3Kwki4hcOSbKJGh,wm_124,5,5,0,w_m,white,male,4,2,3,2,1,2,5,5,37,1,5,
+9/27/21 10:26,9/27/21 10:30,R_24wwtNrN52cGn8E,wm_125,5,5,0,w_m,white,male,7,7,5,6,1,1,7,5,38,1,5,
+9/27/21 10:28,9/27/21 10:32,R_25MYCb64fPg0dBc,wm_126,5,5,0,w_m,white,male,4,2,3,2,1,1,2,4,25,1,5,"Avatar #24 could not be selected, it told me you must pick a number between 1 and 23"
+9/27/21 10:27,9/27/21 10:33,R_3MGqdZjv0X81Ppb,wm_127,5,5,0,w_m,white,male,5,5,7,4,1,1,5,4,44,1,5,
+9/27/21 10:35,9/27/21 10:39,R_1LBsF9lxwF7Sup0,wm_128,5,5,0,w_m,white,male,7,6,7,6,1,1,7,6,43,1,5,
+9/27/21 10:37,9/27/21 10:42,R_27U36wdWXoLF3qg,wm_129,5,5,0,w_m,white,male,4,3,2,2,1,2,2,1,56,1,5,n/a
+9/27/21 10:39,9/27/21 10:43,R_1Q6gu2wdSjdOtrQ,wm_130,5,5,0,w_m,white,male,5,4,4,4,1,1,5,5,44,1,5,
+9/27/21 10:40,9/27/21 10:43,R_1JOtVOc12R02cVL,wm_131,5,5,0,w_m,white,male,4,4,4,5,1,1,5,5,31,1,5,
+9/27/21 10:41,9/27/21 10:45,R_1n0eIFcvF9UqMpd,wm_132,5,5,0,w_m,white,male,4,3,4,3,1,1,5,6,43,1,5,
+9/27/21 10:42,9/27/21 10:46,R_2y1kmMt6xgETVvM,wm_133,5,5,0,w_m,white,male,5,5,5,5,1,1,5,6,35,1,5,I was actually a tiny bit disappointed that I didn‚Äôt get to talk to those two guys. I found myself looking forward to it. 
+9/27/21 10:26,9/27/21 10:51,R_6JWHebxyHhzEyqd,wm_134,5,5,0,w_m,white,male,6,6,6,6,1,1,6,6,35,1,5,
+9/27/21 10:47,9/27/21 10:54,R_1DD6xd91CNIAJc6,wm_135,5,5,0,w_m,white,male,6,6,5,6,1,1,4,3,26,1,5,Excellent study
+9/27/21 10:43,9/27/21 11:01,R_1OkvxHubuFXhi64,wm_136,5,5,0,w_m,white,male,7,6,7,7,1,1,7,7,40,1,5,
+9/27/21 10:48,9/27/21 11:09,R_3kG1moOxGMjeJft,wm_137,5,5,0,w_m,white,male,6,6,6,6,1,1,6,6,50,1,5,none
+9/27/21 8:53,9/27/21 8:57,R_1K6zwuHaRCHPGM9,wm_138,6,5,0,w_m,white,male,3,5,2,5,1,2,2,5,31,1,5,
+9/27/21 10:01,9/27/21 10:05,R_ZfnMxLCjAFSmtEZ,wm_139,6,5,0,w_m,white,male,6,6,6,7,1,1,6,6,41,1,5,good study.
+9/27/21 10:36,9/27/21 10:38,R_1hHknKu6Q8jxMrb,wm_140,6,5,0,w_m,white,male,1,1,1,1,2,2,1,1,30,1,5,I'm a long haired dude. I'd like an avatar to select that is not a woman.
+9/27/21 8:20,9/27/21 8:29,R_VKjQohNkYopLEUF,wm_143,10,5,0,w_m,white,male,6,6,6,6,1,1,4,5,70,1,5,
+9/27/21 8:29,9/27/21 8:33,R_3ltCLeBGcAfbZRn,wm_144,10,5,0,w_m,white,male,2,2,4,2,2,1,1,4,58,1,5,
+9/27/21 8:43,9/27/21 8:49,R_1HjeWMPJJbY0N9x,wm_145,10,5,0,w_m,white,male,6,6,6,6,1,1,5,5,72,1,5,
+9/27/21 8:44,9/27/21 8:50,R_1Qgvnf25jFnlxFH,wm_146,10,5,0,w_m,white,male,5,4,6,4,1,1,2,3,68,1,5,I learn more by chatting with dissimilar people.
+9/27/21 9:06,9/27/21 9:12,R_3m2bmWFImgUMJmm,wm_147,10,5,0,w_m,white,male,7,7,7,7,1,1,7,7,47,1,5,Thank you for the opportunity to participate in your study!
+9/27/21 9:18,9/27/21 9:22,R_3huyuvp3CFJYgtc,wm_148,10,5,0,w_m,white,male,5,4,4,4,1,2,4,2,27,1,5,NO
+9/27/21 9:12,9/27/21 9:23,R_1I6sqNeTKiljCc1,wm_149,10,5,0,w_m,white,male,6,5,6,6,2,1,5,4,37,1,5,no
+9/27/21 9:24,9/27/21 9:30,R_3nSlRwVh6yQS1Eu,wm_150,10,5,0,w_m,white,male,1,1,1,1,2,2,1,2,57,1,5,none
+9/27/21 9:33,9/27/21 9:35,R_afwM0AxipSDw2TD,wm_151,10,5,0,w_m,white,male,5,5,3,4,1,2,4,3,40,1,5,
+9/27/21 9:54,9/27/21 9:58,R_10oAlZ6I5TSWWTG,wm_152,10,5,0,w_m,white,male,4,4,4,4,2,2,4,4,51,1,5,White of Hispanic origin is not listed as an option.  Just saying.
+9/27/21 9:58,9/27/21 10:04,R_31HhcyO33DXLXTj,wm_153,10,5,0,w_m,white,male,5,5,5,5,1,1,5,5,70,1,5,
+9/27/21 10:05,9/27/21 10:08,R_2VkddHrXVtQZ5DJ,wm_154,10,5,0,w_m,white,male,7,6,5,6,1,1,6,7,41,1,5,
+9/27/21 10:05,9/27/21 10:09,R_1KoMZStWX2u005F,wm_155,10,5,0,w_m,white,male,6,6,6,6,1,1,5,5,67,1,5,
+9/27/21 10:06,9/27/21 10:11,R_3hnmBdbwfok9LUT,wm_156,10,5,0,w_m,white,male,4,3,4,3,1,2,5,3,50,1,5,"I default to assume that others wouldn't be much interested in me, online.
+
+I didn't feel much connection with the young white male avatar; while the black avatar reminded me of an old friend from years ago, that is why I chose him."
+9/27/21 10:10,9/27/21 10:12,R_3p3xjV2kHNlIezX,wm_157,10,5,0,w_m,white,male,3,3,3,3,1,1,3,3,39,1,5,
+9/27/21 10:08,9/27/21 10:13,R_3gNuGXYVh3gp9hn,wm_158,10,5,0,w_m,white,male,5,4,6,4,1,1,4,4,41,1,5,Not really. I hope your survey has a synopsis at the end.
+9/27/21 9:58,9/27/21 10:20,R_3PTEa2r5gUKcJs9,wm_159,10,5,0,w_m,white,male,6,6,7,5,1,1,3,6,38,1,5,excellent survey
+9/27/21 10:26,9/27/21 10:30,R_oXJDkdVjFmoeLaV,wm_160,10,5,0,w_m,white,male,5,3,4,5,1,2,4,3,58,1,5,Thanks and good luck with your research!
+9/27/21 10:25,9/27/21 10:30,R_3KZaB2VgNdcMh4f,wm_161,10,5,0,w_m,white,male,5,5,5,4,1,1,3,5,72,1,5,
+9/27/21 10:34,9/27/21 10:41,R_1HowhjmrePJ80fe,wm_162,10,5,0,w_m,white,male,4,4,4,4,1,1,4,4,62,1,5," After 40+ years working in sales and marketing, I figured out most people are interesting to talk to, and may or may not feel the same way as me. "
+9/27/21 8:03,9/27/21 8:10,R_PBXRLaQEzxs9DUJ,wm_168,12,5,0,w_m,white,male,5,6,4,6,1,1,2,4,29,1,5,NO
+9/27/21 8:23,9/27/21 8:28,R_8CyiS84R6kbLOAV,wm_169,12,5,0,w_m,white,male,4,3,4,3,1,1,4,4,35,1,5,"The ""we are trying to connect you"" gimmick is a bit silly.  It's plainly obvious that there will almost certainly not be a simultaneous survey taker available given the nature of this sort of thing."
+9/27/21 8:19,9/27/21 8:28,R_3L10VCotEpGgHWb,wm_170,12,5,0,w_m,white,male,4,4,4,4,1,1,4,4,55,1,5,no
+9/27/21 8:33,9/27/21 8:36,R_32Lr0WhktdTcow0,wm_171,12,5,0,w_m,white,male,6,4,5,4,1,1,6,5,37,1,5,
+9/27/21 8:37,9/27/21 8:42,R_1rMnECSd3FysrnM,wm_172,12,5,0,w_m,white,male,2,2,2,2,1,1,1,1,44,1,5,No
+9/27/21 8:46,9/27/21 8:52,R_1Kd8z4EBWTgApWS,wm_173,12,5,0,w_m,white,male,5,4,5,3,1,2,5,3,41,1,5,
+9/27/21 9:01,9/27/21 9:08,R_1Lo518UekiMT5vp,wm_174,12,5,0,w_m,white,male,6,6,6,6,1,1,6,6,30,1,5,
+9/27/21 9:03,9/27/21 9:09,R_2VPzszmwP1bPofu,wm_175,12,5,0,w_m,white,male,6,7,6,7,1,1,4,4,49,1,5,I feel that the option for white is condescending and stereotypical. I diminishes me individuality.
+9/27/21 9:08,9/27/21 9:12,R_2c5BBg7LQ55Of70,wm_176,12,5,0,w_m,white,male,4,4,4,4,1,2,3,6,39,1,5,
+9/27/21 9:10,9/27/21 9:15,R_1FQifwyfXTLzTxp,wm_177,12,5,0,w_m,white,male,2,2,2,2,1,1,3,4,44,1,5,Thanks.
+9/27/21 9:25,9/27/21 9:30,R_yVm1QaXCBQi2I81,wm_178,12,5,0,w_m,white,male,5,5,5,5,1,1,3,4,31,1,5,Nothing but my
+9/27/21 9:29,9/27/21 9:32,R_2TRX7zkPCLlCYqy,wm_179,12,5,0,w_m,white,male,6,7,5,5,1,2,4,6,20,1,5,No
+9/27/21 9:33,9/27/21 9:36,R_d551bACDQSCh1MR,wm_180,12,5,0,w_m,white,male,4,3,4,3,1,1,4,4,44,1,5,Need some long haired bois.
+9/27/21 9:35,9/27/21 9:39,R_1HkT1Avs7BaE2f1,wm_181,12,5,0,w_m,white,male,2,2,2,2,2,2,4,4,31,1,5,
+9/27/21 9:38,9/27/21 9:41,R_12bBV0mEjBRGm5O,wm_182,12,5,0,w_m,white,male,5,5,5,6,1,2,3,5,31,1,5,
+9/27/21 9:33,9/27/21 9:46,R_3KQ1p5c7nwN7fbR,wm_183,12,5,0,w_m,white,male,6,6,6,6,1,1,4,5,43,1,5,
+9/27/21 9:52,9/27/21 9:56,R_1DZ6K9VoJ116OWB,wm_184,12,5,0,w_m,white,male,5,4,5,4,1,1,4,5,45,1,5,
+9/27/21 9:53,9/27/21 9:58,R_xxw3hSYacMtREzL,wm_185,12,5,0,w_m,white,male,6,6,7,5,1,1,4,6,22,1,5,I tried to put 24 as my avatar (the very last option.) And it said please pick a value less than or equal to 23.
+9/27/21 9:56,9/27/21 9:59,R_3g5abJPi8tmFnTd,wm_186,12,5,0,w_m,white,male,6,5,5,5,1,1,4,5,35,1,5,I wouldn't like to share anything.
+9/27/21 10:08,9/27/21 10:13,R_1C3o4ms7Om8IbQE,wm_187,12,5,0,w_m,white,male,4,4,4,4,1,1,3,4,21,1,5,"I think it's genuinely interesting that based on nothing but an avatar image, you seem to think I would form any initial judgments on whether I'd like to talk to this person or not. I don't entirely know what you're testing with this survey, but it seems interesting!"
+9/27/21 10:16,9/27/21 10:19,R_2pPHypDmqiB6Nwt,wm_188,12,5,0,w_m,white,male,4,4,4,4,2,2,1,2,18,1,5,None
+9/27/21 10:16,9/27/21 10:20,R_byAyYlTYpSTi5Ff,wm_189,12,5,0,w_m,white,male,7,7,6,7,1,1,7,7,42,1,5,
+9/27/21 10:22,9/27/21 10:25,R_3TMzgpcCajrMsjn,wm_190,12,5,0,w_m,white,male,4,3,4,3,1,1,4,4,29,1,5,
+9/27/21 10:23,9/27/21 10:27,R_1FLnLkaEf66wj7M,wm_191,12,5,0,w_m,white,male,5,4,5,4,1,1,4,4,29,1,5,
+9/27/21 10:38,9/27/21 10:42,R_sSVmfPmJeNczbvX,wm_192,12,5,0,w_m,white,male,4,4,4,4,1,1,4,4,23,1,5,
+9/27/21 10:48,9/27/21 11:09,R_x4v51vswTelApbP,wm_193,12,5,0,w_m,white,male,6,6,6,7,1,1,5,6,45,1,5,yes i like and share. 
+9/27/21 7:52,9/27/21 7:57,R_Qm2daB2UMxowFPj,wm_194,13,5,0,w_m,white,male,3,4,5,4,1,1,4,6,30,1,5,
+9/27/21 8:14,9/27/21 8:17,R_2f3SMXPlwiiMKuB,wm_195,13,5,0,w_m,white,male,5,5,4,4,1,1,4,6,52,1,5,
+9/27/21 8:14,9/27/21 8:20,R_Zz1q1K0hMGOKFIR,wm_196,13,5,0,w_m,white,male,4,2,4,2,1,1,4,4,35,1,5,
+9/27/21 8:18,9/27/21 8:23,R_233TucDGTNDDeoO,wm_197,13,5,0,w_m,white,male,6,4,7,6,1,1,6,5,43,1,5,
+9/27/21 8:35,9/27/21 8:40,R_3MhrJA0xva070wu,wm_198,13,5,0,w_m,white,male,4,4,4,4,1,1,4,4,44,1,5,
+9/27/21 8:38,9/27/21 8:43,R_1gu83TfCgHxhfV1,wm_199,13,5,0,w_m,white,male,7,5,7,5,1,1,6,6,48,1,5,
+9/27/21 8:39,9/27/21 8:43,R_3NwkXCpVdUveXES,wm_200,13,5,0,w_m,white,male,4,3,4,3,1,1,4,4,43,1,5,
+9/27/21 8:45,9/27/21 8:48,R_1GCUw49tpq2szX0,wm_201,13,5,0,w_m,white,male,1,1,1,1,2,2,1,5,31,1,5,the icon selection process is broken. only lets you choose 23 and under but there are 24 icons
+9/27/21 8:53,9/27/21 8:57,R_3IQAPVP5iJuPbYF,wm_202,13,5,0,w_m,white,male,4,4,4,4,1,1,3,3,28,1,5,Nothing note worthy in relation to this study
+9/27/21 9:11,9/27/21 9:15,R_1JCpCV9havLAq04,wm_203,13,5,0,w_m,white,male,6,4,6,5,1,1,4,5,46,1,5,
+9/27/21 9:32,9/27/21 9:35,R_1N9vgyLgiNY41TD,wm_204,13,5,0,w_m,white,male,4,4,5,5,1,1,3,5,26,1,5,
+9/27/21 9:35,9/27/21 9:39,R_1LImLFglTtjP3zi,wm_205,13,5,0,w_m,white,male,2,1,2,1,2,2,1,1,54,1,5,
+9/27/21 9:37,9/27/21 9:42,R_xyCt50AijbyQlWN,wm_206,13,5,0,w_m,white,male,4,4,4,4,1,2,4,4,32,1,5,I believe in conversing with people prior to judging whether I would like to get to know them or associate myself with them.
+9/27/21 9:39,9/27/21 9:43,R_27vc6oDOsUbQFaI,wm_207,13,5,0,w_m,white,male,2,2,2,2,1,2,4,4,32,1,5,
+9/27/21 9:45,9/27/21 9:50,R_tFYZ4lNiP6P4IrD,wm_208,13,5,0,w_m,white,male,3,3,2,2,1,2,2,6,29,1,5,
+9/27/21 9:46,9/27/21 9:50,R_1rx2CYGUZ1hrsZg,wm_209,13,5,0,w_m,white,male,6,6,6,6,1,1,6,6,29,1,5,
+9/27/21 9:49,9/27/21 9:53,R_2Qy76xlFhz1qAV3,wm_210,13,5,0,w_m,white,male,5,3,5,3,1,1,3,5,35,1,5,
+9/27/21 9:49,9/27/21 9:54,R_2DYsdxn69s0AM5F,wm_211,13,5,0,w_m,white,male,3,1,2,1,1,2,2,4,24,1,5,Cool
+9/27/21 9:51,9/27/21 9:55,R_C8pY2gESGMpq40x,wm_212,13,5,0,w_m,white,male,7,6,5,6,1,1,5,7,50,1,5,
+9/27/21 9:52,9/27/21 9:55,R_33lIShusDoc0CSM,wm_213,13,5,0,w_m,white,male,5,7,6,7,1,1,2,6,29,1,5,NOTHING AT ALL
+9/27/21 9:45,9/27/21 9:56,R_2frpdv0fHizRy8H,wm_214,13,5,0,w_m,white,male,4,4,4,4,2,2,3,4,28,1,5,
+9/27/21 9:53,9/27/21 9:58,R_1im0D3mPSTaXzZ1,wm_215,13,5,0,w_m,white,male,3,5,3,4,1,1,1,5,37,1,5,
+9/27/21 10:00,9/27/21 10:04,R_10B4i17qBqSfwwY,wm_216,13,5,0,w_m,white,male,7,6,6,6,1,1,6,5,37,1,5,
+9/27/21 10:01,9/27/21 10:05,R_2XicGbGy9UUSLJT,wm_217,13,5,0,w_m,white,male,1,1,1,1,1,2,1,7,47,1,5,
+9/27/21 10:02,9/27/21 10:07,R_PusnzjYj3N8SzZL,wm_218,13,5,0,w_m,white,male,2,1,1,1,1,2,4,4,45,1,5,
+9/27/21 10:09,9/27/21 10:14,R_3OcAYBfSLohTaW0,wm_219,13,5,0,w_m,white,male,4,4,4,4,1,1,3,4,45,1,5,
+9/27/21 10:12,9/27/21 10:16,R_27pdHg6MpBXnAfD,wm_220,13,5,0,w_m,white,male,6,3,6,3,1,1,5,7,38,1,5,
+9/27/21 10:14,9/27/21 10:17,R_vNYuwHuHJw6T105,wm_221,13,5,0,w_m,white,male,5,4,5,4,1,1,5,5,19,1,5,Nothing.
+9/27/21 10:43,9/27/21 10:46,R_qzuXOOl10Q9p7r3,wm_222,13,5,0,w_m,white,male,4,4,4,4,1,1,3,5,30,1,5,no
+9/27/21 10:44,9/27/21 10:48,R_1lp2KPZ4TCERj5Y,wm_223,13,5,0,w_m,white,male,6,5,5,5,1,1,4,5,58,1,5,
+9/27/21 10:43,9/27/21 10:48,R_yQrAkFL9aDWrKfL,wm_224,13,5,0,w_m,white,male,2,2,2,2,1,1,4,4,22,1,5,
+9/27/21 10:48,9/27/21 11:08,R_ptRhC9TlAQdy9Hz,wm_225,13,5,0,w_m,white,male,6,7,7,7,1,1,6,6,48,1,5,yes
+9/27/21 10:47,9/27/21 11:10,R_Xp43vKAMvB5CQKZ,wm_226,13,5,0,w_m,white,male,7,6,5,7,1,1,6,5,43,1,5,none
+9/27/21 8:30,9/27/21 8:35,R_XZCswTU9ZZbLAHv,wm_232,16,5,0,w_m,white,male,6,5,6,5,1,1,5,6,41,1,5,none
+9/27/21 8:37,9/27/21 8:45,R_vOY4uYonH90ZFn3,wm_233,16,5,0,w_m,white,male,4,3,6,5,1,1,5,5,45,1,5,No
+9/27/21 8:40,9/27/21 8:46,R_dgSarTHDRPkYDtf,wm_234,16,5,0,w_m,white,male,3,4,3,4,2,2,4,3,73,1,5,I'm not a social person.
+9/27/21 9:26,9/27/21 9:38,R_2E0IdKcqmHTUvCL,wm_235,16,5,0,w_m,white,male,6,5,6,5,1,1,5,5,44,1,5,no
+9/27/21 10:01,9/27/21 10:07,R_w03tu2aktgOkB4B,wm_236,16,5,0,w_m,white,male,7,4,7,4,1,1,4,5,49,1,5,
+9/27/21 10:25,9/27/21 10:29,R_1QtoTa6ekjPrKLp,wm_237,16,5,0,w_m,white,male,3,3,3,3,1,2,4,4,66,1,5,
+9/27/21 9:12,9/27/21 9:19,R_Z4cRf3Ig6C6esud,wm_239,17,5,0,w_m,white,male,5,7,7,7,2,1,2,7,41,1,4,N/A
+9/27/21 8:02,9/27/21 8:10,R_D0RzUdrn3l4b1Rf,wm_240,17,5,0,w_m,white,male,1,3,6,6,1,1,5,7,49,1,5,
+9/27/21 10:17,9/27/21 10:20,R_BKWV3apnRn30g0x,wm_241,17,5,0,w_m,white,male,4,4,4,4,1,2,4,4,47,1,5,
+9/27/21 10:07,9/27/21 10:20,R_1luemV4lR4KOLL9,wm_242,17,5,0,w_m,white,male,7,6,7,6,1,1,6,7,45,1,5,No
+9/27/21 10:17,9/27/21 10:23,R_VLqJDWba980E21H,wm_243,18,5,0,w_m,white,male,7,4,4,3,1,1,6,6,48,1,5,No
+9/27/21 8:49,9/27/21 8:53,R_271ihWQMwf3TnoR,wm_244,19,5,0,w_m,white,male,5,4,5,4,1,1,4,5,51,1,5,
+9/27/21 9:21,9/27/21 9:25,R_3JfHDRgifVyILxp,wm_245,19,5,0,w_m,white,male,3,3,6,6,1,2,3,5,44,1,5,No
+9/27/21 10:16,9/27/21 10:21,R_2wnmBPWi0smmy7Y,wm_246,19,5,0,w_m,white,male,3,3,4,2,1,1,4,4,51,1,5,No
+9/27/21 7:43,9/27/21 7:47,R_3qjlVDD8T7I2CKF,wm_247,20,5,0,w_m,white,male,4,4,3,2,1,2,2,7,36,1,5,
+9/27/21 7:59,9/27/21 8:04,R_23VsTzbdXFHlGlQ,wm_248,20,5,0,w_m,white,male,6,5,4,4,1,1,5,6,57,1,5,
+9/27/21 8:02,9/27/21 8:09,R_2YWki0uavsQZ6JO,wm_249,20,5,0,w_m,white,male,5,5,5,5,1,1,3,4,42,1,5,
+9/27/21 8:02,9/27/21 8:09,R_1ewVnE4jMHgBjQB,wm_250,20,5,0,w_m,white,male,5,3,7,7,2,1,3,6,46,1,5,
+9/27/21 8:28,9/27/21 8:31,R_2wdboaJUtzX6335,wm_251,20,5,0,w_m,white,male,6,5,5,6,1,1,6,4,33,1,5,
+9/27/21 7:59,9/27/21 8:35,R_1EaqiunhQacYNc4,wm_252,20,5,0,w_m,white,male,4,4,4,4,1,1,4,4,35,1,5,
+9/27/21 8:34,9/27/21 8:44,R_ZL7WO4DIFuygm41,wm_253,20,5,0,w_m,white,male,3,4,6,5,2,1,2,5,30,1,5,None
+9/27/21 8:49,9/27/21 8:53,R_24ug832HNdumjuW,wm_254,20,5,0,w_m,white,male,4,4,4,4,1,1,4,4,44,1,5,
+9/27/21 8:51,9/27/21 8:54,R_2S7ZZGhR6NF1561,wm_255,20,5,0,w_m,white,male,5,5,4,4,1,2,2,6,43,1,5,No
+9/27/21 9:10,9/27/21 9:13,R_1LHcYAcPeX7nTDy,wm_256,20,5,0,w_m,white,male,6,5,6,4,1,1,6,5,28,1,5,
+9/27/21 9:10,9/27/21 9:14,R_10UXfz2b5PAyDjz,wm_257,20,5,0,w_m,white,male,3,2,2,2,1,2,2,5,45,1,5,
+9/27/21 9:36,9/27/21 9:39,R_3HPpewmfTxJBemt,wm_258,20,5,0,w_m,white,male,6,4,5,4,1,1,3,6,21,1,5,
+9/27/21 9:34,9/27/21 9:43,R_dmrLC6goVDJOHFT,wm_259,20,5,0,w_m,white,male,5,4,6,6,2,1,5,7,35,1,5,
+9/27/21 9:42,9/27/21 9:45,R_3syypDcIFVmMlzr,wm_260,20,5,0,w_m,white,male,5,5,5,5,1,1,5,5,43,1,5,Have a fantastic day!
+9/27/21 9:45,9/27/21 9:48,R_ag9R15AveycweQx,wm_261,20,5,0,w_m,white,male,6,4,5,4,1,2,3,4,19,1,5,
+9/27/21 9:48,9/27/21 9:52,R_3CVIEdWUFRXbKmL,wm_262,20,5,0,w_m,white,male,7,5,5,5,1,2,6,7,28,1,5,
+9/27/21 9:54,9/27/21 9:58,R_xls9DygT41F2VI5,wm_263,20,5,0,w_m,white,male,4,2,4,2,1,1,2,4,47,1,5,
+9/27/21 10:12,9/27/21 10:16,R_AHCZrJ28jNrBLzj,wm_264,20,5,0,w_m,white,male,5,4,5,5,1,1,4,5,39,1,5,
+9/27/21 10:17,9/27/21 10:23,R_3pbepooBHgBSDZq,wm_265,20,5,0,w_m,white,male,6,5,5,6,1,1,5,5,43,1,5,No
+9/27/21 10:21,9/27/21 10:31,R_3stzt4deaM7GYwB,wm_266,20,5,0,w_m,white,male,6,7,7,6,1,1,2,6,31,1,5,No
+9/27/21 10:34,9/27/21 10:38,R_1Hc2uZpShpFCAVb,wm_267,20,5,0,w_m,white,male,5,4,4,4,1,2,3,5,33,1,5,No
+9/27/21 10:39,9/27/21 10:45,R_3JCcWyEX3wxF4R3,wm_268,20,5,0,w_m,white,male,6,6,6,6,1,1,3,7,52,1,5,
+9/27/21 10:42,9/27/21 10:47,R_2a8ExcPQO1IaMSI,wm_269,20,5,0,w_m,white,male,7,4,7,4,1,1,3,4,42,1,5,
+9/27/21 10:41,9/27/21 10:47,R_2QgjWuCsKnDjCAx,wm_270,20,5,0,w_m,white,male,6,6,7,7,1,1,4,5,29,1,5,
+9/27/21 10:40,9/27/21 10:55,R_3hDAda3x3KNvQTL,wm_271,20,5,0,w_m,white,male,7,6,6,6,1,1,6,6,27,1,5,Nothing.
+9/27/21 10:43,9/27/21 11:01,R_1r3sG9m7zFSzqrr,wm_272,20,5,0,w_m,white,male,7,7,7,7,1,1,5,7,46,1,5,
+9/27/21 10:48,9/27/21 11:08,R_3iJ74v9RQePI2Kc,wm_273,20,5,0,w_m,white,male,7,5,7,5,1,1,7,6,48,1,5,none
+9/27/21 11:07,9/27/21 11:12,R_VVWIWoi4UCvKO7T,wm_274,20,5,0,w_m,white,male,6,7,6,5,1,1,7,5,47,1,5,
+9/27/21 8:05,9/27/21 8:12,R_W7ijKX6OciTnZBf,wm_275,20.24,5,0,w_m,white,male,5,5,6,5,1,1,5,5,29,1,5,nice
+9/27/21 8:02,9/27/21 8:09,R_115VMDpI3kcUgSr,wm_280,22,5,0,w_m,white,male,6,7,6,7,2,1,4,6,43,1,5,
+9/27/21 8:12,9/27/21 8:20,R_1gOreQSuQwQJLfK,wm_281,22,5,0,w_m,white,male,5,5,6,7,1,1,4,5,41,1,5,No
+9/27/21 8:15,9/27/21 8:25,R_24CwlgaJ0vyv05J,wm_282,22,5,0,w_m,white,male,6,5,7,7,1,1,6,6,50,1,5,
+9/27/21 8:21,9/27/21 8:32,R_28Av0PXYkI31SMj,wm_283,22,5,0,w_m,white,male,6,6,7,7,1,1,6,7,48,1,5,
+9/27/21 8:32,9/27/21 8:35,R_10PcSEH9x3ZnC6y,wm_284,22,5,0,w_m,white,male,3,3,3,3,1,2,3,3,37,1,5,
+9/27/21 8:54,9/27/21 9:01,R_25SGmxj2p4SEI8C,wm_285,22,5,0,w_m,white,male,4,3,4,3,1,2,3,3,30,1,5,
+9/27/21 9:14,9/27/21 9:18,R_z8p87ONAFAdOOf7,wm_286,22,5,0,w_m,white,male,5,5,5,5,1,1,4,5,20,1,5,
+9/27/21 9:17,9/27/21 9:27,R_0MybCQ50LZCCBzj,wm_287,22,5,0,w_m,white,male,5,5,5,5,2,1,3,5,40,1,5,NA
+9/27/21 9:47,9/27/21 10:00,R_2yfGJxUYbxbfXwX,wm_288,22,5,0,w_m,white,male,6,7,7,6,1,1,7,7,51,1,5,
+9/27/21 10:07,9/27/21 10:13,R_3dXnmdhQRyoWkgO,wm_289,22,5,0,w_m,white,male,7,7,7,6,1,1,6,6,46,1,5,
+9/27/21 10:07,9/27/21 10:16,R_w03PkSyJx8cI60V,wm_290,22,5,0,w_m,white,male,6,6,6,7,1,1,6,5,41,1,5,
+9/27/21 10:07,9/27/21 10:17,R_4MfExZ29dsMAiBj,wm_291,22,5,0,w_m,white,male,5,6,6,7,2,2,6,7,45,1,5,
+9/27/21 10:07,9/27/21 10:18,R_2zeTEA2khqJyXmi,wm_292,22,5,0,w_m,white,male,6,7,7,6,1,2,6,7,43,1,5,
+9/27/21 10:14,9/27/21 10:19,R_1Ns8Fe22UMudIA9,wm_293,22,5,0,w_m,white,male,6,6,6,6,1,1,6,6,40,1,5,
+9/27/21 10:12,9/27/21 10:22,R_4PjLyqjntKmOrhn,wm_294,22,5,0,w_m,white,male,5,4,4,5,1,1,5,5,30,1,5,
+9/27/21 10:13,9/27/21 10:27,R_dcbkZreLYcZ3QAN,wm_295,22,5,0,w_m,white,male,7,6,7,6,2,1,6,7,40,1,5,It is an nice study.
+9/27/21 10:27,9/27/21 10:36,R_295GBeu6sfiDDJk,wm_296,22,5,0,w_m,white,male,5,6,7,7,1,1,5,7,50,1,5,No
+9/27/21 10:44,9/27/21 11:01,R_AjGCqJhB5P8nSCZ,wm_297,22,5,0,w_m,white,male,7,7,7,7,1,1,6,7,43,1,5,
+9/27/21 10:48,9/27/21 11:09,R_2e5atd8kr13Ym6Z,wm_298,22,5,0,w_m,white,male,6,6,6,6,1,1,7,6,46,1,5,none
+9/27/21 10:48,9/27/21 11:09,R_22u0z045DAGQijC,wm_299,22,5,0,w_m,white,male,7,6,6,6,1,1,6,5,47,1,5,"yes, i like"
+9/27/21 8:34,9/27/21 8:38,R_1fj8ExRSLPsRm8o,wm_301,23,5,0,w_m,white,male,1,1,1,1,2,2,1,7,30,1,5,"your numbering scheme for selecting an avatar is wrong. i suspect the numbering in the system starts at zero instead of one, because when i tried to choose one that looked like me (24), it said i needed to enter a number of 23 or under."
+9/27/21 8:37,9/27/21 8:46,R_3fDYREoSw2qZB5i,wm_302,23,5,0,w_m,white,male,1,6,7,7,2,1,1,5,22,1,5,No
+9/27/21 9:43,9/27/21 9:52,R_xrWBfuHnmYfJNzH,wm_303,23,5,0,w_m,white,male,6,7,5,4,1,1,6,4,39,1,5,nil
+9/27/21 10:27,9/27/21 10:32,R_wS3ignlG85C8m2t,wm_304,23,5,0,w_m,white,male,5,5,5,5,1,1,5,5,40,1,5,No
+9/27/21 10:40,9/27/21 10:46,R_UhVI4ohbybMxE0V,wm_305,23,5,0,w_m,white,male,4,4,4,4,1,1,4,4,57,1,5,I am not really sure what just happened here. I guess we were just tested to see how we felt about speaking to others?
+9/27/21 10:58,9/27/21 11:01,R_2UWROfGVteNNMbE,wf_1,11,5,2,w_f,white,female,4,4,4,4,1,2,6,2,32,2,1,
+9/27/21 9:48,9/27/21 9:52,R_2sXWD00OvZ3L71y,wf_2,4,5,2,w_f,white,female,4,4,4,4,1,1,4,4,43,2,2,
+9/27/21 7:58,9/27/21 8:03,R_u7XnOkSggBeCAjT,wf_3,6,5,2,w_f,white,female,2,1,3,1,1,1,2,5,22,2,2,Nope
+9/27/21 9:22,9/27/21 9:27,R_2fAS9mxTyNCUJtP,wf_4,6,5,2,w_f,white,female,7,4,5,5,1,1,5,5,24,2,2,"I am a white latina, and while I acknowledge my privilege, I can still feel the discrimination my family encounters for being Mexican as their skin is not as white complected. "
+9/27/21 10:46,9/27/21 10:49,R_3rV4parszobOci9,wf_5,6,5,2,w_f,white,female,5,1,4,1,1,1,4,5,28,2,2,
+9/27/21 9:29,9/27/21 9:33,R_42sWKwcm8hC0tEd,wf_6,6,5,2,w_f,white,female,4,3,4,3,1,1,4,4,25,2,2,
+9/27/21 9:32,9/27/21 9:36,R_1BPmy8zafXlApNe,wf_7,6,5,2,w_f,white,female,4,4,4,4,1,1,4,4,22,2,2,
+9/27/21 9:48,9/27/21 9:52,R_3QSoiQ8vdcTBaBy,wf_8,6,5,2,w_f,white,female,6,5,6,5,1,1,4,4,34,2,2,
+9/27/21 10:28,9/27/21 10:33,R_RayjymkoOJoOP7z,wf_9,6,5,2,w_f,white,female,4,4,4,4,1,1,4,3,28,2,2,
+9/27/21 8:24,9/27/21 8:29,R_tWB4lYgUqs8V5jb,wf_10,6,5,2,w_f,white,female,4,3,4,3,2,1,4,2,22,2,2,no.
+9/27/21 9:13,9/27/21 9:19,R_2pMsNT1TmtjC8e5,wf_11,6,5,2,w_f,white,female,2,1,2,1,1,1,2,1,43,2,2,
+9/27/21 9:35,9/27/21 9:41,R_bsJE1PhmVKiobGV,wf_12,9,5,2,w_f,white,female,3,3,3,3,1,2,2,4,20,2,2,
+9/27/21 9:16,9/27/21 9:19,R_2CrMpWYRTDBOXII,wf_13,9,5,2,w_f,white,female,4,5,3,4,1,1,6,3,18,2,2,
+9/27/21 10:30,9/27/21 10:33,R_56yu8Sb4wMQkrCN,wf_14,9,5,2,w_f,white,female,7,7,7,7,1,1,5,3,19,2,2,
+9/27/21 10:34,9/27/21 10:37,R_23WAHlnAFN4RUSs,wf_235,10,5,1,w_f,white,female,3,3,3,3,1,1,2,2,20,2,5,
+9/27/21 9:40,9/27/21 9:44,R_2fHCI6vc5nbKPnk,wf_236,11,5,1,w_f,white,female,5,3,5,3,1,1,4,3,21,2,5,No thanks.
+9/27/21 10:00,9/27/21 10:24,R_1NfVMzwtl5R79Xp,wf_254,15,5,1,w_f,white,female,4,5,5,5,1,2,3,3,26,2,5,"Not actually.
+"
+9/27/21 8:43,9/27/21 8:46,R_2dKHFrkDaIwtyxB,wf_279,21,5,1,w_f,white,female,5,5,4,3,1,1,5,4,48,2,5,
+9/27/21 10:32,9/27/21 10:36,R_2ykppXYJimAXNEn,wf_15,1,5,0,w_f,white,female,5,6,5,7,2,1,5,5,20,2,5,
+9/27/21 9:16,9/27/21 9:20,R_2ql7WrULHu4WMDh,wf_16,2,5,0,w_f,white,female,6,2,5,3,1,1,2,6,54,2,5,
+9/27/21 8:03,9/27/21 8:08,R_4OXJAMF2ovc0Ekp,wf_17,2,5,0,w_f,white,female,4,4,4,4,1,1,3,5,34,2,5,
+9/27/21 8:26,9/27/21 8:37,R_eanxoBQMvq7aSkx,wf_18,2,5,0,w_f,white,female,7,6,7,6,1,1,5,5,49,2,5,
+9/27/21 9:11,9/27/21 9:17,R_3iI0uEQk5HKs5lF,wf_19,2,5,0,w_f,white,female,4,4,3,3,1,2,4,5,27,2,5,
+9/27/21 10:59,9/27/21 11:10,R_SP0pP2lqXerytTb,wf_20,2,5,0,w_f,white,female,4,4,4,4,1,1,3,5,46,2,5,You don‚Äôt leave enough time to fully read the instructions in the places where moving on to the next page is not controlled by the subject.
+9/27/21 10:28,9/27/21 10:32,R_2WH9yh4wNfoTufa,wf_21,2,5,0,w_f,white,female,4,4,4,4,1,1,4,4,22,2,5,
+9/27/21 10:36,9/27/21 10:41,R_1dgciVLKOganr44,wf_22,2,5,0,w_f,white,female,3,3,3,3,1,2,3,4,44,2,5,
+9/27/21 10:24,9/27/21 10:28,R_2t9ARbNwcDIQpIF,wf_23,2,5,0,w_f,white,female,3,4,2,3,1,2,3,3,25,2,5,nope
+9/27/21 8:22,9/27/21 8:25,R_vvJoccT7VaTehvH,wf_24,4,5,0,w_f,white,female,2,1,2,1,1,1,2,7,20,2,5,no thank you!
+9/27/21 8:35,9/27/21 8:39,R_3QWrm8Eq9YLEMUw,wf_25,4,5,0,w_f,white,female,7,7,7,7,1,1,4,7,22,2,5,
+9/27/21 9:36,9/27/21 9:39,R_RkSU44wrh2m88jn,wf_26,4,5,0,w_f,white,female,4,4,4,4,1,1,5,7,27,2,5,
+9/27/21 9:50,9/27/21 10:01,R_2qy3pOrKftILIWn,wf_27,4,5,0,w_f,white,female,7,7,7,7,1,1,7,7,56,2,5,
+9/27/21 10:40,9/27/21 10:43,R_1gM9H9Lolk6HAvU,wf_28,4,5,0,w_f,white,female,5,4,5,4,1,1,6,7,53,2,5,Thank you for this opportunity to participate!
+9/27/21 8:31,9/27/21 8:37,R_3q9YFV8dzKEBa7T,wf_29,4,5,0,w_f,white,female,4,4,4,4,1,1,2,6,50,2,5,
+9/27/21 8:59,9/27/21 9:03,R_1NxEPqoKXrLvvbg,wf_30,4,5,0,w_f,white,female,6,5,6,6,1,1,5,6,24,2,5,
+9/27/21 9:16,9/27/21 9:19,R_a94xCpEKUyPYooN,wf_31,4,5,0,w_f,white,female,7,5,7,7,1,2,4,6,20,2,5,
+9/27/21 9:20,9/27/21 9:27,R_2PzJntPbVMxkiZ5,wf_32,4,5,0,w_f,white,female,7,6,7,6,1,2,5,6,35,2,5,"I chose the person who's avatar depicted a different race because I am really interested in learning perspectives of those who may live their lives differently than I do.  Though race is not always an indication of living a different life, I can assume they have at least a few different experiences with the country we live in because of it. "
+9/27/21 9:26,9/27/21 9:30,R_wT98De83TLZhHWh,wf_33,4,5,0,w_f,white,female,4,4,4,4,1,1,5,6,25,2,5,
+9/27/21 9:14,9/27/21 9:30,R_3lXEw5S5GFXxsa9,wf_34,4,5,0,w_f,white,female,4,4,4,4,1,1,6,6,40,2,5,"I chose to talk to both women because, as a woman who has lived through 10 years of domestic violence and abuse, I feel more comfortable speaking to women than I am to men. I feel that information is pertinent for you to know as researchers because it is not a standard question asked regarding the demographics of study participants. "
+9/27/21 9:38,9/27/21 9:43,R_2zHEojYRalDETuf,wf_35,4,5,0,w_f,white,female,5,4,4,4,1,1,3,6,59,2,5,"I'm usually more interested in talking with someone more different than me, to learn things outside my usual perspective. I generally assume people who look like me have much of the same life experience as I do. "
+9/27/21 9:43,9/27/21 9:46,R_3nTXULlimcL4p3b,wf_36,4,5,0,w_f,white,female,7,4,7,4,1,1,5,6,29,2,5,
+9/27/21 10:10,9/27/21 10:14,R_vI7k9nTSWFpdmaB,wf_37,4,5,0,w_f,white,female,5,4,4,4,1,1,4,6,27,2,5,
+9/27/21 10:19,9/27/21 10:23,R_23W8YZj687lWffw,wf_38,4,5,0,w_f,white,female,5,5,6,6,1,1,3,6,38,2,5,
+9/27/21 10:20,9/27/21 10:24,R_21pPW4a18oD7Qd1,wf_39,4,5,0,w_f,white,female,6,4,5,4,1,1,2,6,20,2,5,
+9/27/21 10:24,9/27/21 10:29,R_1GxdsOfyufpfVCW,wf_40,4,5,0,w_f,white,female,5,4,4,4,1,1,3,6,34,2,5,
+9/27/21 10:29,9/27/21 10:36,R_1pzI3JBnOfNnCaG,wf_41,4,5,0,w_f,white,female,5,5,6,6,1,2,5,6,52,2,5,I enjoyed this study
+9/27/21 10:46,9/27/21 10:51,R_3fouzG8VAZfej3n,wf_42,4,5,0,w_f,white,female,4,4,4,4,1,1,2,6,18,2,5,
+9/27/21 10:48,9/27/21 10:52,R_2XmMby33pho8CKr,wf_43,4,5,0,w_f,white,female,7,5,7,6,1,1,5,6,26,2,5,
+9/27/21 10:51,9/27/21 10:55,R_3PS2D02oitaQB0G,wf_44,4,5,0,w_f,white,female,2,2,2,2,1,1,5,6,20,2,5,
+9/27/21 8:04,9/27/21 8:08,R_3EcWn66u8YwfBTb,wf_45,4,5,0,w_f,white,female,5,3,3,3,1,2,2,5,,2,5,
+9/27/21 8:16,9/27/21 8:20,R_3e7UFyshXbiuHxu,wf_46,4,5,0,w_f,white,female,6,4,4,4,1,2,4,5,55,2,5,most interesting  one ive done today. thanks
+9/27/21 8:26,9/27/21 8:30,R_2dzmm38IRaHGuQS,wf_47,4,5,0,w_f,white,female,7,5,7,5,1,2,4,5,47,2,5,
+9/27/21 8:33,9/27/21 8:35,R_3gLzb6hkGMfZzPw,wf_48,4,5,0,w_f,white,female,6,4,5,4,1,2,4,5,22,2,5,
+9/27/21 9:23,9/27/21 9:27,R_2wiZuhcqaMgUulD,wf_49,4,5,0,w_f,white,female,6,4,6,4,1,2,4,5,45,2,5,
+9/27/21 9:49,9/27/21 9:54,R_2aXIrwNDizefNgZ,wf_50,4,5,0,w_f,white,female,5,3,5,3,1,1,3,5,28,2,5,
+9/27/21 10:18,9/27/21 10:24,R_2dXsNjZxOMBkUjG,wf_51,4,5,0,w_f,white,female,5,4,5,4,1,1,4,5,44,2,5,
+9/27/21 10:22,9/27/21 10:25,R_WAJUNJuFzj9PMo9,wf_52,4,5,0,w_f,white,female,5,5,5,5,1,1,4,5,21,2,5,
+9/27/21 10:30,9/27/21 10:32,R_1JX8YipGIhJM4Rl,wf_53,4,5,0,w_f,white,female,5,5,5,5,1,2,3,5,28,2,5,
+9/27/21 10:38,9/27/21 10:41,R_1gbA84yBtRYB9j7,wf_54,4,5,0,w_f,white,female,5,5,5,5,1,1,3,5,19,2,5,
+9/27/21 10:44,9/27/21 10:47,R_3JCNSZciO9D1Hwo,wf_55,4,5,0,w_f,white,female,4,3,3,3,1,1,4,5,21,2,5,
+9/27/21 10:46,9/27/21 10:51,R_2zD4vz70M80qmAR,wf_56,4,5,0,w_f,white,female,7,7,7,7,1,1,5,5,53,2,5,
+9/27/21 10:49,9/27/21 10:54,R_429WN963Yg7G5A5,wf_57,4,5,0,w_f,white,female,4,3,4,2,1,1,3,5,25,2,5,
+9/27/21 10:48,9/27/21 10:54,R_3kwgF39o2jb3rvG,wf_58,4,5,0,w_f,white,female,4,4,3,3,1,2,4,5,26,2,5,
+9/27/21 10:56,9/27/21 10:59,R_so5tGqXj6DQVcnn,wf_59,4,5,0,w_f,white,female,4,4,4,4,1,1,3,5,22,2,5,
+9/27/21 11:03,9/27/21 11:07,R_2TZUYu2NHnrMI3N,wf_60,4,5,0,w_f,white,female,4,4,3,4,1,2,4,5,21,2,5,
+9/27/21 8:22,9/27/21 8:27,R_1mPIxJEJrPFlpzh,wf_61,4,5,0,w_f,white,female,4,4,4,4,1,1,4,4,28,2,5,
+9/27/21 9:14,9/27/21 9:21,R_1pn6IWQYDJnEcLv,wf_62,4,5,0,w_f,white,female,5,3,5,3,1,1,3,4,32,2,5,
+9/27/21 9:49,9/27/21 9:54,R_BVCO0g4KlJ0XB4t,wf_63,4,5,0,w_f,white,female,5,5,5,5,1,1,4,4,44,2,5,
+9/27/21 10:10,9/27/21 10:15,R_6R1Cz2Uiy59VLoZ,wf_64,4,5,0,w_f,white,female,5,3,5,3,1,2,4,4,19,2,5,
+9/27/21 10:35,9/27/21 10:38,R_2UVF50Z7LNQsCVY,wf_65,4,5,0,w_f,white,female,3,3,3,3,1,1,3,4,38,2,5,
+9/27/21 8:09,9/27/21 8:12,R_W0ZC3gvrsdm2vQJ,wf_66,4,5,0,w_f,white,female,3,3,3,3,1,1,3,3,29,2,5,
+9/27/21 9:47,9/27/21 9:51,R_3qPefDfC5mZ9f2V,wf_67,4,5,0,w_f,white,female,6,5,3,4,1,2,4,3,33,2,5,
+9/27/21 9:52,9/27/21 9:55,R_1o5quY3gkQl74Wb,wf_68,4,5,0,w_f,white,female,2,2,2,2,1,1,2,3,33,2,5,I think it would be easier to select the avatars without the watermark/logo in the background.
+9/27/21 11:04,9/27/21 11:06,R_095AtTihgCcsFG1,wf_69,4,5,0,w_f,white,female,3,2,2,2,1,1,3,3,23,2,5,
+9/27/21 7:40,9/27/21 7:44,R_2dFQaKIzMtYMG3k,wf_70,6,5,0,w_f,white,female,7,7,7,7,1,1,7,7,35,2,5,
+9/27/21 8:04,9/27/21 8:07,R_1BS2c6QDEhfOl5X,wf_71,6,5,0,w_f,white,female,1,1,1,1,2,2,7,7,44,2,5,
+9/27/21 8:47,9/27/21 8:52,R_1otcK0rIdfpldDZ,wf_72,6,5,0,w_f,white,female,1,1,1,1,2,2,7,7,48,2,5,I kind of regret not talking to people. I guess it would have been more interesting. 
+9/27/21 9:27,9/27/21 9:31,R_2CpkiXQQ6a7k6fm,wf_73,6,5,0,w_f,white,female,4,4,4,3,1,1,6,7,42,2,5,
+9/27/21 9:43,9/27/21 9:46,R_1OK8TXlrIgdPph9,wf_74,6,5,0,w_f,white,female,7,7,4,4,1,1,5,7,37,2,5,Bope
+9/27/21 10:05,9/27/21 10:08,R_3ELUmktKYuDrZjM,wf_75,6,5,0,w_f,white,female,7,3,5,3,1,2,5,7,27,2,5,
+9/27/21 10:01,9/27/21 10:10,R_2XjKZ4gK2iePdfD,wf_76,6,5,0,w_f,white,female,4,1,4,1,1,1,7,7,41,2,5,"It was nothing personal in my answers, I just don't really like talking to people I don't know and I wasn't aware I might have been asked to. I felt I had a lot in common or could relate with the others because we are all human. 
+"
+9/27/21 10:44,9/27/21 10:47,R_22WxP11zAn8s61F,wf_77,6,5,0,w_f,white,female,5,5,6,5,1,1,7,7,34,2,5,
+9/27/21 10:58,9/27/21 11:01,R_dnIOLGSfxDyp3Sp,wf_78,6,5,0,w_f,white,female,7,6,7,6,1,1,7,7,35,2,5,
+9/27/21 7:39,9/27/21 7:44,R_3h5wN6ZdSnWGXbs,wf_79,6,5,0,w_f,white,female,6,4,6,4,1,1,6,6,23,2,5,no
+9/27/21 8:11,9/27/21 8:16,R_3EXtXvmnRIRmtW4,wf_80,6,5,0,w_f,white,female,7,4,7,4,1,1,5,6,29,2,5,Nothing. Thank you!
+9/27/21 8:07,9/27/21 8:17,R_0SY1Fcn6HsNpNxD,wf_81,6,5,0,w_f,white,female,4,4,4,4,1,1,5,6,29,2,5,N/A
+9/27/21 8:32,9/27/21 8:36,R_3HjY9H0nHgS6GqW,wf_82,6,5,0,w_f,white,female,7,6,7,6,1,1,6,6,54,2,5,
+9/27/21 8:51,9/27/21 8:55,R_Y05nfkc4kOQJq1P,wf_83,6,5,0,w_f,white,female,7,5,7,5,1,1,6,6,23,2,5,
+9/27/21 8:58,9/27/21 9:00,R_3Iaf8YtPYKHpsaP,wf_84,6,5,0,w_f,white,female,5,3,5,3,2,1,6,6,29,2,5,
+9/27/21 8:58,9/27/21 9:01,R_2TyIAX6dD8TfwoL,wf_85,6,5,0,w_f,white,female,6,5,5,6,1,1,4,6,25,2,5,no
+9/27/21 9:01,9/27/21 9:05,R_24HH5dc6Pbgxh36,wf_86,6,5,0,w_f,white,female,7,7,7,7,1,1,6,6,36,2,5,
+9/27/21 9:01,9/27/21 9:05,R_1oBG4UatFOeEDka,wf_87,6,5,0,w_f,white,female,7,6,7,7,1,1,6,6,32,2,5,
+9/27/21 9:34,9/27/21 9:38,R_2YGoUZB5LfsBSRW,wf_88,6,5,0,w_f,white,female,5,4,5,4,1,1,5,6,32,2,5,
+9/27/21 9:38,9/27/21 9:42,R_3JsykgK10t0Ri25,wf_89,6,5,0,w_f,white,female,4,2,4,2,1,1,6,6,45,2,5,
+9/27/21 9:46,9/27/21 9:51,R_1hKESgmSGXm5ZnQ,wf_90,6,5,0,w_f,white,female,4,4,4,4,1,1,5,6,25,2,5,no I dont think so
+9/27/21 9:48,9/27/21 9:52,R_2xwP2ZPi6DydpWx,wf_91,6,5,0,w_f,white,female,5,4,5,4,1,1,4,6,42,2,5,
+9/27/21 9:54,9/27/21 9:57,R_3HvKtvQZVHTlTYY,wf_92,6,5,0,w_f,white,female,6,2,4,4,1,1,3,6,21,2,5,
+9/27/21 9:55,9/27/21 9:59,R_1OOwN1zfgkwYxq9,wf_93,6,5,0,w_f,white,female,4,3,4,3,1,2,3,6,23,2,5,
+9/27/21 9:56,9/27/21 10:00,R_3nwteSw9avkkL8p,wf_94,6,5,0,w_f,white,female,6,4,6,4,1,1,5,6,43,2,5,I really wanted to chat with someone!
+9/27/21 10:01,9/27/21 10:04,R_1NymQXiEz3jCGd5,wf_95,6,5,0,w_f,white,female,5,5,5,5,1,1,6,6,20,2,5,
+9/27/21 10:16,9/27/21 10:18,R_2X6b3VMfFXDAidl,wf_96,6,5,0,w_f,white,female,5,4,5,4,1,1,4,6,22,2,5,
+9/27/21 10:21,9/27/21 10:24,R_2fB6vFsZMJZFyeF,wf_97,6,5,0,w_f,white,female,5,3,4,3,1,1,3,6,24,2,5,None
+9/27/21 10:21,9/27/21 10:25,R_21tQOQEDXZEkeGt,wf_98,6,5,0,w_f,white,female,5,3,5,4,1,1,5,6,21,2,5,
+9/27/21 10:23,9/27/21 10:27,R_2s5cQ2qwqkfNNU3,wf_99,6,5,0,w_f,white,female,5,5,4,4,1,2,3,6,48,2,5,
+9/27/21 10:39,9/27/21 10:41,R_22taYcWjZDwy9Lv,wf_100,6,5,0,w_f,white,female,7,4,7,4,1,1,5,6,38,2,5,
+9/27/21 10:41,9/27/21 10:44,R_2V9qSLTPLYrphO2,wf_101,6,5,0,w_f,white,female,6,4,6,5,1,1,5,6,30,2,5,
+9/27/21 10:45,9/27/21 10:49,R_XBNCSbJtalhQypb,wf_102,6,5,0,w_f,white,female,5,5,5,5,1,1,5,6,20,2,5,
+9/27/21 10:45,9/27/21 10:49,R_2S7hHI7czBLgi7B,wf_103,6,5,0,w_f,white,female,6,5,6,6,2,1,5,6,20,2,5,
+9/27/21 10:51,9/27/21 10:59,R_2xW2H4gXL3mtXWJ,wf_104,6,5,0,w_f,white,female,7,5,7,5,1,1,6,6,28,2,5,
+9/27/21 10:55,9/27/21 11:00,R_e8WcvXHk98HdEGt,wf_105,6,5,0,w_f,white,female,7,4,7,6,1,2,5,6,49,2,5,
+9/27/21 10:57,9/27/21 11:01,R_2QVzXzXmkHjs1iJ,wf_106,6,5,0,w_f,white,female,2,1,2,2,2,2,4,6,18,2,5,
+9/27/21 10:58,9/27/21 11:03,R_1meFvgNlnKKmKGY,wf_107,6,5,0,w_f,white,female,5,3,5,6,2,1,5,6,29,2,5,
+9/27/21 10:58,9/27/21 11:05,R_3kcXMMBzVs3oKu3,wf_108,6,5,0,w_f,white,female,5,2,3,3,2,1,1,6,44,2,5,
+9/27/21 11:03,9/27/21 11:09,R_1ptVzBZ2Z9d0teF,wf_109,6,5,0,w_f,white,female,6,5,6,5,1,1,4,6,21,2,5,
+9/27/21 11:30,9/27/21 11:34,R_2UcuKYtpZKUBuVO,wf_110,6,5,0,w_f,white,female,5,5,5,5,1,1,4,6,26,2,5,
+9/27/21 8:00,9/27/21 8:05,R_2yqKBOSCGyOK1jF,wf_111,6,5,0,w_f,white,female,4,4,4,4,1,1,3,5,39,2,5,
+9/27/21 8:03,9/27/21 8:07,R_3rI3a4AK6ftwcvW,wf_112,6,5,0,w_f,white,female,3,3,3,3,1,1,5,5,37,2,5,
+9/27/21 8:26,9/27/21 8:29,R_1mXaSj6SXSP8Opi,wf_113,6,5,0,w_f,white,female,6,6,5,5,1,1,4,5,22,2,5,
+9/27/21 8:28,9/27/21 8:30,R_2aKPG0yJwpVqlvZ,wf_114,6,5,0,w_f,white,female,4,4,4,4,1,1,5,5,36,2,5,
+9/27/21 8:30,9/27/21 8:33,R_TsZdlVYm28TIGSB,wf_115,6,5,0,w_f,white,female,1,1,1,1,1,2,5,5,27,2,5,
+9/27/21 8:40,9/27/21 8:43,R_33x0gWR3S95H3Xu,wf_116,6,5,0,w_f,white,female,6,4,5,4,1,1,4,5,25,2,5,
+9/27/21 8:41,9/27/21 8:44,R_21A4OB7ghviBP9z,wf_117,6,5,0,w_f,white,female,5,4,5,4,1,1,4,5,23,2,5,
+9/27/21 8:41,9/27/21 8:47,R_cTn1PdPBpzlYlSV,wf_118,6,5,0,w_f,white,female,7,6,7,6,1,2,3,5,34,2,5,
+9/27/21 8:45,9/27/21 8:51,R_1r8lpa2BLU8lj0h,wf_119,6,5,0,w_f,white,female,3,2,3,3,1,1,4,5,31,2,5,I'm introverted
+9/27/21 8:49,9/27/21 8:53,R_2D8gH3RjPH3sICe,wf_120,6,5,0,w_f,white,female,6,3,5,3,1,1,4,5,20,2,5,
+9/27/21 8:56,9/27/21 9:01,R_1do7XgvMPeZ0joK,wf_121,6,5,0,w_f,white,female,6,5,5,5,1,1,4,5,32,2,5,No thank you
+9/27/21 8:57,9/27/21 9:02,R_YQ60r7rkfwUYBPz,wf_122,6,5,0,w_f,white,female,6,4,4,4,1,1,4,5,29,2,5,
+9/27/21 9:02,9/27/21 9:06,R_10IZ8pQYON9R9X9,wf_123,6,5,0,w_f,white,female,5,5,5,5,1,2,3,5,48,2,5,
+9/27/21 9:15,9/27/21 9:19,R_vHmfZq4RkJ2Tvb3,wf_124,6,5,0,w_f,white,female,5,3,4,4,1,2,4,5,22,2,5,
+9/27/21 9:20,9/27/21 9:24,R_31yJjXyAv0hDTyE,wf_125,6,5,0,w_f,white,female,5,3,3,3,1,2,3,5,22,2,5,
+9/27/21 9:24,9/27/21 9:29,R_2TSmM3YwNkNXb8D,wf_126,6,5,0,w_f,white,female,4,4,4,4,1,1,5,5,27,2,5,
+9/27/21 9:29,9/27/21 9:32,R_1hGr7KJlfMkejc8,wf_127,6,5,0,w_f,white,female,5,4,5,4,1,1,4,5,34,2,5,
+9/27/21 9:35,9/27/21 9:39,R_3iX6niQb1aDi3Pz,wf_128,6,5,0,w_f,white,female,3,3,3,3,1,1,5,5,55,2,5,
+9/27/21 9:44,9/27/21 9:48,R_1dcW3YYZoUs7Gpi,wf_129,6,5,0,w_f,white,female,2,2,2,2,2,2,5,5,31,2,5,"Poorly worded survey - I'm not interested in randomly talking to anyone, regardless of race. Maybe if you provided a scenario for the conversation. "
+9/27/21 9:44,9/27/21 9:50,R_szNsI8xhQBesaTn,wf_130,6,5,0,w_f,white,female,6,4,4,4,1,1,5,5,18,2,5,"I was more hesitant to talk to the second lady because the avatar almost had a bit of a ""Karen"" haircut, which is associated with moodiness."
+9/27/21 9:49,9/27/21 9:52,R_33kHhxb15z7P9Ce,wf_131,6,5,0,w_f,white,female,3,2,2,2,1,2,3,5,19,2,5,
+9/27/21 9:48,9/27/21 9:52,R_1gqiaK9YPp21kzk,wf_132,6,5,0,w_f,white,female,3,3,3,3,2,1,3,5,21,2,5,
+9/27/21 9:48,9/27/21 9:54,R_1DSep2W1yertijw,wf_133,6,5,0,w_f,white,female,6,6,6,6,1,1,4,5,47,2,5,
+9/27/21 9:52,9/27/21 10:00,R_3lMOSqmBDLOqSWz,wf_134,6,5,0,w_f,white,female,5,4,5,4,1,1,5,5,27,2,5,
+9/27/21 9:53,9/27/21 10:01,R_2xVRiAb3vpuXA5b,wf_135,6,5,0,w_f,white,female,4,4,4,4,2,1,3,5,51,2,5,I chose to chat with the avatar that looked closest to my age : ) 
+9/27/21 10:01,9/27/21 10:04,R_VWiyB9p1DSeCAzT,wf_136,6,5,0,w_f,white,female,4,4,4,4,1,2,2,5,19,2,5,N/A
+9/27/21 10:14,9/27/21 10:17,R_Q9UZ4pbT3I3EMNz,wf_137,6,5,0,w_f,white,female,4,4,4,4,1,1,5,5,19,2,5,
+9/27/21 10:15,9/27/21 10:20,R_1FyXumCYDhT3LKx,wf_138,6,5,0,w_f,white,female,6,5,6,5,1,1,4,5,28,2,5,
+9/27/21 10:21,9/27/21 10:24,R_3fvaklihTORb5qp,wf_139,6,5,0,w_f,white,female,6,4,6,4,1,1,5,5,19,2,5,N/A
+9/27/21 10:27,9/27/21 10:31,R_3szDJ03D9bTyRDs,wf_140,6,5,0,w_f,white,female,4,4,4,4,1,2,5,5,20,2,5,No
+9/27/21 10:33,9/27/21 10:37,R_27KG7S6C32rH028,wf_141,6,5,0,w_f,white,female,7,5,7,5,1,1,5,5,43,2,5,
+9/27/21 10:37,9/27/21 10:41,R_ahhaBN8sXvXe6Gd,wf_142,6,5,0,w_f,white,female,4,3,4,3,1,1,4,5,20,2,5,
+9/27/21 10:38,9/27/21 10:41,R_3fqjJEGMwewUmmE,wf_143,6,5,0,w_f,white,female,3,3,3,3,1,1,4,5,18,2,5,
+9/27/21 10:37,9/27/21 10:41,R_3ET5MOQjgobKNk0,wf_144,6,5,0,w_f,white,female,3,3,3,4,1,2,4,5,23,2,5,
+9/27/21 10:46,9/27/21 10:49,R_27PhIBO0y9VFC7E,wf_145,6,5,0,w_f,white,female,6,5,6,5,1,1,4,5,27,2,5,
+9/27/21 10:46,9/27/21 10:50,R_2WMhhFP62pnuvDH,wf_146,6,5,0,w_f,white,female,4,3,4,3,1,2,3,5,43,2,5,
+9/27/21 10:50,9/27/21 10:54,R_AuIql4xwsu534sx,wf_147,6,5,0,w_f,white,female,5,5,5,5,1,1,3,5,33,2,5,
+9/27/21 10:52,9/27/21 10:55,R_3MPvG4619oBazZF,wf_148,6,5,0,w_f,white,female,5,4,5,4,1,1,4,5,18,2,5,
+9/27/21 10:53,9/27/21 10:56,R_8HVRrhI7mjqDpoR,wf_149,6,5,0,w_f,white,female,6,3,6,3,1,1,5,5,25,2,5,
+9/27/21 10:54,9/27/21 10:58,R_eYan6umZC7Jw5uF,wf_150,6,5,0,w_f,white,female,2,2,2,2,1,1,1,5,23,2,5,
+9/27/21 11:01,9/27/21 11:05,R_33DP9qWtHypk9f9,wf_151,6,5,0,w_f,white,female,6,5,6,5,1,1,5,5,36,2,5,
+9/27/21 11:04,9/27/21 11:06,R_D1PBLiKhOOSh2jT,wf_152,6,5,0,w_f,white,female,4,4,4,4,1,1,4,5,29,2,5,
+9/27/21 11:03,9/27/21 11:07,R_1qXvDKCXNhD3nWt,wf_153,6,5,0,w_f,white,female,6,5,6,5,1,1,4,5,22,2,5,
+9/27/21 7:59,9/27/21 8:03,R_3OkLGDZfsKNTRsb,wf_154,6,5,0,w_f,white,female,3,3,3,3,1,1,4,4,20,2,5,no
+9/27/21 8:04,9/27/21 8:07,R_1IcJYvAfCdX3dZ7,wf_155,6,5,0,w_f,white,female,3,3,3,3,2,1,2,4,32,2,5,
+9/27/21 8:07,9/27/21 8:11,R_A4dWuLDMGJXqw4V,wf_156,6,5,0,w_f,white,female,4,3,4,3,1,1,4,4,40,2,5,
+9/27/21 8:15,9/27/21 8:19,R_12zf0lIQ0wyfFIC,wf_157,6,5,0,w_f,white,female,3,3,3,3,2,1,3,4,51,2,5,
+9/27/21 8:15,9/27/21 8:19,R_29ulMpNX2wBb9t9,wf_158,6,5,0,w_f,white,female,6,4,5,4,1,1,4,4,27,2,5,
+9/27/21 8:17,9/27/21 8:25,R_erkr183Ld3DpSr7,wf_159,6,5,0,w_f,white,female,6,5,6,5,1,1,3,4,29,2,5,No
+9/27/21 8:19,9/27/21 8:25,R_bj9R0hRH6IyWsxP,wf_160,6,5,0,w_f,white,female,7,6,7,6,1,1,4,4,54,2,5,
+9/27/21 8:22,9/27/21 8:27,R_tEW2RpvKnP2eLM5,wf_161,6,5,0,w_f,white,female,4,4,4,4,1,2,4,4,37,2,5,I did not ever see or hear a convo? I dont think this worked properly for me
+9/27/21 8:23,9/27/21 8:28,R_3MoqpqQqDVYZBHw,wf_162,6,5,0,w_f,white,female,5,3,4,2,1,1,3,4,19,2,5,
+9/27/21 8:41,9/27/21 8:44,R_1ruZ4RYPBq8TmcD,wf_163,6,5,0,w_f,white,female,4,3,4,4,1,2,3,4,21,2,5,
+9/27/21 8:44,9/27/21 8:49,R_12MdkDz9Gt4tNeW,wf_164,6,5,0,w_f,white,female,5,3,5,3,1,1,3,4,55,2,5,no thank you
+9/27/21 8:49,9/27/21 8:52,R_veOZiv1qOhQxoHf,wf_165,6,5,0,w_f,white,female,4,5,4,5,1,1,3,4,19,2,5,
+9/27/21 8:54,9/27/21 8:57,R_3JwqvPJMYStm0lo,wf_166,6,5,0,w_f,white,female,5,5,5,5,1,1,4,4,36,2,5,
+9/27/21 9:15,9/27/21 9:19,R_2CJNwLwzG5EChGI,wf_167,6,5,0,w_f,white,female,5,5,4,5,1,2,2,4,26,2,5,thank you for the opportunity. 
+9/27/21 9:20,9/27/21 9:24,R_PRLqOyMrkOApyhj,wf_168,6,5,0,w_f,white,female,3,3,3,3,1,1,4,4,26,2,5,
+9/27/21 9:21,9/27/21 9:24,R_RLeyduwdYImfaTf,wf_169,6,5,0,w_f,white,female,6,4,5,4,1,1,6,4,22,2,5,
+9/27/21 9:24,9/27/21 9:27,R_z9kusn9ev87bxBv,wf_170,6,5,0,w_f,white,female,4,4,4,4,1,1,4,4,32,2,5,
+9/27/21 9:34,9/27/21 9:37,R_2xQKvpKSZ5oFVL4,wf_171,6,5,0,w_f,white,female,4,3,4,3,1,1,4,4,26,2,5,
+9/27/21 9:38,9/27/21 9:41,R_1LGVpEJJmalHzwm,wf_172,6,5,0,w_f,white,female,4,4,4,4,1,1,4,4,26,2,5,
+9/27/21 9:38,9/27/21 9:43,R_3q7KH6QmLskNuoN,wf_173,6,5,0,w_f,white,female,5,5,5,5,1,1,4,4,21,2,5,
+9/27/21 9:39,9/27/21 9:47,R_U9dyBc4ZWCftvzP,wf_174,6,5,0,w_f,white,female,2,2,2,2,1,1,4,4,21,2,5,
+9/27/21 9:59,9/27/21 10:02,R_3qwFDb6dTUdwBii,wf_175,6,5,0,w_f,white,female,6,4,5,4,1,1,4,4,22,2,5,
+9/27/21 10:01,9/27/21 10:05,R_1kNzMyCSiFa2mln,wf_176,6,5,0,w_f,white,female,4,4,4,3,2,1,3,4,23,2,5,
+9/27/21 10:03,9/27/21 10:06,R_1d4VLauxk2Ahuzn,wf_177,6,5,0,w_f,white,female,4,4,4,4,1,1,4,4,26,2,5,
+9/27/21 10:00,9/27/21 10:07,R_27x0S7hfJkYU3Cm,wf_178,6,5,0,w_f,white,female,4,4,4,4,1,1,4,4,45,2,5,A person's skin color means nothing to me.  What we have in common does.  How we treat each other matters too.
+9/27/21 10:10,9/27/21 10:13,R_UQh6E321CdycpwJ,wf_179,6,5,0,w_f,white,female,3,2,2,2,1,2,3,4,26,2,5,I‚Äôm a librarian 
+9/27/21 10:12,9/27/21 10:15,R_z29vTQUWvHs7h5f,wf_180,6,5,0,w_f,white,female,7,6,7,5,1,2,3,4,33,2,5,
+9/27/21 10:12,9/27/21 10:16,R_1jjlZIn57eeuCMf,wf_181,6,5,0,w_f,white,female,6,4,6,4,1,1,4,4,21,2,5,
+9/27/21 10:21,9/27/21 10:24,R_2D5h9QTNAqbM4kt,wf_182,6,5,0,w_f,white,female,6,3,6,3,1,2,4,4,21,2,5,
+9/27/21 10:28,9/27/21 10:31,R_3gRYBxG48N3mLSj,wf_183,6,5,0,w_f,white,female,5,4,5,4,1,2,5,4,23,2,5,
+9/27/21 10:31,9/27/21 10:36,R_oYTrwuepJEGCubv,wf_184,6,5,0,w_f,white,female,4,3,4,3,1,1,4,4,26,2,5,
+9/27/21 10:35,9/27/21 10:38,R_3qsNzV4pgrTLthK,wf_185,6,5,0,w_f,white,female,4,4,3,4,1,2,4,4,18,2,5,
+9/27/21 10:39,9/27/21 10:43,R_3suj49zhHh7pFcN,wf_186,6,5,0,w_f,white,female,5,4,5,4,1,1,4,4,33,2,5,
+9/27/21 10:39,9/27/21 10:44,R_1rNYpbJb7kdnWfQ,wf_187,6,5,0,w_f,white,female,5,3,5,3,1,2,3,4,18,2,5,
+9/27/21 10:42,9/27/21 10:45,R_ZeCzqz0nGtGEfyV,wf_188,6,5,0,w_f,white,female,5,4,5,4,1,1,4,4,25,2,5,
+9/27/21 10:41,9/27/21 10:45,R_bfnEQQ7AYfgVT9f,wf_189,6,5,0,w_f,white,female,4,3,4,4,1,1,4,4,35,2,5,
+9/27/21 10:43,9/27/21 10:47,R_2xVNQm07IfXjm6q,wf_190,6,5,0,w_f,white,female,5,3,5,4,1,2,3,4,37,2,5,
+9/27/21 10:47,9/27/21 10:52,R_1jCCVs376jCb5q2,wf_191,6,5,0,w_f,white,female,4,3,4,4,1,1,3,4,18,2,5,I would've loved to chat!
+9/27/21 10:51,9/27/21 10:55,R_1DIKxAgeAMwksbs,wf_192,6,5,0,w_f,white,female,6,4,4,4,1,1,5,4,23,2,5,
+9/27/21 10:47,9/27/21 10:57,R_xGlmgUcsmGCUvNT,wf_193,6,5,0,w_f,white,female,4,3,4,5,1,1,3,4,25,2,5,
+9/27/21 10:55,9/27/21 10:58,R_W7rmwzq5XaCuafT,wf_194,6,5,0,w_f,white,female,6,4,5,4,1,1,4,4,19,2,5,n/a
+9/27/21 10:57,9/27/21 11:00,R_2CN7OCiD8wm6JRq,wf_195,6,5,0,w_f,white,female,4,4,4,4,1,1,3,4,21,2,5,
+9/27/21 10:58,9/27/21 11:01,R_swlVoIRX7zkDzB7,wf_196,6,5,0,w_f,white,female,5,4,5,4,1,1,4,4,31,2,5,
+9/27/21 10:56,9/27/21 11:01,R_3mn1DSvJjyWPtMM,wf_197,6,5,0,w_f,white,female,4,4,4,4,1,1,4,4,34,2,5,
+9/27/21 10:58,9/27/21 11:01,R_Ubi61ctjlDueSGt,wf_198,6,5,0,w_f,white,female,5,3,5,3,1,1,4,4,23,2,5,
+9/27/21 11:01,9/27/21 11:03,R_1mJB83Vha4PisxN,wf_199,6,5,0,w_f,white,female,5,4,5,4,2,2,4,4,18,2,5,
+9/27/21 11:01,9/27/21 11:06,R_1rw7eSFrAQjy0s1,wf_200,6,5,0,w_f,white,female,4,4,4,4,1,1,3,4,33,2,5,Nope have a good day
+9/27/21 11:02,9/27/21 11:08,R_31n0gfC5tFtjJ9m,wf_201,6,5,0,w_f,white,female,5,4,5,4,1,1,4,4,22,2,5,
+9/27/21 8:35,9/27/21 8:38,R_RFgAZma1DbTnnTH,wf_202,6,5,0,w_f,white,female,2,2,2,2,1,2,2,3,19,2,5,
+9/27/21 8:37,9/27/21 8:40,R_3HLxYmW3OVUIUWu,wf_203,6,5,0,w_f,white,female,3,3,3,3,2,2,3,3,32,2,5,
+9/27/21 9:13,9/27/21 9:17,R_1GCRbPR4nXjuS6l,wf_204,6,5,0,w_f,white,female,4,4,4,4,1,2,5,3,23,2,5,
+9/27/21 9:41,9/27/21 9:44,R_1PTM7qPCab1PMTu,wf_205,6,5,0,w_f,white,female,4,4,4,4,1,1,4,3,26,2,5,
+9/27/21 9:42,9/27/21 9:46,R_2RQCx8DFh4MXTTW,wf_206,6,5,0,w_f,white,female,5,3,4,3,1,2,4,3,19,2,5,
+9/27/21 9:47,9/27/21 9:51,R_2aEwv62UCXp6KCy,wf_207,6,5,0,w_f,white,female,3,2,3,2,1,2,3,3,35,2,5,
+9/27/21 9:55,9/27/21 9:58,R_1I5ba14ToiOvbky,wf_208,6,5,0,w_f,white,female,6,2,3,2,2,2,3,3,44,2,5,
+9/27/21 9:58,9/27/21 10:01,R_10OxZVDZe5sSFol,wf_209,6,5,0,w_f,white,female,6,4,5,4,1,2,3,3,27,2,5,
+9/27/21 9:58,9/27/21 10:01,R_1jpNpBvJUjGdyJi,wf_210,6,5,0,w_f,white,female,5,5,5,4,1,2,5,3,21,2,5,
+9/27/21 10:01,9/27/21 10:04,R_DoEtgsK2WuvH5x7,wf_211,6,5,0,w_f,white,female,6,4,5,4,1,1,3,3,18,2,5,
+9/27/21 10:05,9/27/21 10:08,R_Tu8ZntcvEev5UgF,wf_212,6,5,0,w_f,white,female,6,6,6,6,1,1,1,3,21,2,5,
+9/27/21 10:10,9/27/21 10:13,R_Uoq5PYJQWFjQ2XL,wf_213,6,5,0,w_f,white,female,4,3,4,3,1,1,5,3,21,2,5,
+9/27/21 10:15,9/27/21 10:20,R_3PdUi3AYCtMXlK5,wf_214,6,5,0,w_f,white,female,4,3,4,3,1,1,3,3,22,2,5,No
+9/27/21 10:17,9/27/21 10:21,R_ZyPkxeHCmmGEkNz,wf_215,6,5,0,w_f,white,female,5,4,3,5,1,2,1,3,25,2,5,"This confused me, but I'm happy to have participated. "
+9/27/21 10:37,9/27/21 10:40,R_zZIM7RdBAIu9SkF,wf_216,6,5,0,w_f,white,female,4,4,3,3,1,1,4,3,45,2,5,
+9/27/21 10:44,9/27/21 10:49,R_2UhBuBGp3Th1k8E,wf_217,6,5,0,w_f,white,female,4,4,3,4,1,1,3,3,36,2,5,
+9/27/21 10:56,9/27/21 10:59,R_1CsBs9B8zBFTGyS,wf_218,6,5,0,w_f,white,female,5,5,5,5,1,1,3,3,33,2,5,
+9/27/21 10:59,9/27/21 11:03,R_12Q1ICH1xZ79L51,wf_219,6,5,0,w_f,white,female,6,4,4,5,1,1,4,3,23,2,5,
+9/27/21 11:00,9/27/21 11:04,R_248KpgP86OA3xOi,wf_220,6,5,0,w_f,white,female,3,3,3,3,1,1,3,3,22,2,5,
+9/27/21 9:49,9/27/21 9:55,R_3iR0JW0w6dtAUks,wf_221,6,5,0,w_f,white,female,6,5,4,5,1,2,3,2,44,2,5,No
+9/27/21 10:00,9/27/21 10:06,R_2zYh0vscUKsABAf,wf_222,6,5,0,w_f,white,female,2,2,2,2,1,1,2,2,36,2,5,
+9/27/21 10:25,9/27/21 10:29,R_3m3ufXNn8sm7MFQ,wf_223,6,5,0,w_f,white,female,4,1,4,1,1,1,2,2,46,2,5,
+9/27/21 10:47,9/27/21 10:49,R_3g7wzWw691FYe9X,wf_224,6,5,0,w_f,white,female,2,1,2,2,2,2,1,2,21,2,5,
+9/27/21 10:53,9/27/21 10:56,R_1oz2bfBDInHb1fx,wf_225,6,5,0,w_f,white,female,4,4,3,4,1,2,3,2,30,2,5,
+9/27/21 8:38,9/27/21 8:42,R_3n7A77Zz8buX7MK,wf_226,6,5,0,w_f,white,female,4,4,2,2,1,1,3,1,25,2,5,
+9/27/21 9:09,9/27/21 9:14,R_31YpG82D5Nox9LO,wf_227,6,5,0,w_f,white,female,5,5,4,4,1,2,1,1,63,2,5,
+9/27/21 10:30,9/27/21 10:33,R_1di5Af1IuFzOA5H,wf_228,6,5,0,w_f,white,female,2,3,2,3,2,2,1,1,19,2,5,
+9/27/21 10:56,9/27/21 10:59,R_3iro1Yb5SFYEbjS,wf_229,6,5,0,w_f,white,female,1,1,1,1,1,1,1,1,33,2,5,
+9/27/21 8:56,9/27/21 9:03,R_3I439PRDm2ooOUF,wf_230,7,5,0,w_f,white,female,5,5,5,5,1,2,4,4,50,2,5,
+9/27/21 10:43,9/27/21 10:48,R_2ZNxDn02CpvY1d4,wf_231,9,5,0,w_f,white,female,7,7,7,7,1,1,5,5,41,2,5,
+9/27/21 10:55,9/27/21 11:04,R_2dWGB5uLrtRCvAK,wf_232,9,5,0,w_f,white,female,5,5,5,5,1,1,4,5,31,2,5,
+9/27/21 10:50,9/27/21 10:53,R_3lSSnEj83mzFuyj,wf_233,9,5,0,w_f,white,female,6,4,6,4,1,1,4,4,35,2,5,
+9/27/21 10:19,9/27/21 10:22,R_1K0GjtXNy1owiTw,wf_234,9,5,0,w_f,white,female,5,5,5,5,1,1,2,3,26,2,5,
+9/27/21 10:57,9/27/21 11:03,R_3iX4eIPh8KXUEFe,wf_237,14,5,0,w_f,white,female,5,5,5,5,1,2,5,7,19,2,5,
+9/27/21 10:21,9/27/21 10:25,R_3h5yvmWe8bmKaVo,wf_238,14,5,0,w_f,white,female,6,5,5,5,1,1,5,6,23,2,5,
+9/27/21 11:04,9/27/21 11:07,R_1za3QHIAE9R5o4h,wf_239,14,5,0,w_f,white,female,4,4,4,4,1,1,5,6,19,2,5,
+9/27/21 8:16,9/27/21 8:21,R_3hszikmDvIswbhv,wf_240,14,5,0,w_f,white,female,4,4,4,4,1,1,4,5,23,2,5,
+9/27/21 8:52,9/27/21 8:54,R_TgSZB4zw5Rfn865,wf_241,14,5,0,w_f,white,female,5,4,5,4,1,1,4,5,41,2,5,
+9/27/21 9:12,9/27/21 9:18,R_1hLGYqKB793IIZv,wf_242,14,5,0,w_f,white,female,4,4,4,4,1,1,3,5,49,2,5,
+9/27/21 9:27,9/27/21 9:30,R_ewVWSVRWXD38lSV,wf_243,14,5,0,w_f,white,female,5,5,5,5,1,1,3,5,36,2,5,"I see the point, but I think you should have presented more potential chat partners for more data. "
+9/27/21 10:08,9/27/21 10:16,R_2CmmYTfuY6U27qz,wf_244,14,5,0,w_f,white,female,6,3,3,2,1,2,3,5,24,2,5,I wasn‚Äôt really convinced that I would actually be talking with someone else. It just seemed unlikely that there would be enough other real people taking the survey at the same time as me.
+9/27/21 10:59,9/27/21 11:02,R_1DCDHrCP97aygl2,wf_245,14,5,0,w_f,white,female,4,4,4,4,1,2,4,5,44,2,5,
+9/27/21 9:37,9/27/21 9:44,R_2dikmRfd1HlUMT8,wf_246,14,5,0,w_f,white,female,4,4,4,4,1,1,4,4,61,2,5,I have no idea if I want to chat with someone based on what they look like with no further info about them.
+9/27/21 9:46,9/27/21 9:49,R_3HSymdde9ZYNOM3,wf_247,14,5,0,w_f,white,female,3,3,3,3,1,2,3,4,31,2,5,
+9/27/21 10:37,9/27/21 10:40,R_vvRHrHRKLkchPpv,wf_248,14,5,0,w_f,white,female,5,5,5,5,1,2,5,4,43,2,5,Interesting
+9/27/21 10:38,9/27/21 10:43,R_3Rz9jbGPxLtXr9I,wf_249,14,5,0,w_f,white,female,2,2,2,2,2,2,4,4,59,2,5,
+9/27/21 10:51,9/27/21 10:58,R_1pQXg3ctIX2XtSX,wf_250,14,5,0,w_f,white,female,6,6,5,5,1,1,5,4,48,2,5,"It‚Äôs odd that my numbers are different by race. Too large a percentage of adult white women are conservative, republican, sometimes racists. Knowing the odds I‚Äôm less excited to get to know one. "
+9/27/21 9:19,9/27/21 9:22,R_2wHLKFZsX8xDpqs,wf_251,14,5,0,w_f,white,female,5,3,3,2,1,1,3,3,59,2,5,
+9/27/21 9:24,9/27/21 9:29,R_1q8LJOzS3XfmWX6,wf_252,14,5,0,w_f,white,female,4,3,5,3,1,2,4,3,46,2,5,Not at the moment 
+9/27/21 9:59,9/27/21 10:03,R_3NzkQj0NdZHLc6u,wf_253,14,5,0,w_f,white,female,5,5,5,4,1,1,4,3,22,2,5,
+9/27/21 9:17,9/27/21 9:21,R_1eqrzHAlMjL7uxv,wf_255,16,5,0,w_f,white,female,7,5,7,4,1,2,5,7,47,2,5,
+9/27/21 10:51,9/27/21 10:54,R_3j7BaifQmBY3ZiO,wf_256,16,5,0,w_f,white,female,7,5,7,5,2,2,4,6,19,2,5,
+9/27/21 10:54,9/27/21 10:57,R_PYuI4vi2g9k9QEp,wf_257,16,5,0,w_f,white,female,5,5,6,6,1,1,4,6,22,2,5,
+9/27/21 8:28,9/27/21 8:32,R_1kSlfsNhUlmYSGO,wf_258,16,5,0,w_f,white,female,7,4,6,4,1,2,5,5,59,2,5,
+9/27/21 8:52,9/27/21 8:56,R_2VNQKz6dIY0OZNX,wf_259,16,5,0,w_f,white,female,4,4,4,4,1,2,4,5,33,2,5,Nothing
+9/27/21 8:59,9/27/21 9:03,R_24JfrcZgYKFlkng,wf_260,16,5,0,w_f,white,female,5,5,5,5,1,1,5,5,47,2,5,
+9/27/21 9:03,9/27/21 9:06,R_2DOaUtY1Np94bqu,wf_261,16,5,0,w_f,white,female,7,4,6,4,1,1,5,5,43,2,5,
+9/27/21 10:22,9/27/21 10:25,R_1ocZ8Ha9OXih3Fq,wf_262,16,5,0,w_f,white,female,5,3,4,3,1,1,3,5,24,2,5,
+9/27/21 10:36,9/27/21 10:39,R_1mh1WOHzXr29xsu,wf_263,16,5,0,w_f,white,female,6,6,6,6,1,1,5,5,28,2,5,
+9/27/21 11:03,9/27/21 11:06,R_3My7gh1PoLtNtwn,wf_264,16,5,0,w_f,white,female,4,3,4,4,1,1,5,5,37,2,5,
+9/27/21 10:22,9/27/21 10:26,R_3rUK6qF3wg8oaJT,wf_265,16,5,0,w_f,white,female,5,3,3,2,1,2,2,4,42,2,5,Interesting study ;)
+9/27/21 10:13,9/27/21 10:16,R_262YUbN2r5Ql2Nh,wf_266,16,5,0,w_f,white,female,6,5,4,4,1,2,3,3,24,2,5,
+9/27/21 10:26,9/27/21 10:30,R_DS7hDSvOgHiclfr,wf_267,16,5,0,w_f,white,female,5,4,5,3,1,1,2,3,21,2,5,
+9/27/21 8:08,9/27/21 8:12,R_bEGsE8lJhkvj733,wf_268,18,5,0,w_f,white,female,7,4,7,4,1,1,4,6,40,2,5,
+9/27/21 10:43,9/27/21 10:46,R_3R8ayWEb3xCdnEE,wf_269,18,5,0,w_f,white,female,7,5,6,6,1,1,5,6,29,2,5,
+9/27/21 9:30,9/27/21 9:36,R_6WiftpWCGglQrEB,wf_270,18,5,0,w_f,white,female,5,4,5,4,1,1,4,5,37,2,5,
+9/27/21 10:53,9/27/21 10:56,R_2SIbYzITQLF2BEG,wf_271,18,5,0,w_f,white,female,4,4,4,4,2,2,3,2,31,2,5,
+9/27/21 9:59,9/27/21 10:08,R_1IsD4FdqzokepjW,wf_272,18,5,0,w_f,white,female,4,4,4,4,1,1,1,1,30,2,5,"I guess it's not really a matter of me ""wanting"" to have a discussion/conversation with either of the two other participants or not. The question that you should have added is whether or not I want to have a conversation with anyone at all. It has nothing to do with who the person/persons are, or what they look like. I could care less who they are or what they look like."
+9/27/21 8:30,9/27/21 8:35,R_3k54L0sMoN4OFEt,wf_273,19,5,0,w_f,white,female,7,3,7,3,1,1,2,5,27,2,5,
+9/27/21 8:30,9/27/21 8:35,R_1OwxvYphmhndGgS,wf_274,19,5,0,w_f,white,female,7,5,7,5,1,1,5,5,47,2,5,
+9/27/21 9:34,9/27/21 9:41,R_QiENCYe9COnevKh,wf_275,19,5,0,w_f,white,female,6,7,6,6,2,2,5,4,33,2,5,
+9/27/21 10:31,9/27/21 10:35,R_3niJuhZNgcFCm5A,wf_276,19,5,0,w_f,white,female,5,5,5,5,1,2,4,2,26,2,5,
+9/27/21 10:47,9/27/21 10:55,R_2frDPyqkPB72OWp,wf_277,20,5,0,w_f,white,female,5,5,5,5,1,1,1,4,30,2,5,
+9/27/21 10:52,9/27/21 10:56,R_2TNO5SdrRbUkpuO,wf_278,20,5,0,w_f,white,female,5,2,5,4,1,2,4,4,32,2,5,"None at this time, thank you."
+9/27/21 10:49,9/27/21 10:54,R_10UZZIJifc1OftF,wf_280,22,5,0,w_f,white,female,4,4,4,4,1,1,4,5,28,2,5,
+9/27/21 8:14,9/27/21 8:18,R_31yeucW9TsgFcZM,wf_281,23,5,0,w_f,white,female,6,3,5,4,1,1,3,6,29,2,5,
+9/27/21 8:34,9/27/21 8:39,R_xENY6QQUXe9xjvr,wf_282,23,5,0,w_f,white,female,5,4,5,4,1,1,5,6,37,2,5,No
+9/27/21 10:14,9/27/21 10:20,R_3pmB4xR0PTlMlS2,wf_283,23,5,0,w_f,white,female,6,6,6,6,1,1,5,6,30,2,5,
+9/27/21 11:01,9/27/21 11:04,R_3nUy4j0mbX91kMF,wf_284,23,5,0,w_f,white,female,5,3,5,4,1,2,4,6,39,2,5,
+9/27/21 9:00,9/27/21 9:04,R_3FIp5Aw4yh5eDLe,wf_285,23,5,0,w_f,white,female,4,5,4,5,1,1,4,5,31,2,5,
+9/27/21 10:33,9/27/21 10:36,R_1GIGiEXfkJVfAx8,wf_286,23,5,0,w_f,white,female,6,4,6,4,1,1,4,5,36,2,5,
+9/27/21 10:57,9/27/21 11:01,R_2TAk6nvvbxr46FG,wf_287,23,5,0,w_f,white,female,2,2,2,2,1,1,5,5,42,2,5,
+9/27/21 8:15,9/27/21 8:18,R_28TbThJeJOoAwp3,wf_288,23,5,0,w_f,white,female,4,3,4,3,1,1,5,4,36,2,5,No
+9/27/21 9:24,9/27/21 9:29,R_3PS09AtpKeOc8Tj,wf_289,23,5,0,w_f,white,female,4,4,4,4,1,1,4,4,50,2,5,
+9/27/21 10:02,9/27/21 10:07,R_3G2Ik1djtknZwVS,wf_290,23,5,0,w_f,white,female,4,4,4,4,1,1,2,4,52,2,5,
+9/27/21 10:10,9/27/21 10:14,R_2DMp4U6M0xJv8XG,wf_291,23,5,0,w_f,white,female,5,5,5,5,1,1,4,4,32,2,5,
+9/27/21 10:20,9/27/21 10:26,R_1I48IVhUUtQOOY4,wf_292,23,5,0,w_f,white,female,4,4,4,4,1,1,4,4,42,2,5,
+9/27/21 10:21,9/27/21 10:26,R_24qv4tCIjJtdtzE,wf_293,23,5,0,w_f,white,female,5,5,5,5,1,1,4,4,43,2,5,no
+9/27/21 10:34,9/27/21 10:40,R_1FtFXHhGbmFOKLh,wf_294,23,5,0,w_f,white,female,4,3,3,3,1,1,3,4,65,2,5,No
+9/27/21 10:37,9/27/21 10:41,R_1OPmxcYScDZ1Eb9,wf_295,23,5,0,w_f,white,female,4,2,3,2,1,1,4,4,28,2,5,
+9/27/21 10:59,9/27/21 11:02,R_cOxMQ8LmjL0bTcB,wf_296,23,5,0,w_f,white,female,5,4,4,4,1,1,4,4,20,2,5,
+9/27/21 10:17,9/27/21 10:24,R_2Vgzz72urovn5FV,wf_297,23,5,0,w_f,white,female,4,1,4,1,1,1,1,1,54,2,5,Thank you for the opportunity!
+9/27/21 9:11,9/27/21 9:14,R_1dn9AbqIV8HhrVK,wf_298,16,5,0,w_f,white,female,5,4,4,4,1,1,6,5,22,3,5,
+##########,##########,R_31TrtcLqhmYc2OT,bm_1,3,4,3,b_m,black,male,4,6,6,5,1,1,4,6,30,1,1,
+##########,##########,R_3D0D1lauaLPZe9T,bm_2,3,4,3,b_m,black,male,1,6,2,7,2,2,2,6,22,1,1,
+##########,##########,R_3gSMsvs0C1OIh5B,bm_3,11,5,2,b_m,black,male,1,2,3,5,2,1,1,4,25,2,1,
+##########,##########,R_1oCrjlyojnOBGtg,bm_4,17,5,2,b_m,black,male,1,1,1,1,1,2,1,1,30,2,1,
+##########,##########,R_1QcM9BjdcxZyFnn,bm_5,5,5,2,b_m,black,male,6,6,7,6,1,1,6,6,30,1,5,
+##########,##########,R_3OldegNwmhX2vpR,bm_6,15,5,2,b_m,black,male,4,6,6,6,1,1,6,6,37,1,5,Thanks
+##########,##########,R_zTivgKsiI5N7kc1,bm_7,20,5,2,b_m,black,male,7,5,7,6,2,1,6,3,32,1,5,
+##########,##########,R_3oMZRP2mh9K3ndI,bm_8,20,5,2,b_m,black,male,6,6,6,5,1,1,6,6,37,1,5,None
+##########,##########,R_3oLchi9I6zNpRDX,bm_9,5,5,2,b_m,black,male,5,6,5,5,1,1,5,5,,,,
+##########,##########,R_2rHnl6mpPOUECUt,bm_10,15,5,2,b_m,black,male,6,5,5,5,2,1,5,7,,,,
+##########,##########,R_3pgO0xgPhvkli3R,bm_11,1,5,1,b_m,black,male,4,4,4,4,1,1,4,4,46,1,6,No.
+##########,##########,R_xixthTyp9QGtNjr,bm_12,1,5,1,b_m,black,male,7,5,7,5,1,1,6,6,31,1,1,"Well structured survey, kudos. Look forward to doing more studies with you"
+##########,##########,R_1oC6bTdhnVhl0d1,bm_13,2,5,1,b_m,black,male,6,5,6,5,1,2,1,4,41,1,1,no
+##########,##########,R_1CBCnAkGxOB9A8L,bm_14,2,5,1,b_m,black,male,4,3,6,4,1,2,4,5,29,1,1,
+##########,##########,R_3NXkgu8TRZT82oj,bm_15,4,5,1,b_m,black,male,2,6,1,5,2,2,5,1,30,1,1,No
+##########,##########,R_2YWeYp5H3yvro5O,bm_16,9,5,1,b_m,black,male,7,4,7,4,1,1,4,7,30,1,1,It was very interesting.
+##########,##########,R_urfkYi5TPeYdGc9,bm_17,9,5,1,b_m,black,male,5,4,5,4,1,1,3,3,35,1,1,
+##########,##########,R_1jp1d1fdwUWm4ed,bm_18,9,5,1,b_m,black,male,4,4,4,3,1,1,2,3,23,1,1,
+##########,##########,R_UXaqztwicr8ba25,bm_19,12,5,1,b_m,black,male,6,4,4,6,1,1,4,5,30,1,1,Nice survey
+##########,##########,R_1q20adXwU4YWSTc,bm_20,12,5,1,b_m,black,male,5,4,5,4,1,1,5,7,56,1,1,
+##########,##########,R_UKJv5g6srJKoIiB,bm_21,12,5,1,b_m,black,male,5,6,6,6,1,2,7,3,29,1,1,
+##########,##########,R_1mt6lvfWDoL88tx,bm_22,14,5,1,b_m,black,male,7,7,6,7,1,1,6,7,30,1,1,
+##########,##########,R_22rGJuRrxoKnW48,bm_23,5,5,0,b_m,black,male,6,4,6,4,2,1,4,7,38,1,6,none
+##########,##########,R_XZlP4a94fioBbe9,bm_24,15,5,0,b_m,black,male,2,3,2,3,2,2,2,3,40,1,6,
+##########,##########,R_3D85F5fuRADyQID,bm_25,15,5,0,b_m,black,male,3,3,6,6,2,1,3,6,39,1,6,
+##########,##########,R_3dPWikkid4fOzK0,bm_26,15,5,0,b_m,black,male,6,6,6,6,2,1,4,6,30,1,4,thrilling survey
+##########,##########,R_1dytuRpIRwI54mw,bm_27,15,5,0,b_m,black,male,5,5,6,7,1,1,5,7,36,1,4,
+##########,##########,R_2wKAIVTV9kFm7G5,bm_28,3,5,0,b_m,black,male,3,2,6,5,1,1,3,7,28,1,2,
+##########,##########,R_12gs9ek22f7GCjf,bm_29,15,5,0,b_m,black,male,2,1,2,1,1,1,6,6,44,1,2,"I find it interesting that the questions had to do with how much I'd like to ""get to know"" the participants that were presented.  I don't really participate in surveys to get to know strangers, but rather to answer interesting questions and make a little cash on the side.  I haven't much interest in just chit chatting with random folks and can't see how different avatars would affect that feeling... but hope my input helped your study."
+##########,##########,R_6FIZfmNXINIgzy9,bm_30,15,5,0,b_m,black,male,4,4,6,6,2,1,2,5,50,1,2,
+##########,##########,R_2A09bMhUb9OWX1W,bm_31,15,5,0,b_m,black,male,4,1,5,2,1,1,4,4,26,1,2,
+##########,##########,R_2P6FeavlX336Veb,bm_32,17,5,0,b_m,black,male,5,5,5,4,2,2,2,5,19,1,2,
+##########,##########,R_3kFL59fMWf9ZZ7I,bm_33,21,5,0,b_m,black,male,5,4,6,4,1,1,4,6,33,1,2,
+##########,##########,R_3nflAoVo1hoWRCF,bm_34,3,5,0,b_m,black,male,7,6,7,6,2,1,4,7,35,1,1,None thanks 
+##########,##########,R_3J9PGP6JpYcOfrC,bm_35,3,5,0,b_m,black,male,5,2,5,4,1,1,7,7,40,1,1,
+##########,##########,R_2YijVoKykROv0Ac,bm_36,3,5,0,b_m,black,male,6,6,6,5,1,1,5,7,24,1,1,no
+##########,##########,R_1Fx1A4PHcjLMEcj,bm_37,3,5,0,b_m,black,male,5,5,6,5,1,1,3,7,35,1,1,
+##########,##########,R_3RxzLQt80Ium8Wt,bm_38,3,5,0,b_m,black,male,6,5,6,5,1,1,3,6,29,1,1,
+##########,##########,R_3dJLi2UyjuLrM6N,bm_39,3,5,0,b_m,black,male,6,5,6,5,1,1,3,6,20,1,1,
+##########,##########,R_3kdXW1msfzFIpl0,bm_40,3,5,0,b_m,black,male,1,1,1,1,2,1,1,4,33,1,1,No
+##########,##########,R_2xE1KXiylSlA8SC,bm_41,3,5,0,b_m,black,male,5,4,5,4,1,1,4,6,23,1,1,
+##########,##########,R_4VIkjMuDMO9RTyN,bm_42,3,5,0,b_m,black,male,2,2,5,4,2,1,1,5,23,1,1,
+##########,##########,R_1mfI5SsQDGOSZos,bm_43,3,5,0,b_m,black,male,1,1,7,7,2,1,1,7,25,1,1,
+##########,##########,R_2uOqM0rpEXGRzE0,bm_44,3,5,0,b_m,black,male,5,5,6,5,2,1,3,6,36,1,1,
+##########,##########,R_1oFMwz6j0nOo9RE,bm_45,3,5,0,b_m,black,male,5,6,6,7,1,1,3,6,30,1,1,
+##########,##########,R_AiXkNztDD9m9Yu5,bm_46,3,5,0,b_m,black,male,5,5,5,5,1,2,4,5,35,1,1,
+##########,##########,R_u3w2nDWa7xTtBId,bm_47,3,5,0,b_m,black,male,6,5,5,5,1,1,2,6,41,1,1,
+##########,##########,R_25veYmLH3YnUurZ,bm_48,3,5,0,b_m,black,male,7,5,7,6,1,1,5,7,29,1,1,No
+##########,##########,R_VUVKqjeBFTIVQs1,bm_49,3,5,0,b_m,black,male,6,5,6,5,1,1,2,7,25,1,1,
+##########,##########,R_2OVc2DfI1wcotZ3,bm_50,3,5,0,b_m,black,male,4,6,6,5,1,1,4,6,29,1,1,
+##########,##########,R_1hQHAda76s3Thp2,bm_51,3,5,0,b_m,black,male,4,3,3,3,1,1,3,4,27,1,1,
+##########,##########,R_27DWTinRD4rVBc7,bm_52,3,5,0,b_m,black,male,7,5,7,6,1,1,5,7,35,1,1,
+##########,##########,R_1GI0kBccSnpDaq5,bm_53,3,5,0,b_m,black,male,3,4,4,3,1,1,3,4,19,1,1,
+##########,##########,R_2E12DghiCKMtlD0,bm_54,3,5,0,b_m,black,male,4,4,4,5,1,1,2,3,25,1,1,No.
+##########,##########,R_2qz08B5tj2uS76w,bm_55,3,5,0,b_m,black,male,3,2,7,6,2,1,1,7,27,1,1,
+##########,##########,R_3lVVtufQ4Z5jv3e,bm_56,3,5,0,b_m,black,male,4,4,4,4,1,1,4,5,21,1,1,
+##########,##########,R_W6h4Kp91v4hciMp,bm_57,3,5,0,b_m,black,male,5,4,5,6,1,1,4,5,33,1,1,
+##########,##########,R_3r2sTZ1GyNdWMmX,bm_58,3,5,0,b_m,black,male,3,3,3,4,1,1,2,5,31,1,1,
+##########,##########,R_3MRSgjwiy76Wy8n,bm_59,3,5,0,b_m,black,male,4,3,4,3,2,1,2,4,22,1,1,
+##########,##########,R_1FwEAOHuV9x7qkk,bm_60,3,5,0,b_m,black,male,5,5,6,4,1,1,6,5,32,1,1,nothing
+##########,##########,R_1LA4zNf7RmyyeEi,bm_61,3,5,0,b_m,black,male,6,6,6,5,1,1,4,5,29,1,1,No
+##########,##########,R_22sqvcq7ND3Ge1C,bm_62,3,5,0,b_m,black,male,1,1,1,1,2,2,1,1,44,1,1,I never thought for a second that I was actually going to get paired with another participant.
+##########,##########,R_2zHKfC8Se9Bz6ja,bm_63,3,5,0,b_m,black,male,4,3,4,3,1,1,3,6,36,1,1,
+##########,##########,R_abldi4cOcWlp0FX,bm_64,3,5,0,b_m,black,male,7,5,7,5,1,1,5,5,45,1,1,No
+##########,##########,R_Q0bNaCcs19yKsxP,bm_65,3,5,0,b_m,black,male,5,4,5,4,2,1,2,6,43,1,1,Decent survey.
+##########,##########,R_1jOlXeomdlNaZpQ,bm_66,3,5,0,b_m,black,male,7,7,7,4,1,1,3,7,29,1,1,None
+##########,##########,R_QiDbQDdd0DorwaZ,bm_67,3,5,0,b_m,black,male,3,4,6,5,2,1,3,6,28,1,1,
+##########,##########,R_20YUwguqPjQZoxt,bm_68,3,5,0,b_m,black,male,3,3,3,2,2,1,3,4,34,1,1,
+##########,##########,R_2dmU8nAan2XjATs,bm_69,3,5,0,b_m,black,male,5,5,4,4,1,1,4,6,36,1,1,Non
+##########,##########,R_2TZ5ggkbdh2JQ4b,bm_70,3,5,0,b_m,black,male,5,6,5,6,1,1,5,6,28,1,1,
+##########,##########,R_1hHnJkDLrzKj186,bm_71,3,5,0,b_m,black,male,1,1,1,1,2,2,1,1,20,1,1,
+##########,##########,R_3lQfOSMAIRSJHxV,bm_72,3,5,0,b_m,black,male,5,4,5,4,1,1,4,5,40,1,1,Thank you.
+##########,##########,R_2e4gmgTjvx7pOLf,bm_73,3,5,0,b_m,black,male,3,5,6,6,1,1,3,4,28,1,1,N/A
+##########,##########,R_1Iz8RUhbz6uFGcM,bm_74,3,5,0,b_m,black,male,4,1,4,4,1,1,2,6,24,1,1,
+##########,##########,R_eKzZ2aPhrzMkAQ9,bm_75,3,5,0,b_m,black,male,4,5,5,5,1,1,5,4,29,1,1,nah
+##########,##########,R_1hzrGRRDw5UAAWS,bm_76,3,5,0,b_m,black,male,3,3,3,3,1,1,3,5,34,1,1,
+##########,##########,R_2rZbebxTkD0xF6V,bm_77,3,5,0,b_m,black,male,2,4,4,4,2,1,2,5,50,1,1,No
+##########,##########,R_2PzeaZDvs0l5g68,bm_78,3,5,0,b_m,black,male,2,2,3,3,2,1,1,4,22,1,1,
+##########,##########,R_3lPsIBOE2TLE3s7,bm_79,3,5,0,b_m,black,male,2,2,2,2,2,2,2,2,32,1,1,Lol no.
+##########,##########,R_NWGBETX4ebvBWQ9,bm_80,3,5,0,b_m,black,male,6,5,6,6,1,1,7,6,19,1,1,
+##########,##########,R_2YaH7CENtRxVrCq,bm_81,3,5,0,b_m,black,male,2,1,7,4,2,1,1,6,25,1,1,
+##########,##########,R_1gqDrc3pNjazrRy,bm_82,3,5,0,b_m,black,male,4,4,4,4,1,1,4,5,40,1,1,
+##########,##########,R_1dsnvlIoOvv7gpG,bm_83,3,5,0,b_m,black,male,5,4,5,6,1,1,4,6,31,1,1,"Thank you for the study. I enjoyed the task. However, you did not have my consent or permission to ask the first three questions in this survey. You are required to have my consent for every question and this includes attention checks."
+##########,##########,R_3sj17YuXROrSNnQ,bm_84,3,5,0,b_m,black,male,6,7,6,7,1,1,6,7,30,1,1,Nope.
+##########,##########,R_1cYY36qPl8YK63M,bm_85,3,5,0,b_m,black,male,6,5,6,6,1,1,5,6,20,1,1,No
+##########,##########,R_1dhus7So977wrfz,bm_86,3,5,0,b_m,black,male,6,6,6,6,1,1,6,1,31,1,1,"Well structured study, kudos."
+##########,##########,R_3lSLDm5DPiH1wtd,bm_87,3,5,0,b_m,black,male,6,6,6,6,1,1,4,4,27,1,1,
+##########,##########,R_2WDdi2aWRT6B6jH,bm_88,3,5,0,b_m,black,male,6,7,5,6,1,1,6,6,34,1,1,Not really but I enjoyed the study
+##########,##########,R_3kugC4b614EtoBh,bm_89,3,5,0,b_m,black,male,1,1,1,1,1,2,1,6,20,1,1,There weren't any other participants.
+##########,##########,R_2riLcgL4Z4Rxta1,bm_90,3,5,0,b_m,black,male,6,6,7,7,1,1,5,7,54,1,1,Interesting!
+##########,##########,R_3EGCyzdgb1IS7yX,bm_91,3,5,0,b_m,black,male,3,4,4,4,1,1,4,4,28,1,1,
+##########,##########,R_2f3dZFa7WVL0o4b,bm_92,3,5,0,b_m,black,male,1,3,1,3,2,2,2,5,27,1,1,Everything went smoothly. 
+##########,##########,R_cGDM1guQcbngTgB,bm_93,3,5,0,b_m,black,male,5,5,5,5,1,1,1,3,22,1,1,
+##########,##########,R_1I61IOCLIhOC6hV,bm_94,3,5,0,b_m,black,male,6,6,6,6,1,1,4,5,24,1,1,
+##########,##########,R_1oHGfXSaHMKImMR,bm_95,3,5,0,b_m,black,male,4,4,4,4,2,1,4,5,22,1,1,nope
+##########,##########,R_2wdz3NDht16PCo0,bm_96,3,5,0,b_m,black,male,3,2,2,4,1,2,4,2,20,1,1,
+##########,##########,R_1jUkEXXioNwv20y,bm_97,3,5,0,b_m,black,male,1,1,2,2,2,1,1,5,26,1,1,
+##########,##########,R_2TnGOhR3Xj5dpHO,bm_98,3,5,0,b_m,black,male,1,2,1,2,2,2,1,4,19,1,1,
+##########,##########,R_1qaj3NtgrGhvDvP,bm_99,3,5,0,b_m,black,male,3,3,3,3,2,2,2,2,20,1,1,
+##########,##########,R_2PvtDdMLbsPR3nQ,bm_100,3,5,0,b_m,black,male,3,2,2,2,1,1,3,4,22,1,1,
+##########,##########,R_1nPhtput2XNU1LL,bm_101,3,5,0,b_m,black,male,1,3,2,3,2,2,2,2,21,1,1,
+##########,##########,R_2CrM5KTWsDcYqnN,bm_102,3,5,0,b_m,black,male,3,3,3,3,1,1,4,4,25,1,1,N/A
+##########,##########,R_233RLbSWMz1S0sV,bm_103,3,5,0,b_m,black,male,3,2,3,3,2,1,2,4,26,1,1,No
+##########,##########,R_3F3SeAN9tJXDkHz,bm_104,3,5,0,b_m,black,male,2,4,5,3,2,2,1,2,43,1,1,I felt severe anxiety (diagnosed with Bipolar and anxiety) having to talk to random people online and make up conversation with them. You actually fooled me that this was going to take place. I felt so much relief when I discovered it would not happen. I especially didn't want to talk with another person that chose my same avatar. That felt really weird to me. And I definitely did not want to speak with a white person. Sorry not sorry. I have had bad racial experiences in the past with random white men.
+##########,##########,R_1jy9DKr77cnIz0x,bm_105,3,5,0,b_m,black,male,3,1,5,4,2,1,1,7,30,1,1,
+##########,##########,R_1Izw7xnAKGs6oqP,bm_106,3,5,0,b_m,black,male,2,1,2,2,1,1,1,2,21,1,1,
+##########,##########,R_2wso8dhlKvc6gvj,bm_107,3,5,0,b_m,black,male,3,2,4,5,2,1,3,5,18,1,1,
+##########,##########,R_2frNvQY3afHyzT0,bm_108,3,5,0,b_m,black,male,7,7,7,7,1,1,5,7,32,1,1,A good study. 
+##########,##########,R_33rMWyTW8I18w9s,bm_109,3,5,0,b_m,black,male,3,3,3,3,2,2,2,5,29,1,1,
+##########,##########,R_23W7CISsvM7wIWC,bm_110,3,5,0,b_m,black,male,2,4,1,3,1,2,2,2,29,1,1,Nothing. 
+##########,##########,R_BrkGewr72NZ8QWB,bm_111,3,5,0,b_m,black,male,4,2,4,2,1,1,4,4,29,1,1,no
+##########,##########,R_2Y4DRL1I08mPCob,bm_112,3,5,0,b_m,black,male,4,3,4,4,1,1,4,5,28,1,1,
+##########,##########,R_2zjWLQoSDYH7oR3,bm_113,3,5,0,b_m,black,male,3,4,4,4,2,1,2,5,38,1,1,no comments.
+##########,##########,R_1jwHhmmAkwG7HD8,bm_114,3,5,0,b_m,black,male,4,6,4,4,1,1,5,4,28,1,1,"No matter what skin color, i'd gladly talk to anyone."
+##########,##########,R_0DkAiwUUw69QoVj,bm_115,3,5,0,b_m,black,male,4,4,4,4,2,2,3,5,23,1,1,
+##########,##########,R_7UnlzWh38EdO2jf,bm_116,3,5,0,b_m,black,male,6,4,5,5,1,1,2,6,28,1,1,No. 
+##########,##########,R_x4tINQPM1amFpNn,bm_117,3,5,0,b_m,black,male,5,4,7,7,2,1,3,7,30,1,1,Survey was interesting 
+##########,##########,R_3plIOyINLxECghY,bm_118,3,5,0,b_m,black,male,7,7,7,7,1,1,6,7,35,1,1,No
+##########,##########,R_1P7tosw62Pqe6u3,bm_119,3,5,0,b_m,black,male,5,5,7,5,1,1,5,7,34,1,1,
+##########,##########,R_3IPH3bqExNHHhlD,bm_120,3,5,0,b_m,black,male,1,4,1,4,2,2,2,4,21,1,1,
+##########,##########,R_1CI61wGLNuPuAun,bm_121,3,5,0,b_m,black,male,4,4,6,6,1,1,5,5,35,1,1,
+##########,##########,R_3JrRHLCdUp3vhpU,bm_122,3,5,0,b_m,black,male,7,6,7,7,2,1,5,7,35,1,1,No
+##########,##########,R_vTWPfDQilhnKQmJ,bm_123,3,5,0,b_m,black,male,6,5,6,5,1,1,5,7,30,1,1,"I really thought we'll be meant to chat which other, but it's a good."
+##########,##########,R_3rZEtTU5Odk2ZMn,bm_124,3,5,0,b_m,black,male,7,7,7,7,2,1,3,7,31,1,1,
+##########,##########,R_vVPBBHrGYF7dHVf,bm_125,3,5,0,b_m,black,male,5,4,5,6,1,1,5,5,18,1,1,None
+##########,##########,R_3fwLC0zCXJu0SHi,bm_126,3,5,0,b_m,black,male,3,4,3,4,2,2,1,1,23,1,1,
+##########,##########,R_2X6abXsgJ5owMyD,bm_127,3,5,0,b_m,black,male,6,7,6,7,1,1,6,5,34,1,1,Nothing to share
+##########,##########,R_D6tkfT7XfwCKfBf,bm_128,3,5,0,b_m,black,male,3,4,4,4,2,1,1,4,19,1,1,
+##########,##########,R_2BbA2WCLuxmAxmi,bm_129,3,5,0,b_m,black,male,7,7,7,7,1,1,7,7,32,1,1,
+##########,##########,R_1jUMgiP1ioIAdvv,bm_130,3,5,0,b_m,black,male,4,3,4,3,1,1,2,6,22,1,1,Nope
+##########,##########,R_XNTUypcebHMGIff,bm_131,3,5,0,b_m,black,male,6,5,6,5,1,1,5,6,29,1,1,"I did think we‚Äôll be able to chat with each, no worries though. Nice survey."
+##########,##########,R_yUtNmDRN41hBko9,bm_132,3,5,0,b_m,black,male,4,4,5,4,1,1,4,5,23,1,1,
+##########,##########,R_1NtraQCRkOOXWIa,bm_133,3,5,0,b_m,black,male,3,3,3,3,2,2,4,5,19,1,1,
+##########,##########,R_31jczHXg6Dtdfw6,bm_134,3,5,0,b_m,black,male,6,4,5,5,1,1,4,6,43,1,1,
+##########,##########,R_20VxT2Qf9HpTQ95,bm_135,5,5,0,b_m,black,male,6,4,6,4,2,1,1,3,42,1,1,no
+##########,##########,R_3oZVxnNuFtxNOZq,bm_136,5,5,0,b_m,black,male,5,5,6,5,2,1,3,4,38,1,1,Nothing at all
+##########,##########,R_2tJOjy4gg9SDAu4,bm_137,5,5,0,b_m,black,male,6,6,7,7,1,1,1,7,40,1,1,Nothing
+##########,##########,R_XifvPgTiB2JK5Jn,bm_138,5,5,0,b_m,black,male,6,6,6,6,1,1,6,7,22,1,1,
+##########,##########,R_2f8PsGhqM1tEYUq,bm_139,5,5,0,b_m,black,male,5,5,5,5,1,1,5,5,23,1,1,this is a nice survey
+##########,##########,R_PvATzx5dNiyUbPb,bm_140,5,5,0,b_m,black,male,5,5,5,5,1,1,6,5,28,1,1,this is a nice study
+##########,##########,R_3O2F0v5aHTfLait,bm_141,5,5,0,b_m,black,male,5,4,4,5,1,2,5,5,37,1,1,no
+##########,##########,R_1fZRWktOwhpukPh,bm_142,5,5,0,b_m,black,male,3,2,6,6,2,1,1,6,36,1,1,Very fun and interesting 
+##########,##########,R_3rG2KTCpT56MGr5,bm_143,5,5,0,b_m,black,male,4,4,4,4,2,2,4,4,30,1,1,N/A
+##########,##########,R_1gvYYjjTKdru1jy,bm_144,5,5,0,b_m,black,male,5,5,5,4,1,2,4,5,29,1,1,
+##########,##########,R_Rb5O4Ow9bHtazqV,bm_145,5,5,0,b_m,black,male,6,4,4,3,1,2,2,6,35,1,1,no
+##########,##########,R_2YgGVoPc9S21Ywc,bm_146,5,5,0,b_m,black,male,4,3,4,5,1,1,4,4,45,1,1,Nothing further to share. Thank-you 
+##########,##########,R_1r0JSJtl8YuLMLc,bm_147,5,5,0,b_m,black,male,6,5,7,5,1,1,5,6,33,1,1,nope
+##########,##########,R_1ezvrIhsvH6ExMb,bm_148,10,5,0,b_m,black,male,3,4,6,4,2,1,6,5,31,1,1,"N/A
+"
+##########,##########,R_1fjXT1R3xIMcmO8,bm_149,10,5,0,b_m,black,male,7,7,7,7,1,1,4,7,25,1,1,Survey was awesome and fun
+##########,##########,R_22CWMDkPtv38pwm,bm_150,10,5,0,b_m,black,male,4,4,4,4,1,1,6,6,75,1,1,
+##########,##########,R_2OO0Z75Wwg0biKe,bm_151,11,5,0,b_m,black,male,6,5,6,6,1,1,4,6,29,1,1,
+##########,##########,R_pgzhOYnXVMGd1Hb,bm_152,11,5,0,b_m,black,male,4,4,4,4,1,1,4,4,32,1,1,
+##########,##########,R_3EDVHOjpu439qY4,bm_153,11,5,0,b_m,black,male,5,5,4,4,1,2,4,3,48,1,1,No
+##########,##########,R_1gMYgvA5hp2jeGi,bm_154,11,5,0,b_m,black,male,5,4,5,4,1,1,5,5,21,1,1,
+##########,##########,R_3KPnl34owSyQiDk,bm_155,13,5,0,b_m,black,male,6,6,6,6,1,1,2,7,35,1,1,no
+##########,##########,R_1dN4YsxyxAQycDJ,bm_156,13,5,0,b_m,black,male,5,4,5,4,2,2,4,6,36,1,1,
+##########,##########,R_RE84FQPwv99SbjH,bm_157,13,5,0,b_m,black,male,4,3,4,3,1,2,3,4,57,1,1,no
+##########,##########,R_21gqJMp1ODSu49Y,bm_158,13,5,0,b_m,black,male,3,3,5,5,2,1,3,6,40,1,1,
+##########,##########,R_3oI3vUFJ4zxzevU,bm_159,13,5,0,b_m,black,male,6,6,6,4,1,1,3,7,35,1,1,Nice survey
+##########,##########,R_3m3qzf7J988XcHw,bm_160,15,5,0,b_m,black,male,7,7,7,7,2,1,1,7,29,1,1,Nothing 
+##########,##########,R_30uxk3f70l9mXrC,bm_161,15,5,0,b_m,black,male,7,6,7,6,1,1,7,7,35,1,1,It was fun
+##########,##########,R_abLuhcALTlzbGdH,bm_162,15,5,0,b_m,black,male,6,6,7,7,1,1,5,7,30,1,1,Interesting study
+##########,##########,R_0SORMDxllhtVsT7,bm_163,15,5,0,b_m,black,male,4,3,6,6,1,1,2,7,36,1,1,
+##########,##########,R_RPKAcMytxOysXfz,bm_164,15,5,0,b_m,black,male,7,4,7,5,1,1,4,7,30,1,1,Interesting study actually.
+##########,##########,R_1ff0LT3zNS5lEqQ,bm_165,15,5,0,b_m,black,male,5,4,5,5,2,1,2,7,30,1,1,
+##########,##########,R_2WVFU716o5exdTq,bm_166,15,5,0,b_m,black,male,7,4,7,4,1,1,5,7,30,1,1,no
+##########,##########,R_2WYAuyeUKvh4N1k,bm_167,15,5,0,b_m,black,male,5,5,5,5,1,1,1,7,26,1,1,
+##########,##########,R_r3ixPFAputr72Y9,bm_168,15,5,0,b_m,black,male,5,5,6,6,2,1,2,6,29,1,1,
+##########,##########,R_24dDjhXsIXIcjP0,bm_169,15,5,0,b_m,black,male,5,5,6,6,2,2,5,6,35,1,1,No
+##########,##########,R_3jVYQql1g4lcdbr,bm_170,15,5,0,b_m,black,male,6,5,5,5,1,1,5,6,31,1,1,
+##########,##########,R_BFdHkGFLCAseca5,bm_171,15,5,0,b_m,black,male,5,5,4,3,1,2,2,6,31,1,1,nothing
+##########,##########,R_1lysUd07jyPtH9O,bm_172,15,5,0,b_m,black,male,4,6,7,5,2,1,2,7,30,1,1,
+##########,##########,R_XKZ2qF9v8aoIP9n,bm_173,15,5,0,b_m,black,male,7,7,7,7,1,1,4,6,29,1,1,
+##########,##########,R_0l9vkyaAIIw4B69,bm_174,15,5,0,b_m,black,male,7,7,7,7,1,1,7,7,29,1,1,
+##########,##########,R_1qWm4Y5VihEZojs,bm_175,15,5,0,b_m,black,male,7,7,7,7,1,1,4,7,35,1,1,
+##########,##########,R_DGk0419eCXw7yBb,bm_176,15,5,0,b_m,black,male,6,5,6,6,1,1,5,6,30,1,1,
+##########,##########,R_by0utpd8G7dper7,bm_177,15,5,0,b_m,black,male,7,6,7,6,1,1,4,6,34,1,1,
+##########,##########,R_3hF2WQZt2IkLWVc,bm_178,15,5,0,b_m,black,male,7,1,7,7,2,1,1,7,32,1,1,
+##########,##########,R_1BSik635e7vO7tt,bm_179,15,5,0,b_m,black,male,5,5,6,5,1,1,3,6,57,1,1,I was looking forward to chatting.
+##########,##########,R_6KiAkiP6UOsuCKB,bm_180,15,5,0,b_m,black,male,5,5,6,6,1,1,5,7,27,1,1,
+##########,##########,R_3rIJDxvuYQQLJq4,bm_181,15,5,0,b_m,black,male,6,5,6,6,2,1,5,7,31,1,1,
+##########,##########,R_3dMOOC2foTkTWCw,bm_182,15,5,0,b_m,black,male,5,4,6,6,1,1,4,5,34,1,1,
+##########,##########,R_27W1OryGehT6Ql8,bm_183,15,5,0,b_m,black,male,7,7,7,7,1,1,5,5,28,1,1,
+##########,##########,R_3lxjdssCd06GgnG,bm_184,15,5,0,b_m,black,male,6,7,7,6,1,2,5,7,40,1,1,
+##########,##########,R_3MDxj1ZiMI8WLdg,bm_185,15,5,0,b_m,black,male,3,3,3,3,1,1,4,6,40,1,1,
+##########,##########,R_2dDUSB5lI0iuhbh,bm_186,15,5,0,b_m,black,male,7,5,7,7,1,1,7,7,40,1,1,no
+##########,##########,R_2v8m7zxVOQjaUas,bm_187,15,5,0,b_m,black,male,6,6,5,6,1,1,7,7,36,1,1,
+##########,##########,R_PLgoykLtNVrOQwx,bm_188,15,5,0,b_m,black,male,5,3,7,7,2,1,5,7,30,1,1,
+##########,##########,R_1isdC3VapDDdhZj,bm_189,15,5,0,b_m,black,male,7,7,7,7,1,1,7,7,36,1,1,none
+##########,##########,R_3rSXgdoDimIqVsK,bm_190,15,5,0,b_m,black,male,7,5,7,6,1,1,5,7,33,1,1,Nothing really
+##########,##########,R_BPLD0diwX0cYZsl,bm_191,15,5,0,b_m,black,male,3,2,5,4,2,1,2,3,34,1,1,Quantifying prejudice? 
+##########,##########,R_21EPiRJw0zeCX8E,bm_192,15,5,0,b_m,black,male,4,4,4,4,2,1,2,6,36,1,1,Thank you
+##########,##########,R_2dGC4xyJ8HWeEh4,bm_193,15,5,0,b_m,black,male,3,1,3,2,2,1,1,4,23,1,1,
+##########,##########,R_1obxStXvP4xaG62,bm_194,15,5,0,b_m,black,male,5,5,6,6,1,1,4,5,18,1,1,
+##########,##########,R_3MnTcPxjF40yo4T,bm_195,15,5,0,b_m,black,male,7,6,7,6,1,1,3,6,33,1,1,The study was fun.
+##########,##########,R_cCRdIvn6OlR9BZL,bm_196,15,5,0,b_m,black,male,5,5,5,5,1,1,3,5,30,1,1,
+##########,##########,R_3fH2go0ODvxcrpV,bm_197,15,5,0,b_m,black,male,4,6,7,7,1,1,3,7,30,1,1,
+##########,##########,R_32PY4UKmyJDoIiY,bm_198,15,5,0,b_m,black,male,7,6,7,7,1,1,4,7,34,1,1,No. Thanks!
+##########,##########,R_28BpXGzp1qedpAU,bm_199,15,5,0,b_m,black,male,6,5,5,5,2,1,2,5,31,1,1,No
+##########,##########,R_3Dj2DsuDKaFd17G,bm_200,15,5,0,b_m,black,male,5,2,7,5,1,1,3,7,53,1,1,
+##########,##########,R_PFi8jfP6u4YYw4p,bm_201,15,5,0,b_m,black,male,6,6,6,6,1,1,4,7,57,1,1,Not really.  I thought I was going to chat with someone.
+##########,##########,R_b1lvN1ZbmdWzukV,bm_202,15,5,0,b_m,black,male,6,5,6,6,1,1,4,7,32,1,1,thank you
+##########,##########,R_3kFEYwr6UtY5ekH,bm_203,15,5,0,b_m,black,male,4,4,4,4,1,1,4,4,35,1,1,
+##########,##########,R_2YLBGVoh96eYD7e,bm_204,15,5,0,b_m,black,male,3,3,6,5,2,1,3,6,28,1,1,
+##########,##########,R_1Kkc03RwxwvoD0m,bm_205,15,5,0,b_m,black,male,7,7,7,7,1,1,1,7,33,1,1,
+##########,##########,R_2wMk2WJbfXHZwD4,bm_206,15,5,0,b_m,black,male,6,5,6,7,1,1,3,7,35,1,1,
+##########,##########,R_2y2d3DfN9SS6FM1,bm_207,15,5,0,b_m,black,male,7,7,7,7,2,1,4,7,41,1,1,
+##########,##########,R_pnLQiGzlsSbaloJ,bm_208,15,5,0,b_m,black,male,7,5,7,5,1,1,4,7,30,1,1,It was very interesting.
+##########,##########,R_3FKlpGHqJOygasL,bm_209,15,5,0,b_m,black,male,4,4,4,4,1,1,5,6,30,1,1,
+##########,##########,R_1o8amRFCHiryBeH,bm_210,15,5,0,b_m,black,male,1,1,1,1,2,2,7,7,44,1,1,No
+##########,##########,R_3G7zu2aZNeJSiQP,bm_211,15,5,0,b_m,black,male,5,4,7,4,1,1,4,5,21,1,1,
+##########,##########,R_qDymikhlLfWKNgZ,bm_212,15,5,0,b_m,black,male,7,7,7,7,1,1,6,5,33,1,1,
+##########,##########,R_239WevzlCPyViWN,bm_213,15,5,0,b_m,black,male,7,5,6,6,1,2,5,6,41,1,1,
+##########,##########,R_2eW3d3jAEMhWycf,bm_214,15,5,0,b_m,black,male,1,1,4,1,2,2,1,2,35,1,1,
+##########,##########,R_2U9jbcjXaeEyj9h,bm_215,15,5,0,b_m,black,male,4,4,5,5,1,1,4,4,35,1,1,nope
+##########,##########,R_2R39I0nEknWzh3O,bm_216,15,5,0,b_m,black,male,6,6,6,5,1,1,4,7,35,1,1,
+##########,##########,R_3KrODlI1ulCxuON,bm_217,15,5,0,b_m,black,male,1,4,7,1,2,1,4,7,26,1,1,
+##########,##########,R_C3tD81exjDDfUSB,bm_218,15,5,0,b_m,black,male,7,6,7,6,1,1,6,7,36,1,1,none
+##########,##########,R_2yd9rbn33Eg7S1l,bm_219,15,5,0,b_m,black,male,7,7,7,7,2,2,5,7,34,1,1,Interesting! 
+##########,##########,R_2R20nAfNOJQ3bsy,bm_220,15,5,0,b_m,black,male,6,6,7,6,1,1,4,5,46,1,1,Not at the present moment
+##########,##########,R_1gUeW8HiM3KOhuT,bm_221,15,5,0,b_m,black,male,4,4,4,4,2,2,3,5,47,1,1,I really like this experiment 
+##########,##########,R_1GVy07C95NWwpVj,bm_222,15,5,0,b_m,black,male,4,4,4,4,1,1,6,7,29,1,1,
+##########,##########,R_3HTf562ei6QdqOM,bm_223,15,5,0,b_m,black,male,6,5,7,7,1,1,4,6,31,1,1,Na
+##########,##########,R_1hEUN3w1IS30x5u,bm_224,15,5,0,b_m,black,male,7,7,7,7,1,1,4,7,48,1,1,No
+##########,##########,R_cHcFwWEU83hFS4V,bm_225,15,5,0,b_m,black,male,7,7,7,7,1,1,7,7,35,1,1,It's was interesting
+##########,##########,R_2foY8KdQbTgMCEw,bm_226,15,5,0,b_m,black,male,3,4,7,6,2,1,4,5,35,1,1,I had fun thanks
+##########,##########,R_XGqfhPCLlqDTN1T,bm_227,15,5,0,b_m,black,male,5,6,5,6,1,1,3,5,34,1,1,No
+##########,##########,R_2b1cfgss55fidh2,bm_228,15,5,0,b_m,black,male,4,3,4,4,1,1,4,5,25,1,1,
+##########,##########,R_2X4msbE9P2yTyIv,bm_229,15,5,0,b_m,black,male,7,6,7,6,1,1,3,7,28,1,1,none
+##########,##########,R_2qszPkllGMD5bEE,bm_230,15,5,0,b_m,black,male,5,4,7,6,2,1,7,7,35,1,1,I had fun thanks
+##########,##########,R_3dN5cXvDaMjNIRS,bm_231,15,5,0,b_m,black,male,5,5,5,5,2,1,4,7,44,1,1,Great survey 
+##########,##########,R_2uq8eX06bm4Rouo,bm_232,15,5,0,b_m,black,male,6,6,6,7,2,1,3,6,38,1,1,No
+##########,##########,R_2D8jvW7McqIhJPc,bm_233,15,5,0,b_m,black,male,2,4,2,5,2,2,2,3,29,1,1,N/A
+##########,##########,R_2YgNSjHRSb8YWKx,bm_234,15,5,0,b_m,black,male,4,4,4,4,2,2,2,6,36,1,1,
+##########,##########,R_aWpSIAPQQuJGmyt,bm_235,15,5,0,b_m,black,male,4,5,4,4,2,2,3,4,29,1,1,
+##########,##########,R_7ZH76oMCvr33meZ,bm_236,15,5,0,b_m,black,male,4,4,4,4,1,1,4,5,36,1,1,
+##########,##########,R_1Gv0YZa4imzgpJm,bm_237,15,5,0,b_m,black,male,4,2,4,3,2,2,1,4,37,1,1,
+##########,##########,R_Oe3YpfZcQrtHCnL,bm_238,15,5,0,b_m,black,male,6,4,7,5,1,1,5,7,29,1,1,
+##########,##########,R_3yM4IiAV4RfhYGd,bm_239,15,5,0,b_m,black,male,5,5,7,7,1,1,4,7,45,1,1,good survey
+##########,##########,R_1CEnK4meF9c8WOb,bm_240,15,5,0,b_m,black,male,1,2,1,2,1,2,1,1,22,1,1,
+##########,##########,R_1YSS72XpmTvhGy5,bm_241,15,5,0,b_m,black,male,6,4,6,5,1,1,5,5,54,1,1,"no, thanks."
+##########,##########,R_OQcLquDsn1lDW7v,bm_242,15,5,0,b_m,black,male,5,5,6,5,1,1,5,7,32,1,1,No
+##########,##########,R_3k4YT2z3x0S7ZO9,bm_243,15,5,0,b_m,black,male,6,4,7,7,1,1,4,6,31,1,1,no
+##########,##########,R_2Y4GBW7jC4nCqHJ,bm_244,15,5,0,b_m,black,male,1,4,1,4,2,2,1,2,24,1,1,
+##########,##########,R_1r0QrulN0oKLxaF,bm_245,15,5,0,b_m,black,male,7,5,7,6,1,1,7,7,38,1,1,
+##########,##########,R_123vLEz4nH3nBEM,bm_246,15,5,0,b_m,black,male,6,5,5,5,1,1,6,7,53,1,1,no
+##########,##########,R_3qUOXM9Xjrrveg7,bm_247,15,5,0,b_m,black,male,4,4,5,4,2,1,4,5,28,1,1,
+##########,##########,R_3QWTezuDLZAC3DS,bm_248,15,5,0,b_m,black,male,1,2,1,2,2,2,2,2,61,1,1,
+##########,##########,R_cOuORmnc7zJ0j85,bm_249,15,5,0,b_m,black,male,4,4,4,4,1,1,4,6,25,1,1,
+##########,##########,R_3svqLomDafzXPjb,bm_250,15,5,0,b_m,black,male,7,5,7,5,1,1,7,7,43,1,1,
+##########,##########,R_3R8VoKKZjNYSpXj,bm_251,15,5,0,b_m,black,male,6,6,6,6,1,1,7,7,37,1,1,no
+##########,##########,R_2Ui1DERmvyq9YFy,bm_252,15,5,0,b_m,black,male,2,1,6,4,2,1,1,4,39,1,1,"I figured there was a bit of ""deception"" happening here.
+
+But that's fine with me!
+
+As long as I get paid, and will be invited back to future studies with you guys!"
+##########,##########,R_2tak1YAGRoO0VEd,bm_253,15,5,0,b_m,black,male,6,5,6,5,1,1,5,7,34,1,1,
+##########,##########,R_1eE0LEIJcRLZb9X,bm_254,15,5,0,b_m,black,male,4,3,6,6,2,1,2,6,35,1,1,na
+##########,##########,R_3L5ykG4qqPvXSQ7,bm_255,15,5,0,b_m,black,male,4,4,7,7,2,1,2,6,42,1,1,No... except to say this was very interesting...
+##########,##########,R_2AEzKw6LZ5tsXc5,bm_256,15,5,0,b_m,black,male,2,3,2,2,2,2,2,4,45,1,1,
+##########,##########,R_2SCaUsavzK7YSMu,bm_257,15,5,0,b_m,black,male,4,4,4,4,1,2,4,4,22,1,1,n/a
+##########,##########,R_1jOCqW2YYKNrkC5,bm_258,15,5,0,b_m,black,male,4,4,4,4,1,1,3,7,23,1,1,
+##########,##########,R_3j1YBwLSUJYzeVB,bm_259,15,5,0,b_m,black,male,5,4,5,4,1,1,4,4,27,1,1,N/A
+##########,##########,R_2X0auDrWUaWPsI9,bm_260,15,5,0,b_m,black,male,4,4,5,5,1,1,4,5,44,1,1,no comments
+##########,##########,R_yI6LN0OtlGeItVL,bm_261,15,5,0,b_m,black,male,5,4,6,6,1,1,5,6,34,1,1,
+##########,##########,R_3COeB0mncHbkcBD,bm_262,15,5,0,b_m,black,male,5,4,5,5,1,1,4,5,50,1,1,
+##########,##########,R_CltMGFNK7xRmz2F,bm_263,15,5,0,b_m,black,male,6,5,7,7,1,1,3,7,53,1,1,
+##########,##########,R_1OlR3RzEZmbmoBz,bm_264,15,5,0,b_m,black,male,5,4,4,3,1,1,2,6,23,1,1,
+##########,##########,R_2fpV9PJxdQjl7sZ,bm_265,15,5,0,b_m,black,male,3,1,5,2,2,1,1,6,25,1,1,
+##########,##########,R_1rMGWW4LbYC2g6s,bm_266,15,5,0,b_m,black,male,4,4,4,4,2,2,1,1,23,1,1,
+##########,##########,R_2OJsHDESswGQP0J,bm_267,15,5,0,b_m,black,male,1,1,1,1,2,2,1,5,50,1,1,no
+##########,##########,R_1rq9e0Qq2Pz0uk6,bm_268,15,5,0,b_m,black,male,7,7,7,7,2,1,2,7,28,1,1,
+##########,##########,R_2fHeTBjmjhOqISk,bm_269,15,5,0,b_m,black,male,7,7,7,7,1,1,4,7,34,1,1,
+##########,##########,R_3QKPaOkt4sgCgyN,bm_270,15,5,0,b_m,black,male,7,7,7,7,1,1,6,7,30,1,1,
+##########,##########,R_3qytMSvvY3SNAgC,bm_271,15,5,0,b_m,black,male,3,2,6,6,2,1,2,6,35,1,1,
+##########,##########,R_2c2flIzwOLzKLIR,bm_272,15,5,0,b_m,black,male,4,4,4,4,2,2,4,4,29,1,1,No
+##########,##########,R_1Kl0Bkpm2791dpr,bm_273,15,5,0,b_m,black,male,4,3,4,4,1,1,2,7,42,1,1,
+##########,##########,R_1IvmkFgHt5xfX4r,bm_274,15,5,0,b_m,black,male,6,5,6,5,1,1,6,6,32,1,1,
+##########,##########,R_2U5klEvMETHWe4A,bm_275,15,5,0,b_m,black,male,7,6,7,7,1,1,5,7,31,1,1,Survey was good and was interesting. I am glad I was able to share my opinions on here
+##########,##########,R_xeX0YKpftP60wBX,bm_276,15,5,0,b_m,black,male,7,7,7,6,1,1,1,7,33,1,1,Thanks for letting me participate in your survey.
+##########,##########,R_CZYPFifaFlGDkNX,bm_277,15,5,0,b_m,black,male,5,4,5,5,1,1,5,7,30,1,1,
+##########,##########,R_3ejWJ4R3huYMwif,bm_278,15,5,0,b_m,black,male,5,5,6,5,1,1,3,6,39,1,1,
+##########,##########,R_2uVEbbSTSryfFwI,bm_279,15,5,0,b_m,black,male,7,6,7,7,1,1,5,7,29,1,1,none
+##########,##########,R_1rNgcTunqsV9cM6,bm_280,15,5,0,b_m,black,male,6,4,6,6,1,1,3,6,37,1,1,
+##########,##########,R_1CyEfBzhP7MiWCK,bm_281,15,5,0,b_m,black,male,7,7,7,7,1,1,5,7,40,1,1,Great survey.
+##########,##########,R_2YKvw9yBniaASua,bm_282,15,5,0,b_m,black,male,5,5,6,6,1,1,6,6,36,1,1,
+##########,##########,R_3isWUwBVjOhnxQ1,bm_283,15,5,0,b_m,black,male,4,3,6,5,2,1,2,7,37,1,1,no
+##########,##########,R_bkd8Z609mDwHKwN,bm_284,15,5,0,b_m,black,male,2,2,2,3,2,2,2,4,34,1,1,No.
+##########,##########,R_b1uA5x1GkkrLyxP,bm_285,15,5,0,b_m,black,male,6,5,6,5,1,1,5,7,51,1,1,This was interesting and I wish you well with your research.
+##########,##########,R_1IK4RiAfESPcBTV,bm_286,15,5,0,b_m,black,male,3,3,4,4,1,1,3,5,33,1,1,
+##########,##########,R_1CabK4MWefun5sj,bm_287,17,5,0,b_m,black,male,4,5,5,5,1,1,3,6,36,1,1,N/A
+##########,##########,R_1rAdXDmFn5TsJSX,bm_288,21,5,0,b_m,black,male,5,4,6,5,1,1,4,4,34,1,1,
+##########,##########,R_qFqHVO18tuf0zmx,bm_289,21,5,0,b_m,black,male,5,4,6,6,1,1,5,6,33,1,1,
+##########,##########,R_2ZJsGhLoyRFYJGd,bm_290,21,5,0,b_m,black,male,7,7,7,6,1,1,6,7,36,1,1,
+##########,##########,R_7NDaWFFJ2u9alUd,bm_291,21,5,0,b_m,black,male,6,4,5,6,2,1,2,6,33,1,1,N/A
+##########,##########,R_PvqdNiwH3LAVemd,bm_292,21,5,0,b_m,black,male,5,5,7,6,1,1,5,6,32,1,1,
+##########,##########,R_eg7AEFPHgsp5Lq1,bm_293,21,5,0,b_m,black,male,4,4,4,4,1,1,3,6,56,1,1,No
+##########,##########,R_1lotDSI09cyuPp6,bm_294,21,5,0,b_m,black,male,6,6,6,6,2,1,6,5,33,1,1,
+##########,##########,R_3V6KL37bWoUyEyB,bm_295,21,5,0,b_m,black,male,6,4,6,4,2,1,2,6,29,1,1,Thanks 
+##########,##########,R_3oHC4wmMJgOGjpr,bm_296,21,5,0,b_m,black,male,5,4,6,7,1,1,3,6,0.25,1,1,
+##########,##########,R_dbtwOJg46kUNiWB,bm_297,21,5,0,b_m,black,male,6,6,6,6,2,1,3,7,33,1,1,
+##########,##########,R_Ok5UDxMSJTKZ0l3,bm_298,21,5,0,b_m,black,male,5,4,5,5,1,1,3,6,39,1,1,Not at this time 
+##########,##########,R_YRC5ILclRkbL9IJ,bm_299,21,5,0,b_m,black,male,5,4,5,5,2,2,3,5,63,1,1,Nope.
+##########,##########,R_1ifIIEmFih1STXf,bm_300,21,5,0,b_m,black,male,6,3,6,5,2,1,3,5,40,1,1,
+##########,##########,R_1IYpfJtxetz9vvL,bm_301,21,5,0,b_m,black,male,6,6,5,6,1,1,6,6,35,1,1,
+##########,##########,R_9mL0bSXtTi4xZpT,bm_302,21,5,0,b_m,black,male,5,5,5,6,1,1,5,6,37,1,1,
+##########,##########,R_2XpTB1l74SqfayV,bm_303,22,5,0,b_m,black,male,7,7,7,7,1,1,7,7,21,1,1,
+9/27/21 13:51,9/27/21 13:57,R_2WO9sk4KL9yOdax,bf_4,20,6,3,b_f,black,female,7,7,7,7,1,1,7,6,31,2,1,No
+9/27/21 11:42,9/27/21 11:46,R_1FDOjtUNdouoVpD,bf_1,15,5,2,b_f,black,female,7,7,7,7,1,1,7,7,27,1,5,
+9/27/21 11:01,9/27/21 11:07,R_2fJ6K9YlO1Y2ldF,bf_2,15,5,2,b_f,black,female,7,7,7,7,1,1,6,6,30,1,1,
+9/27/21 13:23,9/27/21 13:26,R_An5Rd7nPQgWHQo9,bf_3,15,5,2,b_f,black,female,5,3,7,7,2,1,4,7,37,1,1,
+9/27/21 15:16,9/27/21 15:19,R_3DdujHiqv2zMevM,bf_8,18,5,1,b_f,black,female,5,4,6,4,1,1,3,6,19,2,6,
+9/27/21 14:24,9/27/21 14:27,R_20SEQmmGUy4uk0S,bf_12,14,5,1,b_f,black,female,5,5,6,5,1,1,3,6,18,2,2,
+9/27/21 14:00,9/27/21 14:06,R_12mwwDaynuHRwd9,bf_25,19,5,1,b_f,black,female,5,5,5,5,2,1,1,5,41,2,1,
+9/27/21 9:52,9/27/21 10:01,R_1IS4Ob9BOPyhaP5,bf_43,6,5,1,b_f,black,female,5,5,4,4,1,1,4,6,31,2,1,
+9/27/21 16:07,9/27/21 16:23,R_27EHMPSIKn8kigM,bf_85,6,5,1,b_f,black,female,5,6,6,7,2,1,3,6,36,2,1,
+9/27/21 12:31,9/27/21 12:34,R_2fxJ62crskB611z,bf_118,22,5,1,b_f,black,female,3,2,7,6,1,1,4,7,24,2,1,I was trying to pick avatar 22 because it reflects what I look like. I think I accidentally chose a different one but my answers reflect what I would have chosen based on being #22
+9/27/21 11:25,9/27/21 11:33,R_2P24btaikkkAtOb,bf_121,6,5,1,b_f,black,female,7,4,7,4,1,1,7,7,31,2,1,
+9/27/21 18:09,9/27/21 18:12,R_3n1w9RKTimDF8i5,bf_193,2,5,1,b_f,black,female,7,7,7,7,1,1,3,6,46,2,1,
+9/27/21 15:23,9/27/21 15:28,R_3oGXVfE9W5GE5q2,bf_202,23,5,1,b_f,black,female,5,5,6,4,1,1,3,6,35,2,1,
+9/27/21 16:14,9/27/21 16:18,R_3Ok9jE6wGMRh2dE,bf_203,19,5,1,b_f,black,female,4,4,5,4,2,1,3,5,26,2,1,
+9/27/21 12:04,9/27/21 12:08,R_3scdlODDqBDH9D4,bf_223,6,5,1,b_f,black,female,6,6,7,6,1,1,6,7,27,2,1,Great survey
+9/27/21 11:57,9/27/21 12:09,R_8jJcOLtBjGhfGhj,bf_234,14,5,1,b_f,black,female,5,5,5,5,1,1,5,6,30,2,1,Good study
+9/27/21 15:00,9/27/21 15:05,R_wYlTFzYA8uQ1Slb,bf_296,6,5,1,b_f,black,female,5,4,5,4,1,1,2,6,53,2,1,no
+9/27/21 13:33,9/27/21 13:36,R_1dK0qAqV89Qv0pX,bf_5,21,5,0,b_f,black,female,2,6,4,3,2,1,1,7,28,2,6,
+9/27/21 10:55,9/27/21 10:58,R_25ABqdDStvIubKu,bf_6,21,5,0,b_f,black,female,4,4,6,5,1,1,3,5,19,2,6,
+9/27/21 12:24,9/27/21 12:32,R_2tMAOwZfHD0vvB6,bf_7,11,5,0,b_f,black,female,1,2,1,1,2,1,4,5,30,2,6,No.
+9/27/21 13:07,9/27/21 13:11,R_3G1YCzNwHnujj7d,bf_9,21,5,0,b_f,black,female,5,4,6,5,2,1,3,7,24,2,6,
+9/27/21 13:26,9/27/21 13:32,R_CkJWYblyYJCIYtr,bf_10,21,5,0,b_f,black,female,5,4,5,4,1,1,4,6,24,2,6,
+9/27/21 18:48,9/27/21 18:52,R_yHKZNR9Wj07K2I1,bf_11,11,5,0,b_f,black,female,4,2,4,3,2,1,4,5,23,2,6,
+9/27/21 13:07,9/27/21 13:10,R_264j5m6vNDAXAuf,bf_13,21,5,0,b_f,black,female,4,3,4,4,2,1,2,6,25,2,2,
+9/27/21 11:40,9/27/21 11:44,R_3GlCw3FMj8oRB3r,bf_14,11,5,0,b_f,black,female,4,4,4,4,1,1,4,5,21,2,2,
+9/27/21 14:54,9/27/21 15:00,R_06SemHhXR1uuzT3,bf_15,11,5,0,b_f,black,female,4,3,4,4,1,1,2,3,19,2,1,
+9/27/21 14:15,9/27/21 14:18,R_0BANZlY3vP30wEN,bf_16,11,5,0,b_f,black,female,2,1,7,7,2,1,1,7,22,2,1,
+9/27/21 13:25,9/27/21 13:38,R_0GUmlIvY76P3VHb,bf_17,11,5,0,b_f,black,female,5,6,7,5,2,1,3,7,23,2,1,Thank you for this survey.
+9/27/21 15:26,9/27/21 15:32,R_0uGQLNJADRXePSN,bf_18,11,5,0,b_f,black,female,4,4,4,4,2,2,4,6,38,2,1,No
+9/27/21 14:00,9/27/21 14:03,R_0VrDX3RqAutjmQ9,bf_19,21,5,0,b_f,black,female,3,3,5,6,1,1,3,7,23,2,1,N/A
+9/27/21 10:35,9/27/21 10:39,R_0wiVNLdisJpflf3,bf_20,11,5,0,b_f,black,female,2,2,3,3,2,1,2,6,20,2,1,N/A
+9/27/21 11:50,9/27/21 11:54,R_10VDnSR6q9xemIi,bf_21,21,5,0,b_f,black,female,2,3,5,5,2,1,2,5,20,2,1,
+9/27/21 16:35,9/27/21 16:48,R_10x8eToqet5vozg,bf_22,11,5,0,b_f,black,female,5,6,7,7,1,2,4,6,49,2,1,No.
+9/27/21 18:07,9/27/21 18:09,R_12GvOysUYd7QHpE,bf_23,21,5,0,b_f,black,female,5,4,6,6,1,1,2,7,20,2,1,
+9/27/21 9:49,9/27/21 9:55,R_12mPfORW3Ya3HJQ,bf_24,21,5,0,b_f,black,female,7,7,7,7,1,1,7,7,28,2,1,"It's hard to assess if I would like to have a conversation with someone simply based on an avatar. If there had been some more information provided about my potential partner it would have raised less suspicion that I would actually be speaking to a real person and this was not about whether or not I feel more similar to someone who is of the same race than me than someone who is not. Also, why are there so many options for white avatars but a limited selection for avatars with darker skinned tones? You'll probably want to drop my data, but hopefully that helps!"
+9/27/21 19:15,9/27/21 19:21,R_1dc6VwCSn1BRPEJ,bf_26,21,5,0,b_f,black,female,5,1,5,1,1,1,4,4,30,2,1,N/A
+9/27/21 12:33,9/27/21 12:35,R_1dFFDDR2tZ0fWHk,bf_27,17,5,0,b_f,black,female,2,2,5,4,1,1,1,6,19,2,1,
+9/27/21 10:22,9/27/21 10:29,R_1DOKCJ0Zohsw7rH,bf_28,11,5,0,b_f,black,female,4,4,6,6,1,1,3,7,38,2,1,"I am married, with no kids and I enjoy quiet time with candles."
+9/27/21 13:28,9/27/21 13:36,R_1DVbz7B7wYer6hL,bf_29,21,5,0,b_f,black,female,4,4,5,4,1,1,4,6,23,2,1,
+9/27/21 12:02,9/27/21 12:10,R_1E0Y3HmQWmKnx4W,bf_30,11,5,0,b_f,black,female,5,4,5,4,2,1,3,5,44,2,1,Nothing at this time 
+9/27/21 16:43,9/27/21 16:47,R_1eDj0wqljKbRnfV,bf_31,21,5,0,b_f,black,female,3,1,4,3,2,2,1,1,36,2,1,
+9/27/21 17:44,9/27/21 17:49,R_1f47zzaZFbhYmZq,bf_32,21,5,0,b_f,black,female,4,3,5,6,2,1,1,6,28,2,1,
+9/27/21 11:45,9/27/21 11:51,R_1fd5zp0TXCMmtrr,bf_33,21,5,0,b_f,black,female,3,4,4,4,2,1,1,7,20,2,1,
+9/27/21 12:20,9/27/21 12:23,R_1FPVbRZ6WuMDkHi,bf_34,11,5,0,b_f,black,female,2,2,2,2,2,1,1,3,22,2,1,No
+9/27/21 11:50,9/27/21 11:56,R_1g1hyTd71iKzci4,bf_35,11,5,0,b_f,black,female,5,6,7,7,1,1,3,7,41,2,1,
+9/27/21 11:55,9/27/21 11:59,R_1GE6AhNzYYuzB74,bf_36,11,5,0,b_f,black,female,3,3,3,3,2,1,2,5,18,2,1,
+9/27/21 12:04,9/27/21 12:07,R_1GQ4x3MFOmBEg2e,bf_37,11,5,0,b_f,black,female,4,4,6,6,1,1,5,7,37,2,1,
+9/27/21 16:09,9/27/21 16:13,R_1H0PhaJL74VWzdX,bf_38,21,5,0,b_f,black,female,4,3,6,4,2,1,2,5,21,2,1,
+9/27/21 12:50,9/27/21 12:56,R_1HcRz3XqK1Jz7Hx,bf_39,11,5,0,b_f,black,female,5,3,5,3,1,1,2,5,18,2,1,Nope
+9/27/21 14:14,9/27/21 14:17,R_1iaGS8IzkTqzhvI,bf_40,11,5,0,b_f,black,female,4,3,4,3,1,1,3,5,18,2,1,
+9/27/21 15:56,9/27/21 16:00,R_1IMcGNC5fxKLUZu,bf_41,21,5,0,b_f,black,female,4,3,4,4,2,2,3,5,26,2,1,No. 
+9/27/21 17:09,9/27/21 17:12,R_1inzpjPSp1kL4g0,bf_42,11,5,0,b_f,black,female,4,4,5,5,1,1,3,5,20,2,1,
+9/27/21 11:20,9/27/21 11:24,R_1jdjlAW7xxZQpAd,bf_44,21,5,0,b_f,black,female,5,3,6,5,2,1,1,7,20,2,1,
+9/27/21 14:44,9/27/21 14:47,R_1jJrQHCAY3cfZ1F,bf_45,11,5,0,b_f,black,female,5,4,5,5,1,1,3,5,24,2,1,
+9/27/21 16:35,9/27/21 16:47,R_1jkrNhLYnGpBUCu,bf_46,21,5,0,b_f,black,female,4,4,6,6,2,1,3,7,31,2,1,No
+9/27/21 14:18,9/27/21 14:25,R_1jPRVmUnRl7OSl3,bf_47,11,5,0,b_f,black,female,7,4,7,4,1,1,3,5,19,2,1,I wonder what this is about ü§î
+9/27/21 16:22,9/27/21 16:35,R_1JWpyUXetagC2ew,bf_48,21,5,0,b_f,black,female,7,5,7,7,1,1,4,7,27,2,1,
+9/27/21 11:32,9/27/21 11:36,R_1Kmazmt3o9OWfro,bf_49,11,5,0,b_f,black,female,4,4,4,4,2,1,3,5,21,2,1,
+9/27/21 15:26,9/27/21 15:31,R_1kT5KhzSDbAaDp7,bf_50,11,5,0,b_f,black,female,6,5,6,6,1,1,5,6,38,2,1,none
+9/27/21 15:14,9/27/21 15:25,R_1l0M2LGpsELTEek,bf_51,11,5,0,b_f,black,female,5,4,5,5,1,2,5,6,27,2,1,
+9/27/21 10:32,9/27/21 10:37,R_1lcWGYYK08Nxzwg,bf_52,21,5,0,b_f,black,female,4,2,4,4,1,1,4,5,49,2,1,
+9/27/21 13:05,9/27/21 13:09,R_1luZqERtiX68o4z,bf_53,21,5,0,b_f,black,female,4,3,4,4,2,1,2,5,21,2,1,No
+9/27/21 17:23,9/27/21 17:28,R_1LXoVoqTcZElgt3,bf_54,21,5,0,b_f,black,female,7,5,7,5,1,1,5,6,37,2,1,"This was a fun and interesting survey, very unique."
+9/27/21 16:30,9/27/21 16:34,R_1mKRIs1s2uwsJbe,bf_55,11,5,0,b_f,black,female,6,5,7,5,1,1,3,6,31,2,1,
+9/27/21 13:40,9/27/21 13:44,R_1mOa1Arf1I83CBT,bf_56,21,5,0,b_f,black,female,4,4,4,4,1,1,3,6,45,2,1,No
+9/27/21 18:05,9/27/21 18:08,R_1MRmRrUmmKAWgUH,bf_57,11,5,0,b_f,black,female,1,1,1,1,2,1,3,3,19,2,1,
+9/27/21 14:25,9/27/21 14:34,R_1mUFQD43bIPZuVT,bf_58,11,5,0,b_f,black,female,6,5,5,6,1,1,5,6,42,2,1,
+9/27/21 15:14,9/27/21 15:22,R_1myGyHrTrNsXbgv,bf_59,11,5,0,b_f,black,female,5,3,5,4,1,1,1,1,26,2,1,
+9/27/21 10:17,9/27/21 10:22,R_1NgG3vm6JKCeF7a,bf_60,11,5,0,b_f,black,female,3,2,5,4,2,1,2,3,32,2,1,
+9/27/21 14:37,9/27/21 14:48,R_1NkN2sU6P3GZ0Ex,bf_61,11,5,0,b_f,black,female,7,7,7,7,1,1,5,7,19,2,1,
+9/27/21 12:58,9/27/21 13:03,R_1NqeN08DrE4Xmgh,bf_62,21,5,0,b_f,black,female,4,4,4,4,1,2,3,5,49,2,1,no
+9/27/21 12:37,9/27/21 12:42,R_1nVfNdN4oESgdIc,bf_63,21,5,0,b_f,black,female,5,5,5,5,1,1,3,6,23,2,1,
+9/27/21 18:51,9/27/21 18:55,R_1oEZtXR87jVOlC1,bf_64,3,5,0,b_f,black,female,7,3,7,5,1,1,2,7,22,2,1,This was an interesting survey! Thank you for this opportunity and I experienced no difficulties during my time.
+9/27/21 10:03,9/27/21 10:08,R_1oGy5iQTko4s2fB,bf_65,11,5,0,b_f,black,female,2,1,3,2,2,1,2,5,24,2,1,
+9/27/21 13:53,9/27/21 13:57,R_1OH5HJvZJOD0jty,bf_66,21,5,0,b_f,black,female,4,4,4,3,1,1,3,6,19,2,1,No
+9/27/21 15:16,9/27/21 15:19,R_1r9qHlKpVffN63x,bf_67,21,5,0,b_f,black,female,3,3,3,3,1,1,3,5,23,2,1,
+9/27/21 18:36,9/27/21 18:41,R_1rdZtZ51MLKi20P,bf_68,11,5,0,b_f,black,female,2,1,5,3,2,1,1,7,21,2,1,
+9/27/21 14:29,9/27/21 14:35,R_1re2d1JfJvOIa4N,bf_69,11,5,0,b_f,black,female,2,1,3,1,2,1,3,4,27,2,1,
+9/27/21 11:00,9/27/21 11:05,R_1U0617i9UNhnoul,bf_70,21,5,0,b_f,black,female,4,2,4,2,2,1,2,3,23,2,1,
+9/27/21 11:21,9/27/21 11:30,R_217lwHXG74pnmDE,bf_71,11,5,0,b_f,black,female,7,7,7,7,1,1,7,7,33,2,1,I thought I was really going to chat with those two ladies.
+9/27/21 11:30,9/27/21 11:36,R_21BMo3iHbNbnb7k,bf_72,11,5,0,b_f,black,female,4,4,6,5,2,1,3,6,22,2,1,
+9/27/21 15:16,9/27/21 15:20,R_21mFogOhYnsf06x,bf_73,11,5,0,b_f,black,female,4,3,5,5,2,1,2,7,47,2,1,No
+9/27/21 14:43,9/27/21 14:46,R_21oYw59PwG9lMXO,bf_74,17,5,0,b_f,black,female,5,4,5,4,1,1,2,2,23,2,1,
+9/27/21 16:54,9/27/21 16:58,R_21zHmSQHsan7ftL,bf_75,21,5,0,b_f,black,female,5,2,5,4,1,1,3,7,20,2,1,
+9/27/21 19:13,9/27/21 19:16,R_22VcHkD113Qur7P,bf_76,17,5,0,b_f,black,female,2,2,2,3,2,2,1,6,23,2,1,
+9/27/21 14:25,9/27/21 14:29,R_22zyPqNvKY7IErT,bf_77,21,5,0,b_f,black,female,3,4,3,5,2,2,2,5,25,2,1,
+9/27/21 11:28,9/27/21 11:31,R_24HnNcVCGivblZV,bf_78,21,5,0,b_f,black,female,3,4,4,5,1,1,3,4,22,2,1,
+9/27/21 13:31,9/27/21 13:35,R_24nLGulbwYzx8dw,bf_79,11,5,0,b_f,black,female,7,7,7,7,1,1,3,7,23,2,1,fun survey 
+9/27/21 12:37,9/27/21 12:41,R_24o7PnJpJ2DmPfX,bf_80,11,5,0,b_f,black,female,7,6,7,7,1,1,1,6,21,2,1,
+9/27/21 15:11,9/27/21 15:15,R_25F2kukBE75JoBz,bf_81,17,5,0,b_f,black,female,5,3,7,5,2,1,1,7,38,2,1,No
+9/27/21 16:35,9/27/21 16:41,R_269Zz4bNsThQkur,bf_82,21,5,0,b_f,black,female,3,3,5,5,1,1,2,2,26,2,1,
+9/27/21 13:34,9/27/21 13:39,R_27EBtPj2LBiaZRe,bf_83,21,5,0,b_f,black,female,6,5,6,4,1,1,5,6,19,2,1,
+9/27/21 18:41,9/27/21 18:47,R_27EghivFmMgKeJ9,bf_84,21,5,0,b_f,black,female,7,7,7,6,1,1,5,7,38,2,1,
+9/27/21 14:15,9/27/21 14:21,R_28A1qGKvBr7rgyG,bf_86,11,5,0,b_f,black,female,6,6,6,7,1,2,7,7,36,2,1,
+9/27/21 14:14,9/27/21 14:17,R_28Hf8rxKOs7t4Pw,bf_87,21,5,0,b_f,black,female,4,4,6,5,2,1,1,7,19,2,1,
+9/27/21 11:29,9/27/21 11:36,R_290wdUEkq6DHFSm,bf_88,11,5,0,b_f,black,female,6,4,6,4,1,1,5,6,28,2,1,
+9/27/21 14:15,9/27/21 14:21,R_29aVw9GTPqLQCGv,bf_89,11,5,0,b_f,black,female,1,1,2,1,2,1,1,3,19,2,1,
+9/27/21 15:23,9/27/21 15:27,R_29ubP2ORAuNZ3Ma,bf_90,11,5,0,b_f,black,female,5,5,6,5,1,1,3,6,21,2,1,I kinda wanted to chat with the others.
+9/27/21 9:55,9/27/21 10:13,R_2aaw5pGpGrKeYMf,bf_91,21,5,0,b_f,black,female,5,4,7,7,1,1,4,6,30,2,1,
+9/27/21 16:17,9/27/21 16:20,R_2ahOMNTATMtE3hs,bf_92,21,5,0,b_f,black,female,6,4,6,6,1,1,4,7,22,2,1,
+9/27/21 12:54,9/27/21 12:59,R_2AL3fBcxkZJUDdC,bf_93,21,5,0,b_f,black,female,6,5,6,3,1,1,2,3,22,2,1,No 
+9/27/21 13:52,9/27/21 14:01,R_2aLIVLN6APyi8ZB,bf_94,21,5,0,b_f,black,female,5,4,5,4,1,1,4,7,34,2,1,I'm intriqued 
+9/27/21 13:24,9/27/21 13:29,R_2arWoKsNwDwgIdZ,bf_95,21,5,0,b_f,black,female,4,3,7,5,2,1,2,6,22,2,1,
+9/27/21 17:33,9/27/21 17:41,R_2b3Ea8U7OQw1w8p,bf_96,21,5,0,b_f,black,female,5,4,6,6,1,1,2,6,40,2,1,None 
+9/27/21 12:47,9/27/21 13:00,R_2Bm15PvtSVSpyNr,bf_97,21,5,0,b_f,black,female,4,4,5,5,2,1,3,5,27,2,1,
+9/27/21 16:42,9/27/21 16:45,R_2Bt9uiHrKJ9WwSI,bf_98,21,5,0,b_f,black,female,4,4,4,4,1,1,3,5,24,2,1,N/A
+9/27/21 18:58,9/27/21 19:03,R_2Bu5Y3A7mh3GDlI,bf_99,21,5,0,b_f,black,female,5,4,5,4,1,1,3,6,31,2,1,
+9/27/21 18:16,9/27/21 18:19,R_2BybDzH2UAo18IV,bf_100,11,5,0,b_f,black,female,7,4,7,7,1,1,1,7,18,2,1,
+9/27/21 14:53,9/27/21 15:05,R_2bZXEFwuPG8oOPr,bf_101,21,5,0,b_f,black,female,4,4,5,4,2,1,3,5,36,2,1,None
+9/27/21 17:22,9/27/21 17:26,R_2ceCCcPhXx8wguf,bf_102,11,5,0,b_f,black,female,3,7,6,2,2,1,1,7,34,2,1,"No, not really"
+9/27/21 15:08,9/27/21 15:12,R_2CVCjg6YmC7kJ0g,bf_103,11,5,0,b_f,black,female,6,4,7,4,2,1,3,5,20,2,1,
+9/27/21 14:50,9/27/21 14:55,R_2cw78ZCzaN2dOVS,bf_104,11,5,0,b_f,black,female,4,3,4,3,1,2,2,5,24,2,1, I chose the second participant(the blonde) because she wasn't as similar to me and thought that'd make her more interesting to get to know.
+9/27/21 15:24,9/27/21 15:28,R_2dGU1znW7aSa5A0,bf_105,21,5,0,b_f,black,female,1,1,1,1,2,2,2,2,50,2,1,No
+9/27/21 12:03,9/27/21 12:07,R_2dimXaha4dLzB6J,bf_106,21,5,0,b_f,black,female,5,5,5,5,1,1,4,6,38,2,1,
+9/27/21 15:48,9/27/21 15:56,R_2e27aRVQEdYjQm3,bf_107,11,5,0,b_f,black,female,7,7,7,7,1,1,1,7,31,2,1,The survey was interesting. 
+9/27/21 14:59,9/27/21 15:05,R_2ea59GFneQWQ1D3,bf_108,11,5,0,b_f,black,female,2,2,2,3,2,1,2,6,20,2,1,N/A
+9/27/21 18:51,9/27/21 18:56,R_2Em0LMo5FjiDRQk,bf_109,11,5,0,b_f,black,female,4,3,4,4,1,1,3,4,23,2,1,
+9/27/21 12:48,9/27/21 12:53,R_2EoZ0flVoD79n3Y,bf_110,21,5,0,b_f,black,female,4,4,4,4,2,1,4,7,44,2,1,No
+9/27/21 16:28,9/27/21 16:32,R_2Eue49XYgmSR9vO,bf_111,21,5,0,b_f,black,female,3,1,4,4,2,1,3,4,28,2,1,
+9/27/21 10:29,9/27/21 10:34,R_2eUNTo7fJYEAimV,bf_112,21,5,0,b_f,black,female,5,3,6,6,2,1,2,6,21,2,1,
+9/27/21 10:17,9/27/21 10:24,R_2f9ducK5g99Xrpc,bf_113,11,5,0,b_f,black,female,6,4,6,6,1,1,4,7,36,2,1,
+9/27/21 16:47,9/27/21 16:54,R_2fAOPXx6M5rJuk9,bf_114,21,5,0,b_f,black,female,1,1,1,1,1,2,2,3,63,2,1,no
+9/27/21 13:40,9/27/21 13:42,R_2fGW9BEvVPZsbL2,bf_115,11,5,0,b_f,black,female,4,3,6,5,2,1,4,6,30,2,1,
+9/27/21 14:40,9/27/21 14:46,R_2fk7VEwTEZD88L4,bf_116,21,5,0,b_f,black,female,7,4,7,4,1,1,5,6,34,2,1,
+9/27/21 12:56,9/27/21 13:02,R_2frf4ES1mytPSpr,bf_117,21,5,0,b_f,black,female,2,1,4,2,2,2,1,4,18,2,1,
+9/27/21 11:35,9/27/21 11:42,R_2ONELtUuB0MeEu3,bf_119,21,5,0,b_f,black,female,6,5,6,5,2,1,2,6,23,2,1,N/A
+9/27/21 8:47,9/27/21 8:52,R_2OVHRJS0PpPOynz,bf_120,17,5,0,b_f,black,female,3,3,4,4,2,1,3,5,43,2,1,n/a
+9/27/21 11:58,9/27/21 12:02,R_2P7oDZ52BWSfrRp,bf_122,11,5,0,b_f,black,female,3,3,4,4,2,1,1,4,19,2,1,None
+9/27/21 17:28,9/27/21 17:32,R_2P8dQVXsqHR56Ei,bf_123,21,5,0,b_f,black,female,6,4,7,6,1,1,5,7,28,2,1,
+9/27/21 18:28,9/27/21 18:32,R_2pK2grIj0N5svum,bf_124,21,5,0,b_f,black,female,2,2,5,4,2,1,2,7,24,2,1,I found it interesting how this study actually focuses more on whether we are more interested in communicating with people that look more like us rather than those that don't. 
+9/27/21 17:38,9/27/21 17:42,R_2pQ844yl7HSG3vo,bf_125,17,5,0,b_f,black,female,4,4,4,4,2,1,2,5,19,2,1,Nope.
+9/27/21 13:46,9/27/21 13:51,R_2q4A1ZOKRbYRWCe,bf_126,21,5,0,b_f,black,female,4,4,5,4,1,1,4,6,19,2,1,
+9/27/21 17:24,9/27/21 17:35,R_2qBDXShzdTyvEHF,bf_127,21,5,0,b_f,black,female,7,5,7,6,1,1,4,7,48,2,1,
+9/27/21 12:42,9/27/21 12:47,R_2qeoB2uNsI99Cps,bf_128,21,5,0,b_f,black,female,4,4,4,4,2,1,4,4,20,2,1,
+9/27/21 17:50,9/27/21 17:58,R_2Qg3Io1HKlos9ty,bf_129,11,5,0,b_f,black,female,7,3,7,5,2,1,2,6,21,2,1,
+9/27/21 13:10,9/27/21 13:13,R_2QlXno2jOc0CUw9,bf_130,21,5,0,b_f,black,female,5,5,6,5,1,1,3,6,25,2,1,
+9/27/21 11:35,9/27/21 11:39,R_2qvIWuWhiu9ON7y,bf_131,21,5,0,b_f,black,female,4,4,4,5,1,1,3,5,22,2,1,
+9/27/21 9:35,9/27/21 9:44,R_2rAe6YLnoSXfD02,bf_132,21,5,0,b_f,black,female,2,2,2,2,1,1,3,4,50,2,1,"I think the other person age would also have allot to do with if you'd want to get to know them, or think they would want to get to know you. "
+9/27/21 14:41,9/27/21 14:46,R_2rw0BNKBXrFSzzq,bf_133,21,5,0,b_f,black,female,7,5,7,5,1,1,4,5,33,2,1,No comment 
+9/27/21 18:31,9/27/21 18:35,R_2SIUU8zxEKPxRsy,bf_134,11,5,0,b_f,black,female,4,3,5,6,1,1,3,5,32,2,1,
+9/27/21 16:01,9/27/21 16:09,R_2tfh42T8btiZAB2,bf_135,21,5,0,b_f,black,female,4,4,4,5,2,1,3,6,20,2,1,
+9/27/21 12:45,9/27/21 12:50,R_2TM0rV5qPy6rfXW,bf_136,9,5,0,b_f,black,female,3,5,3,5,1,1,3,5,23,2,1,
+9/27/21 11:53,9/27/21 11:57,R_2truz9ETio51v8R,bf_137,11,5,0,b_f,black,female,4,4,4,4,1,1,5,5,48,2,1,
+9/27/21 13:07,9/27/21 13:20,R_2uqfB5pU7Sqzayl,bf_138,17,5,0,b_f,black,female,6,5,6,6,1,1,5,7,28,2,1,no
+9/27/21 13:12,9/27/21 13:16,R_2UYLZaHRr4TOpBN,bf_139,21,5,0,b_f,black,female,3,3,5,4,2,1,1,6,20,2,1,
+9/27/21 16:07,9/27/21 16:12,R_2VIT0cV82ngslrW,bf_140,21,5,0,b_f,black,female,1,4,1,4,2,1,4,4,49,2,1,no
+9/27/21 14:34,9/27/21 14:38,R_2wAiu7imqe1GPOK,bf_141,21,5,0,b_f,black,female,4,4,5,4,1,1,3,4,28,2,1,
+9/27/21 11:30,9/27/21 11:34,R_2wSp4G8bztmppJs,bf_142,9,5,0,b_f,black,female,5,5,6,5,2,1,2,6,42,2,1,
+9/27/21 11:15,9/27/21 11:25,R_2XcbqaJB7vPdst0,bf_143,11,5,0,b_f,black,female,5,5,6,6,1,1,4,4,43,2,1,NO THANKS
+9/27/21 8:48,9/27/21 8:52,R_2xE1GkftN0Ey1QB,bf_144,11,5,0,b_f,black,female,4,4,4,4,2,1,3,6,22,2,1,No. 
+9/27/21 12:59,9/27/21 13:09,R_2XhsWyn02XN6Iyl,bf_145,11,5,0,b_f,black,female,4,4,4,4,1,1,2,6,68,2,1,no
+9/27/21 8:19,9/27/21 8:25,R_2YbJeGejtmGfaMO,bf_146,17,5,0,b_f,black,female,2,2,2,2,1,2,1,7,22,2,1,
+9/27/21 13:51,9/27/21 13:54,R_2YbRXgaF2UdI5xZ,bf_147,17,5,0,b_f,black,female,3,2,3,2,1,1,3,5,23,2,1,
+9/27/21 13:06,9/27/21 13:10,R_2zHzTTK0q7n0zCg,bf_148,11,5,0,b_f,black,female,5,3,4,4,1,1,3,6,26,2,1,
+9/27/21 16:07,9/27/21 16:11,R_2ZJjqANKwcRe7cp,bf_149,21,5,0,b_f,black,female,6,5,6,5,1,1,5,6,51,2,1,interesting study.  thank you!
+9/27/21 14:45,9/27/21 14:49,R_2ZKqYG72rcjXuLI,bf_150,11,5,0,b_f,black,female,3,3,5,5,2,1,3,6,22,2,1,
+9/27/21 16:03,9/27/21 16:08,R_31aqb3D18iCiENF,bf_151,21,5,0,b_f,black,female,4,4,4,4,2,2,2,4,38,2,1,
+9/27/21 17:10,9/27/21 17:15,R_31iTyhiOYgeLmSt,bf_152,21,5,0,b_f,black,female,4,3,5,5,2,1,5,7,24,2,1,Nothing at this time 
+9/27/21 13:47,9/27/21 13:51,R_31MWW682nmhIX2r,bf_153,21,5,0,b_f,black,female,1,1,1,1,2,2,1,2,26,2,1,
+9/27/21 14:38,9/27/21 14:41,R_31nPsvMCTxjs8T2,bf_154,21,5,0,b_f,black,female,7,7,7,7,1,1,5,7,19,2,1,
+9/27/21 14:40,9/27/21 14:45,R_31QmyK89aAKBCAT,bf_155,21,5,0,b_f,black,female,6,3,6,3,1,1,5,6,63,2,1,People are people.
+9/27/21 16:41,9/27/21 16:47,R_31yXJk3rBGJbjkM,bf_156,3,5,0,b_f,black,female,4,5,4,5,1,1,3,5,22,2,1,
+9/27/21 15:32,9/27/21 15:34,R_33DVeyF5UVEWYfS,bf_157,21,5,0,b_f,black,female,3,4,6,6,2,1,4,6,20,2,1,
+9/27/21 15:09,9/27/21 15:14,R_33qA2JO8EZFVvoG,bf_158,21,5,0,b_f,black,female,4,2,4,2,1,1,1,4,44,2,1,No
+9/27/21 15:58,9/27/21 16:02,R_3CPGSxh4X42EmQH,bf_159,21,5,0,b_f,black,female,4,3,4,4,2,1,3,5,31,2,1,
+9/27/21 13:03,9/27/21 13:07,R_3DqlYsWFVlsyJ75,bf_160,11,5,0,b_f,black,female,5,4,5,4,1,1,4,5,30,2,1,I am having a MONDAY! Thanks for allowing me to take this survey :)
+9/27/21 16:26,9/27/21 16:32,R_3dVQaZwo2ZIq27s,bf_161,11,5,0,b_f,black,female,5,4,5,5,1,1,3,5,50,2,1,no
+9/27/21 12:02,9/27/21 12:05,R_3egCivV7lkf3T0K,bf_162,11,5,0,b_f,black,female,4,4,4,4,1,1,2,3,18,2,1,
+9/27/21 16:12,9/27/21 16:16,R_3EgSEwZ8VoxJWDi,bf_163,21,5,0,b_f,black,female,2,1,3,2,2,1,2,4,49,2,1,
+9/27/21 18:23,9/27/21 18:27,R_3elQZsyVpPvyHWX,bf_164,21,5,0,b_f,black,female,4,2,5,5,1,1,2,6,23,2,1,
+9/27/21 12:42,9/27/21 12:48,R_3enyo6xzvsimcdV,bf_165,17,5,0,b_f,black,female,5,4,6,4,1,1,3,6,28,2,1,No
+9/27/21 12:26,9/27/21 12:31,R_3EuQ3CYPjK5U0Zj,bf_166,21,5,0,b_f,black,female,2,2,5,3,2,2,1,6,20,2,1,
+9/27/21 16:30,9/27/21 16:37,R_3exbzK8A6rYpE8f,bf_167,11,5,0,b_f,black,female,5,4,6,4,1,1,4,6,31,2,1,"No, not at this time."
+9/27/21 18:36,9/27/21 18:41,R_3foY7QmtaE0DpPN,bf_168,11,5,0,b_f,black,female,4,3,4,2,2,1,3,4,28,2,1,
+9/27/21 13:13,9/27/21 13:19,R_3fTrICoSsoPFk3V,bf_169,11,5,0,b_f,black,female,6,4,6,4,1,1,2,6,40,2,1,
+9/27/21 14:27,9/27/21 14:31,R_3G19xtcExpQv0xv,bf_170,21,5,0,b_f,black,female,3,2,3,4,1,2,2,6,47,2,1,No
+9/27/21 15:08,9/27/21 15:13,R_3g1mokl4dzDmT4y,bf_171,21,5,0,b_f,black,female,4,2,4,2,1,1,2,3,20,2,1,
+9/27/21 12:37,9/27/21 12:44,R_3GjqA4P0iEB5JnI,bf_172,17,5,0,b_f,black,female,4,4,4,4,2,2,5,6,50,2,1,
+9/27/21 11:27,9/27/21 11:31,R_3gY99JnZp4wbZn3,bf_173,21,5,0,b_f,black,female,3,3,4,4,1,1,3,5,18,2,1,
+9/27/21 17:55,9/27/21 18:00,R_3gYjjpbxN8sYXJA,bf_174,11,5,0,b_f,black,female,5,5,5,5,1,1,4,6,49,2,1,No
+9/27/21 15:11,9/27/21 15:14,R_3IbMhPy9Z9qmAnm,bf_175,11,5,0,b_f,black,female,5,4,5,6,1,1,3,6,21,2,1,Nope
+9/27/21 11:36,9/27/21 11:41,R_3IcLy17kIxlZ9Ha,bf_176,21,5,0,b_f,black,female,5,4,6,4,2,1,3,7,39,2,1,
+9/27/21 13:28,9/27/21 13:33,R_3iIujpPNQJ9bAWs,bf_177,21,5,0,b_f,black,female,4,4,4,4,2,1,3,6,19,2,1,
+9/27/21 13:18,9/27/21 13:23,R_3iRtqZXFjxHAhT6,bf_178,21,5,0,b_f,black,female,4,4,4,4,1,1,2,6,52,2,1,
+9/27/21 15:56,9/27/21 16:00,R_3IY4wghzglwIri4,bf_179,17,5,0,b_f,black,female,4,4,4,4,1,1,3,4,30,2,1,No
+9/27/21 11:44,9/27/21 11:48,R_3izioHXqIeoIy74,bf_180,21,5,0,b_f,black,female,6,3,6,3,1,1,1,3,32,2,1,
+9/27/21 16:32,9/27/21 16:36,R_3J5ecImAhc2GN34,bf_181,11,5,0,b_f,black,female,5,3,5,5,2,2,1,5,42,2,1,
+9/27/21 11:16,9/27/21 11:25,R_3J8i08y6rBICDgU,bf_182,21,5,0,b_f,black,female,7,1,7,7,1,1,1,7,29,2,1,No
+9/27/21 15:50,9/27/21 15:53,R_3JsFv7e5NhNomYW,bf_183,11,5,0,b_f,black,female,6,4,7,7,1,1,4,7,25,2,1,
+9/27/21 13:53,9/27/21 13:57,R_3k5MJLgM4CsDGyZ,bf_184,21,5,0,b_f,black,female,5,4,5,5,1,1,4,6,23,2,1,
+9/27/21 17:00,9/27/21 17:04,R_3kAQV2cNR3myZ9D,bf_185,21,5,0,b_f,black,female,6,3,3,3,1,1,4,5,47,2,1,More surveys please 
+9/27/21 15:15,9/27/21 15:21,R_3kCaUw8zmdU2pZE,bf_186,21,5,0,b_f,black,female,6,6,6,6,1,1,6,7,38,2,1,
+9/27/21 13:57,9/27/21 14:02,R_3Kwkobz4h8Ibkuw,bf_187,21,5,0,b_f,black,female,7,4,7,5,2,1,3,5,18,2,1,I was excited to meet someone new.
+9/27/21 11:09,9/27/21 11:13,R_3KZX0U3hOjmtZ1a,bf_188,21,5,0,b_f,black,female,4,3,4,3,2,1,1,4,22,2,1,
+9/27/21 16:40,9/27/21 16:54,R_3L0i1GWr3MplcTd,bf_189,3,5,0,b_f,black,female,4,3,4,3,1,1,3,3,45,2,1,
+9/27/21 13:18,9/27/21 13:23,R_3LdPITUatrjfsV2,bf_190,21,5,0,b_f,black,female,3,3,4,4,1,1,3,5,20,2,1,
+9/27/21 11:57,9/27/21 12:00,R_3LhgvThVmNyGRm8,bf_191,21,5,0,b_f,black,female,1,1,6,4,2,1,1,7,18,2,1,
+9/27/21 13:44,9/27/21 13:47,R_3MtehcyavUZGezE,bf_192,11,5,0,b_f,black,female,4,3,4,4,1,1,2,5,24,2,1,
+9/27/21 13:08,9/27/21 13:11,R_3nAynp5HwhQjzll,bf_194,11,5,0,b_f,black,female,5,3,4,4,1,1,2,4,30,2,1,
+9/27/21 16:58,9/27/21 17:02,R_3NEuX8P1QFVIkA6,bf_195,21,5,0,b_f,black,female,5,4,5,4,2,1,3,4,51,2,1,
+9/27/21 18:26,9/27/21 18:29,R_3niqk2GV3gM1qJF,bf_196,21,5,0,b_f,black,female,6,6,6,6,1,1,5,6,21,2,1,
+9/27/21 13:24,9/27/21 13:31,R_3NO2AQHmAZOai0u,bf_197,21,5,0,b_f,black,female,1,1,1,1,2,2,2,2,25,2,1,I just want to say that i don't just look at a person and just assume that just because they are black or women that we have alot in common 
+9/27/21 16:49,9/27/21 16:53,R_3NW148dwKDfK91R,bf_198,11,5,0,b_f,black,female,5,4,5,4,1,1,2,7,20,2,1,
+9/27/21 19:13,9/27/21 19:16,R_3O1uPfIktrADmEh,bf_199,21,5,0,b_f,black,female,5,4,5,5,1,1,4,6,34,2,1,No
+9/27/21 18:16,9/27/21 18:20,R_3O6YRLydsNTxcnk,bf_200,11,5,0,b_f,black,female,4,3,6,5,2,1,4,5,22,2,1,nope
+9/27/21 17:32,9/27/21 17:37,R_3O9c5NmgO6jTbax,bf_201,21,5,0,b_f,black,female,4,2,6,6,1,1,3,5,42,2,1,Thank you
+9/27/21 12:32,9/27/21 12:38,R_3oLaUMMhPKJe9uR,bf_204,11,5,0,b_f,black,female,4,4,4,4,1,1,3,4,43,2,1,Talking to people makes me very nervous. 
+9/27/21 9:28,9/27/21 9:32,R_3p5OmBnAGOXSRKb,bf_205,21,5,0,b_f,black,female,1,1,2,1,2,1,2,3,45,2,1,No
+9/27/21 13:09,9/27/21 13:13,R_3P7fwEgcf3vTvW2,bf_206,21,5,0,b_f,black,female,5,3,6,6,2,1,2,6,21,2,1,
+9/27/21 17:24,9/27/21 17:27,R_3PAA1QZ6FJELrdy,bf_207,11,5,0,b_f,black,female,2,4,5,4,2,1,2,6,29,2,1,
+9/27/21 13:47,9/27/21 14:07,R_3PETwNXyiCCRd7U,bf_208,11,5,0,b_f,black,female,5,4,6,6,2,1,2,7,19,2,1,NA
+9/27/21 13:23,9/27/21 13:26,R_3PM26krQuW89GiP,bf_209,21,5,0,b_f,black,female,3,3,5,5,1,1,2,5,19,2,1,
+9/27/21 16:15,9/27/21 16:19,R_3PM4j1KvuMGWvbA,bf_210,11,5,0,b_f,black,female,5,3,6,6,2,1,2,6,18,2,1,
+9/27/21 18:43,9/27/21 18:46,R_3prv6ynU5gPef7Q,bf_211,21,5,0,b_f,black,female,4,4,5,5,2,1,4,6,21,2,1,
+9/27/21 15:01,9/27/21 15:04,R_3PvMG8dGnEwrGT7,bf_212,21,5,0,b_f,black,female,5,5,5,5,1,1,3,5,25,2,1,
+9/27/21 13:57,9/27/21 14:01,R_3qeNADarrrWG4nv,bf_213,11,5,0,b_f,black,female,6,5,5,5,1,1,1,7,30,2,1,
+9/27/21 10:19,9/27/21 10:23,R_3QGJjwZMdaiTj2I,bf_214,11,5,0,b_f,black,female,2,1,3,2,2,1,1,4,20,2,1,No.
+9/27/21 12:47,9/27/21 12:51,R_3qIJ3tciJfLWJSZ,bf_215,11,5,0,b_f,black,female,6,5,5,4,1,1,5,5,36,2,1,No feedback. 
+9/27/21 15:24,9/27/21 15:34,R_3qKjfK5VXfrTMK7,bf_216,17,5,0,b_f,black,female,4,2,7,6,2,1,6,6,34,2,1,no
+9/27/21 13:10,9/27/21 13:15,R_3QPLbL1nrcBdO19,bf_217,21,5,0,b_f,black,female,4,4,4,5,1,1,4,5,29,2,1,
+9/27/21 13:49,9/27/21 13:52,R_3QXey3BJFyNvMaR,bf_218,21,5,0,b_f,black,female,6,5,6,5,2,1,5,6,25,2,1,
+9/27/21 17:44,9/27/21 17:48,R_3R4wQzgqarhzeQ9,bf_219,11,5,0,b_f,black,female,3,3,7,7,2,1,1,7,25,2,1,
+9/27/21 15:23,9/27/21 15:28,R_3rFWgxemX3rR7EE,bf_220,3,5,0,b_f,black,female,2,2,2,2,2,2,4,3,60,2,1,Thank you! I was looking for an older Black lady as myself.
+9/27/21 14:28,9/27/21 14:32,R_3rH6s8qjea64Ely,bf_221,11,5,0,b_f,black,female,6,5,7,6,1,1,2,7,20,2,1,
+9/27/21 16:13,9/27/21 16:17,R_3RqfyIVFXTWczm5,bf_222,11,5,0,b_f,black,female,4,2,6,5,2,1,2,6,23,2,1,This was a very interesting survey and was fun to participate in
+9/27/21 18:37,9/27/21 18:43,R_3sn8He2KusiIt2V,bf_224,11,5,0,b_f,black,female,7,7,7,7,1,1,4,7,31,2,1,Thanks
+9/27/21 10:48,9/27/21 10:52,R_3stTxhZlLGHtKND,bf_225,11,5,0,b_f,black,female,5,3,6,4,2,1,3,5,19,2,1,
+9/27/21 16:16,9/27/21 16:19,R_3yqPjE3ASidkdQR,bf_226,21,5,0,b_f,black,female,7,7,7,7,1,1,1,7,31,2,1,The survey was interesting
+9/27/21 13:08,9/27/21 13:12,R_6FMJqqGbwd11EVr,bf_227,21,5,0,b_f,black,female,5,5,5,4,2,1,3,5,33,2,1,
+9/27/21 15:07,9/27/21 15:10,R_6rIE52cKOmsUcDf,bf_228,21,5,0,b_f,black,female,3,3,3,3,2,1,2,5,19,2,1,
+9/27/21 17:58,9/27/21 18:01,R_6WhdmdUEB6QNgRz,bf_229,21,5,0,b_f,black,female,4,3,5,3,2,2,2,5,28,2,1,
+9/27/21 15:34,9/27/21 15:41,R_6zEwE9AHPWOZZpT,bf_230,11,5,0,b_f,black,female,4,4,4,4,2,2,3,5,56,2,1,Interesting study. 
+9/27/21 15:30,9/27/21 15:35,R_77ejO4aa8CzeQDL,bf_231,11,5,0,b_f,black,female,1,2,2,3,2,1,3,3,21,2,1,
+9/27/21 13:11,9/27/21 13:14,R_7Ukpv5BveaLA8jD,bf_232,21,5,0,b_f,black,female,6,6,6,6,1,1,3,7,20,2,1,
+9/27/21 16:58,9/27/21 17:00,R_81wR4j198BbGQGR,bf_233,21,5,0,b_f,black,female,4,2,6,4,2,1,2,7,21,2,1,
+9/27/21 18:07,9/27/21 18:10,R_8v2znJGktUO9u7L,bf_235,11,5,0,b_f,black,female,5,5,5,5,1,1,5,6,19,2,1,
+9/27/21 11:36,9/27/21 11:41,R_8wAZYvzXLuBLtf3,bf_236,21,5,0,b_f,black,female,4,2,4,4,1,1,2,5,39,2,1,
+9/27/21 13:00,9/27/21 13:05,R_8wSnxgQu0Ze5VuN,bf_237,11,5,0,b_f,black,female,4,4,4,4,1,1,4,5,27,2,1,No
+9/27/21 14:04,9/27/21 14:07,R_9GEcyjkqMh3DNEB,bf_238,21,5,0,b_f,black,female,3,3,3,3,2,1,3,5,20,2,1,
+9/27/21 13:39,9/27/21 13:44,R_9TWZ8Atmia7VYzv,bf_239,21,5,0,b_f,black,female,5,3,5,4,2,1,2,6,43,2,1,no
+9/27/21 11:51,9/27/21 11:54,R_a4ppTu0yntBzMOZ,bf_240,21,5,0,b_f,black,female,2,2,3,4,2,1,1,6,20,2,1,
+9/27/21 12:23,9/27/21 12:27,R_AhDt4iDojPrJPoJ,bf_241,21,5,0,b_f,black,female,7,5,7,6,2,1,1,7,22,2,1,N/A
+9/27/21 16:37,9/27/21 16:43,R_bEJ8aSLNqgU8V9v,bf_242,11,5,0,b_f,black,female,6,5,6,6,1,1,4,6,21,2,1,
+9/27/21 13:04,9/27/21 13:10,R_BK5ag2mzzp59Reh,bf_243,11,5,0,b_f,black,female,4,5,4,4,1,1,2,5,21,2,1,
+9/27/21 18:58,9/27/21 19:16,R_BKwCzjN3OvcDbzz,bf_244,11,5,0,b_f,black,female,3,2,5,4,2,1,3,5,27,2,1,
+9/27/21 10:45,9/27/21 10:52,R_bq1L2Mdv4zyaZax,bf_245,11,5,0,b_f,black,female,4,3,4,3,1,1,3,5,27,2,1,I see what you did there
+9/27/21 12:19,9/27/21 12:23,R_ByPG1wUNFjnbn6F,bf_246,11,5,0,b_f,black,female,3,2,5,3,1,1,4,6,19,2,1,No
+9/27/21 12:17,9/27/21 12:20,R_BYwjnp4gw18kyxH,bf_247,11,5,0,b_f,black,female,3,1,6,5,2,1,1,7,22,2,1,
+9/27/21 14:29,9/27/21 14:32,R_C82nZhQUbrbg3EB,bf_248,21,5,0,b_f,black,female,3,2,5,4,2,1,3,6,24,2,1,
+9/27/21 15:17,9/27/21 15:21,R_cAVVlGWjU07Vd4t,bf_249,21,5,0,b_f,black,female,4,3,5,5,1,1,2,7,22,2,1,
+9/27/21 17:01,9/27/21 17:04,R_DDaEGPVrHw55x6h,bf_250,21,5,0,b_f,black,female,5,3,6,5,2,1,2,7,19,2,1,
+9/27/21 11:58,9/27/21 12:00,R_DdyYbi7oW9v1KyR,bf_251,11,5,0,b_f,black,female,4,3,4,4,2,1,3,5,18,2,1,
+9/27/21 13:13,9/27/21 13:17,R_DHOeknzUxTOibyp,bf_252,21,5,0,b_f,black,female,3,2,4,3,2,1,2,5,24,2,1,
+9/27/21 13:17,9/27/21 13:21,R_do2dG3YVSCoTatX,bf_253,11,5,0,b_f,black,female,2,2,3,3,1,1,4,5,24,2,1,
+9/27/21 14:32,9/27/21 14:35,R_e8tnvf9Jx5x8ywV,bf_254,11,5,0,b_f,black,female,3,2,3,3,2,1,2,4,23,2,1,
+9/27/21 16:41,9/27/21 16:48,R_Ok7mQMCPmarukj7,bf_255,21,5,0,b_f,black,female,5,5,6,6,2,1,4,7,63,2,1,no.
+9/27/21 18:20,9/27/21 18:22,R_Or6Oqo1ydpUoABb,bf_256,21,5,0,b_f,black,female,6,5,6,6,1,1,5,7,34,2,1,N/A
+9/27/21 15:04,9/27/21 15:08,R_PBPsK0HEfG3oCRj,bf_257,21,5,0,b_f,black,female,3,3,4,4,2,1,2,4,19,2,1,
+9/27/21 12:44,9/27/21 12:50,R_PFpoGoCdQjRB4Bz,bf_258,21,5,0,b_f,black,female,3,2,5,4,2,1,2,6,22,2,1,
+9/27/21 13:10,9/27/21 13:14,R_pGZFQF00pNTX6Uh,bf_259,21,5,0,b_f,black,female,5,6,6,5,1,1,3,6,20,2,1,N/A
+9/27/21 12:41,9/27/21 12:55,R_PNDnYNo0BrTy54B,bf_260,11,5,0,b_f,black,female,6,6,6,6,2,1,5,7,51,2,1,No additional comments.
+9/27/21 15:38,9/27/21 15:53,R_psM5eZaijrxbJDP,bf_261,11,5,0,b_f,black,female,7,7,7,7,1,1,7,7,36,2,1,No there is not
+9/27/21 18:36,9/27/21 18:55,R_pu4LTj2DIfn5XQ5,bf_262,11,5,0,b_f,black,female,6,6,7,7,1,1,4,4,35,2,1,NO
+9/27/21 14:06,9/27/21 14:12,R_put8YTYSeii2Zln,bf_263,11,5,0,b_f,black,female,3,5,4,4,1,1,2,6,21,2,1,
+9/27/21 18:14,9/27/21 18:17,R_qIsaKQs2DSeGSVX,bf_264,21,5,0,b_f,black,female,1,1,4,3,2,1,1,7,32,2,1,
+9/27/21 11:51,9/27/21 11:55,R_R52VhQbl7jBGfhT,bf_265,11,5,0,b_f,black,female,3,3,5,4,2,1,2,5,18,2,1,No questions or comments:)
+9/27/21 14:26,9/27/21 14:30,R_r7NpzG3GOpV8YAp,bf_266,11,5,0,b_f,black,female,3,2,5,5,2,1,2,5,19,2,1,
+9/27/21 16:56,9/27/21 16:58,R_r9jU3hbrctVV1UR,bf_267,11,5,0,b_f,black,female,6,6,7,7,1,1,4,6,23,2,1,NA
+9/27/21 13:44,9/27/21 13:48,R_rchtwt1D5CHmzbX,bf_268,11,5,0,b_f,black,female,5,5,6,6,1,1,3,5,18,2,1,
+9/27/21 11:36,9/27/21 11:41,R_RqysnB3lzPDo7Ad,bf_269,21,5,0,b_f,black,female,5,3,6,5,2,1,2,5,20,2,1,
+9/27/21 13:10,9/27/21 13:15,R_rrQ9yrrPJVinDEt,bf_270,21,5,0,b_f,black,female,4,4,4,4,2,1,2,4,19,2,1,
+9/27/21 12:55,9/27/21 12:58,R_sBUQFxqDt87S5EJ,bf_271,11,5,0,b_f,black,female,4,4,4,4,1,1,2,6,33,2,1,
+9/27/21 11:26,9/27/21 11:33,R_SHtPO0ipczZ1Ekh,bf_272,21,5,0,b_f,black,female,5,5,6,6,1,1,5,6,35,2,1,No
+9/27/21 17:17,9/27/21 17:32,R_sid71IbgTc5vnLr,bf_273,21,5,0,b_f,black,female,5,3,5,4,1,1,3,5,37,2,1,
+9/27/21 12:37,9/27/21 12:40,R_sNouZyMCgg3eC4x,bf_274,21,5,0,b_f,black,female,5,1,7,7,2,1,1,7,27,2,1,
+9/27/21 14:15,9/27/21 14:20,R_sR5aHRs2Pvhfwit,bf_275,21,5,0,b_f,black,female,4,4,4,4,1,1,4,5,18,2,1,
+9/27/21 17:46,9/27/21 17:53,R_SW2P34Yvb6GdTsl,bf_276,3,5,0,b_f,black,female,4,4,6,6,1,1,3,7,51,2,1,Thanks
+9/27/21 10:32,9/27/21 10:38,R_tJnGEzxUxY7vlRf,bf_277,21,5,0,b_f,black,female,3,2,4,4,2,1,3,4,35,2,1,No not necessarily
+9/27/21 15:11,9/27/21 15:15,R_TjxvbZAZSGmGLRf,bf_278,17,5,0,b_f,black,female,4,4,5,4,1,1,4,6,19,2,1,
+9/27/21 11:53,9/27/21 11:57,R_Tqj14vrsXf8xKut,bf_279,11,5,0,b_f,black,female,6,6,6,7,1,1,1,6,23,2,1,
+9/27/21 15:27,9/27/21 15:31,R_TuyRcPXYTUaBp3r,bf_280,11,5,0,b_f,black,female,4,4,4,4,2,1,3,4,23,2,1,
+9/27/21 13:36,9/27/21 13:41,R_u2E9iKDPioho2JP,bf_281,17,5,0,b_f,black,female,7,7,7,7,1,1,1,7,52,2,1,
+9/27/21 18:58,9/27/21 19:05,R_Uoooq7UBbylJNw5,bf_282,11,5,0,b_f,black,female,6,6,7,6,1,1,5,6,64,2,1,
+9/27/21 14:29,9/27/21 14:32,R_V1Kff4kHgYcfunv,bf_283,11,5,0,b_f,black,female,5,2,6,3,2,1,1,7,20,2,1,
+9/27/21 11:27,9/27/21 11:33,R_vAKxIDpZS6u3NzH,bf_284,21,5,0,b_f,black,female,3,3,3,3,2,1,1,6,23,2,1,
+9/27/21 17:05,9/27/21 17:14,R_vIyZwDjck466Chb,bf_285,21,5,0,b_f,black,female,5,3,6,6,1,1,4,6,22,2,1,
+9/27/21 14:10,9/27/21 14:15,R_vJNuUDAkOp2n9v3,bf_286,11,5,0,b_f,black,female,5,4,5,5,1,1,2,6,24,2,1,
+9/27/21 18:23,9/27/21 18:25,R_vT9cGvoufez64ut,bf_287,11,5,0,b_f,black,female,4,1,4,1,1,1,2,3,21,2,1,
+9/27/21 11:40,9/27/21 11:44,R_vwdWhYQqGcYySRj,bf_288,11,5,0,b_f,black,female,3,1,4,3,1,1,2,5,33,2,1,
+9/27/21 12:31,9/27/21 12:34,R_W86ewd8UhjtKGeB,bf_289,21,5,0,b_f,black,female,5,2,6,2,2,1,4,6,51,2,1,
+9/27/21 13:23,9/27/21 13:28,R_Wc8zgjWxgwRwZb3,bf_290,21,5,0,b_f,black,female,6,5,7,7,2,1,5,7,32,2,1,
+9/27/21 13:19,9/27/21 13:22,R_WiGTwt5pCGT9Nfz,bf_291,9,5,0,b_f,black,female,7,6,7,7,1,1,2,7,40,2,1,Very interesting 
+9/27/21 13:12,9/27/21 13:17,R_WiiS5SORBvh2Uff,bf_292,21,5,0,b_f,black,female,4,4,6,5,1,1,3,6,21,2,1,No
+9/27/21 13:19,9/27/21 13:23,R_WkYVbcb4uPcqLHX,bf_293,21,5,0,b_f,black,female,1,1,2,2,2,1,1,4,39,2,1,
+9/27/21 10:25,9/27/21 10:30,R_wRXG7XNT1iS0DVD,bf_294,11,5,0,b_f,black,female,5,4,6,6,1,1,2,6,30,2,1,
+9/27/21 13:04,9/27/21 13:09,R_wTvQECNelRt0M5b,bf_295,21,5,0,b_f,black,female,2,2,4,3,2,1,1,5,21,2,1,
+9/27/21 16:12,9/27/21 16:22,R_x8X5gXLcd9bKcoh,bf_297,11,5,0,b_f,black,female,3,3,5,5,1,1,2,6,35,2,1,
+9/27/21 13:41,9/27/21 13:48,R_XgF2qTivze6R8JP,bf_298,11,5,0,b_f,black,female,4,2,4,2,1,1,3,5,27,2,1,
+9/27/21 19:04,9/27/21 19:07,R_Y9A2upq5X2p4Ndn,bf_299,11,5,0,b_f,black,female,3,3,5,4,2,1,2,4,32,2,1,
+9/27/21 15:47,9/27/21 15:51,R_z7pwmAiTugulYKB,bf_300,21,5,0,b_f,black,female,1,1,1,1,2,2,7,7,25,2,1,no
+9/27/21 17:32,9/27/21 17:37,R_ZJJRcOijuokp3c5,bf_301,11,5,0,b_f,black,female,4,4,4,4,1,1,3,5,25,2,1,
