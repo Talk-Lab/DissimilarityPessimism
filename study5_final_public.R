@@ -7,7 +7,7 @@
 library(pacman)
 p_load(tidyverse, ggplot, glue, corrr, broom, magrittr, ggExtra, lme4, ggeffects, lmerTest, 
        emmeans, pbkrtest, questionr, knitr, sjPlot, effects, report, brglm, scales, optimx, knitr,
-       kableExtra)
+       kableExtra, simr)
 
 # set constants -----------------------------------------------------------
 
