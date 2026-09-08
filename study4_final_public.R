@@ -10,7 +10,7 @@
 library(pacman)
 p_load(tidyverse, glue, broom, lme4, nlme, sjPlot, lmerTest, emmeans, lavaan, car, RSA, tkrplot, qgraph, rgl, psych, rempsyc,
        ltm, rstatix,ggplot2, ggpubr, boot, boot.pval, JSmediation, mediation, bruceR, fwb, syuzhet, openai, jsonlite, purrr, 
-       rmcorr, patchwork)
+       rmcorr, patchwork, simr)
 
 # set constants -----------------------------------------------------------
 
