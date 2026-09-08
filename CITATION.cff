@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these data, code, or materials, please cite the paper below."
+title: "Data, code, and materials for: People underestimate how much dissimilar others want to connect"
+type: dataset
+authors:
+  - family-names: Cooney
+    given-names: Gus
+    affiliation: Dartmouth College
+  - family-names: Boothby
+    given-names: Erica J.
+    affiliation: Dartmouth College
+  - family-names: Vorauer
+    given-names: Jacquie D.
+    affiliation: University of Manitoba
+  - family-names: Schweitzer
+    given-names: Maurice E.
+    affiliation: University of Pennsylvania
+repository-code: "https://github.com/Talk-Lab/DissimilarityPessimism"
+license: MIT
+preferred-citation:
+  type: article
+  title: "People underestimate how much dissimilar others want to connect"
+  journal: "Journal of Personality and Social Psychology"
+  year: 2026
+  authors:
+    - family-names: Cooney
+      given-names: Gus
+    - family-names: Boothby
+      given-names: Erica J.
+    - family-names: Vorauer
+      given-names: Jacquie D.
+    - family-names: Schweitzer
+      given-names: Maurice E.
