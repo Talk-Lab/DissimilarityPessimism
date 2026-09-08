@@ -6,7 +6,7 @@
 
 library(pacman)
 p_load(tidyverse, glue, broom, readr, lme4, lmerTest, emmeans, effectsize, rempsyc, magrittr, 
-       performance, RSA, lavaan, psych, flextable, ltm, rstatix, regclass, lm.beta)
+       performance, RSA, lavaan, psych, flextable, ltm, rstatix, regclass, lm.beta, simr)
 
 # set constants -----------------------------------------------------------
 
