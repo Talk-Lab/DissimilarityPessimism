@@ -85,7 +85,7 @@ d_long <- d_long %>%
 
 d_long
 
-#write.csv(d_long, file = glue("{DATA_PATH}/z_study5_long_aggregate.csv"))
+write.csv(d_long, file = glue("{DATA_PATH}/study5_long_aggregate.csv"))
 
 # modeling overall ----------------------------------------------------------------------
 
