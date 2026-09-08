@@ -193,7 +193,7 @@ df_long
 
 df_subset <- df_long[, c("participant_id", "sim_dissim", "self_other", "general_race", "conversation", "belief", "conf", "valence")]
 
-#write.csv(df_subset, file = glue("{DATA_PATH}/z_study4_long_aggregate.csv"))
+write.csv(df_subset, file = glue("{DATA_PATH}/study4_long_aggregate.csv"))
 
 
 # primary effects  -------------------------------------------------------------------------
