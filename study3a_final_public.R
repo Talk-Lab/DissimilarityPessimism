@@ -7,7 +7,7 @@
 library(pacman)
 p_load(tidyverse, ggplot2, glue, corrr, broom, magrittr, ggExtra, lme4, ggeffects, 
        lmerTest, emmeans, pbkrtest, questionr, knitr, sjPlot, effects, report, ltm, 
-       glm.predict, ggpubr, rstatix, margins)
+       glm.predict, ggpubr, rstatix, margins, simr)
 
 # set constants -----------------------------------------------------------
 
