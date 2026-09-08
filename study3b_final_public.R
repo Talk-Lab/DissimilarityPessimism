@@ -168,7 +168,7 @@ d_long <- d_long |>
 
 d_long$rating <- as.numeric(d_long$rating)
 
-#write.csv(d_long, file = glue("{DATA_PATH}/z_study3b_long_aggregate.csv"))
+write.csv(d_long, file = glue("{DATA_PATH}/study3b_long_aggregate.csv"))
 
 
 # modeling ---------------------------------------------------------------------
