@@ -5,7 +5,7 @@
 # load libraries ----------------------------------------------------------
 
 library(pacman)
-p_load(tidyverse, glue, broom, readr, lme4, lmerTest, emmeans, effsize, rempsyc, magrittr, psych)
+p_load(tidyverse, glue, broom, readr, lme4, lmerTest, emmeans, effsize, rempsyc, magrittr, psych, simr)
 
 # set constants -----------------------------------------------------------
 
