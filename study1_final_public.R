@@ -136,7 +136,7 @@ d_long <- d_long |>
     partner_type_c  = ifelse(sim_dissim  == "sim",   +0.5, -0.5),
   )
 
-#write.csv(d_long, file = glue("{DATA_PATH}/z_study1_long_aggregate.csv"))
+write.csv(d_long, file = glue("{DATA_PATH}/study1_long_aggregate.csv"))
 
 # Modeling ---------------------------------------------------------------
 
