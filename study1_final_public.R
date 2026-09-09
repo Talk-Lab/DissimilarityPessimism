@@ -400,7 +400,7 @@ ann_h3 <- tibble(
   group1      = "Similar Partner",
   group2      = "Dissimilar Partner",
   y.position  = y_global + (h3_offset - h1_offset),
-  label       = "**"
+  label       = "*"
 )
 
 ## --- 3) Plot using ggpubr (keeps your original look) ---
@@ -452,39 +452,44 @@ bp
 
 fig1 <- bp
 
-
 #fig1 <- ggpar(bp, ylim = c(3,6.5))
 
 save_plot_multi <- function(plot,
                             file_stem,
-                            exts   = c("png", "jpeg", "pdf"),
-                            width  = 8,
-                            height = 6,
-                            dpi    = 300,
+                            exts   = c("pdf", "tiff", "jpeg"),
+                            width  = 10,      # inches at final print size (6.5 = full page width)
+                            height = 8,
+                            dpi    = 600,      # raster resolution for line art with text
                             path   = PLOT_PATH) {
   # If the object is from grid.arrange() we convert it first
   if (inherits(plot, "gtable")) {
     plot <- gridExtra::arrangeGrob(plot)
   }
   
-  # Iterate over requested extensions
   purrr::walk(exts, function(ext) {
-    ggsave(
-      filename = glue::glue("{file_stem}.{ext}"),
-      plot     = plot,
-      device   = ext,          # lets ggsave pick the right device
-      path     = path,
-      width    = width,
-      height   = height,
-      dpi      = dpi
-    )
+    if (ext == "pdf") {
+      # vector, fonts embedded, Unicode-safe
+      ggsave(filename = glue::glue("{file_stem}.pdf"), plot = plot, path = path,
+             device = grDevices::cairo_pdf, width = width, height = height, units = "in")
+    } else if (ext == "tiff") {
+      # lossless raster, LZW keeps the file size sane
+      ggsave(filename = glue::glue("{file_stem}.tiff"), plot = plot, path = path,
+             device = "tiff", compression = "lzw", dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else if (ext == "jpeg") {
+      ggsave(filename = glue::glue("{file_stem}.jpeg"), plot = plot, path = path,
+             device = "jpeg", quality = 100, dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else {
+      ggsave(filename = glue::glue("{file_stem}.{ext}"), plot = plot, path = path,
+             device = ext, dpi = dpi, width = width, height = height, units = "in", bg = "white")
+    }
   })
   invisible(TRUE)
 }
 
 save_plot_multi(fig1,
-                file_stem = "fig1",
-                exts      = c("png", "pdf", "jpeg"),   # add/remove as needed
+                file_stem = "Figure1",
                 width     = 10,
                 height    = 8)
 
