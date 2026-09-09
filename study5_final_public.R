@@ -570,24 +570,19 @@ plot_df_sc <- plot_means_sc %>%
   )
 
 #new comparison for this graph - self to self dissimilar
-emm_sc_full <- emmeans(
-  fit_sc,
-  ~ rating_type_c * partner_type_c,
-  at = list(
-    rating_type_c  = c(-0.5, 0.5),
-    partner_type_c = c(-0.5, 0.5)
-  )
+emm_self_sc <- emmeans(
+  fit_sc, ~ partner_type_c,
+  at = list(rating_type_c = 0.5, partner_type_c = c(-0.5, 0.5)),
+  pbkrtest.limit = 7856
 )
-emm_sc_full
-
+emm_self_sc   # two rows: partner_type_c = -0.5 (dissimilar), then 0.5 (similar)
 con_self_sc <- contrast(
-  emm_sc_full,
-  list("Self: dissimilar - similar" = c(0, 0, -1, 1))
+  emm_self_sc,
+  list("Self: dissimilar - similar" = c(1, -1))
 )
 summary(con_self_sc, infer = TRUE)
 
 # Brackets
-
 #old places
 
 tops_sc <- plot_df_sc %>%
@@ -605,7 +600,7 @@ ann_h2_sc <- tops_sc %>%
     group1     = "Self",
     group2     = "Other",
     y.position = y_top + h2_offset,
-    label      = c("***", "***")   # you can use "**" or "n.s." if you want to be precise
+    label      = c("*", "***")   # you can use "**" or "n.s." if you want to be precise
   )
 
 # H3: interaction (self–other gap_dissim – gap_sim); significant for Sociocultural
@@ -651,7 +646,7 @@ bracket_self_self <- tibble::tibble(
   xstart = self_sim_center,
   xend   = self_dsim_center,
   y      = y_bracket,
-  label  = "***"
+  label  = "*"
 )
 
 # bracket 2: Self vs Other in dissimilar condition
@@ -750,37 +745,42 @@ fig_sociocultural
 
 save_plot_multi <- function(plot,
                             file_stem,
-                            exts   = c("png", "jpeg", "pdf"),
-                            width  = 8,
-                            height = 6,
-                            dpi    = 300,
+                            exts   = c("pdf", "tiff", "jpeg"),
+                            width  = 10,      # inches at final print size (6.5 = full page width)
+                            height = 8,
+                            dpi    = 600,      # raster resolution for line art with text
                             path   = PLOT_PATH) {
   # If the object is from grid.arrange() we convert it first
   if (inherits(plot, "gtable")) {
     plot <- gridExtra::arrangeGrob(plot)
   }
   
-  # Iterate over requested extensions
   purrr::walk(exts, function(ext) {
-    ggsave(
-      filename = glue::glue("{file_stem}.{ext}"),
-      plot     = plot,
-      device   = ext,          # lets ggsave pick the right device
-      path     = path,
-      width    = width,
-      height   = height,
-      dpi      = dpi
-    )
+    if (ext == "pdf") {
+      # vector, fonts embedded, Unicode-safe
+      ggsave(filename = glue::glue("{file_stem}.pdf"), plot = plot, path = path,
+             device = grDevices::cairo_pdf, width = width, height = height, units = "in")
+    } else if (ext == "tiff") {
+      # lossless raster, LZW keeps the file size sane
+      ggsave(filename = glue::glue("{file_stem}.tiff"), plot = plot, path = path,
+             device = "tiff", compression = "lzw", dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else if (ext == "jpeg") {
+      ggsave(filename = glue::glue("{file_stem}.jpeg"), plot = plot, path = path,
+             device = "jpeg", quality = 100, dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else {
+      ggsave(filename = glue::glue("{file_stem}.{ext}"), plot = plot, path = path,
+             device = ext, dpi = dpi, width = width, height = height, units = "in", bg = "white")
+    }
   })
   invisible(TRUE)
 }
 
 save_plot_multi(fig_sociocultural,
-                file_stem = "fig6",
-                exts      = c("png", "pdf", "jpeg"),   # add/remove as needed
+                file_stem = "Figure7",
                 width     = 10,
                 height    = 8)
-
 
 
 
