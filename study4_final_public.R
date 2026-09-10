@@ -4,7 +4,6 @@
 
 # NOTES -------------------------------------------------------------------
 
-
 # load libraries ----------------------------------------------------------
 
 library(pacman)
@@ -158,19 +157,19 @@ df <- df %>%
     thought_dissim_other_general_1 = paste(thought1_dissim_other_general_1, thought2_dissim_other_general_1, sep = " "),
     thought_sim_self_general_1 = paste(thought1_sim_self_general_1, thought2_sim_self_general_1, sep = " "),
     thought_sim_other_general_1 = paste(thought1_sim_other_general_1, thought2_sim_other_general_1, sep = " "),
-    thought_dissim_self_race_1 = paste(thought1_dissim_self_race_1, thought2_dissim_self_general_1, sep = " "),
-    thought_dissim_other_race_1 = paste(thought1_dissim_other_race_1, thought2_dissim_other_general_1, sep = " "),
-    thought_sim_self_race_1 = paste(thought1_sim_self_race_1, thought2_sim_self_general_1, sep = " "),
-    thought_sim_other_race_1 = paste(thought1_sim_other_race_1, thought2_sim_other_general_1, sep = " "),
+    thought_dissim_self_race_1  = paste(thought1_dissim_self_race_1,  thought2_dissim_self_race_1,  sep = " "),
+    thought_dissim_other_race_1 = paste(thought1_dissim_other_race_1, thought2_dissim_other_race_1, sep = " "),
+    thought_sim_self_race_1     = paste(thought1_sim_self_race_1,     thought2_sim_self_race_1,     sep = " "),
+    thought_sim_other_race_1    = paste(thought1_sim_other_race_1,    thought2_sim_other_race_1,    sep = " "),
     
     thought_dissim_self_general_2 = paste(thought1_dissim_self_general_2, thought2_dissim_self_general_2, sep = " "),
     thought_dissim_other_general_2 = paste(thought1_dissim_other_general_2, thought2_dissim_other_general_2, sep = " "),
     thought_sim_self_general_2 = paste(thought1_sim_self_general_2, thought2_sim_self_general_2, sep = " "),
     thought_sim_other_general_2 = paste(thought1_sim_other_general_2, thought2_sim_other_general_2, sep = " "),
-    thought_dissim_self_race_2 = paste(thought1_dissim_self_race_2, thought2_dissim_self_general_2, sep = " "),
-    thought_dissim_other_race_2 = paste(thought1_dissim_other_race_2, thought2_dissim_other_general_2, sep = " "),
-    thought_sim_self_race_2 = paste(thought1_sim_self_race_2, thought2_sim_self_general_2, sep = " "),
-    thought_sim_other_race_2 = paste(thought1_sim_other_race_2, thought2_sim_other_general_2, sep = " ")
+    thought_dissim_self_race_2  = paste(thought1_dissim_self_race_2,  thought2_dissim_self_race_2,  sep = " "),
+    thought_dissim_other_race_2 = paste(thought1_dissim_other_race_2, thought2_dissim_other_race_2, sep = " "),
+    thought_sim_self_race_2     = paste(thought1_sim_self_race_2,     thought2_sim_self_race_2,     sep = " "),
+    thought_sim_other_race_2    = paste(thought1_sim_other_race_2,    thought2_sim_other_race_2,    sep = " ")
   )
 
 # long format 
@@ -194,7 +193,6 @@ df_long
 df_subset <- df_long[, c("participant_id", "sim_dissim", "self_other", "general_race", "conversation", "belief", "conf", "valence")]
 
 write.csv(df_subset, file = glue("{DATA_PATH}/study4_long_aggregate.csv"))
-
 
 # primary effects  -------------------------------------------------------------------------
 
