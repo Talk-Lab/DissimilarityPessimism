@@ -460,7 +460,7 @@ rm_dis$r; rm_sim$r
 
 run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "perc") {
   
-  # ADD 1: refuse to run if any analysis variable has missing values, so the three
+  # Refuse to run if any analysis variable has missing values, so the three
   # equations are always fit on the same rows (lmer would otherwise drop rows per model)
   na_counts <- colSums(is.na(data_subset[, c("participant_id", "self_other", "sim_dissim",
                                              "conf", "valence", "belief")]))
@@ -492,7 +492,7 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
     M1 * partner_type_c + M2 * partner_type_c +
     (1 + rating_type_c + partner_type_c + rating_type_c:partner_type_c || participant_id)
   
-  # ADD 2: tally of fits, singular fits, and non-singular warnings (e.g. convergence)
+  # Tally of fits, singular fits, and non-singular warnings (e.g. convergence)
   diag <- c(fits = 0, singular = 0, warnings = 0, errors = 0)
   
   fit_lmer <- function(formula, df) {
@@ -603,7 +603,7 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
   boot_obj$t <- boot_obj$t[keep, , drop = FALSE]
   boot_obj$R <- nrow(boot_obj$t)
   
-  # ADD 2 (cont.): report and store the diagnostic tally
+  # Report and store the diagnostic tally
   message(sprintf("Fits: %d | singular: %d (%.1f%%) | non-singular warnings: %d (%.1f%%) | errors: %d",
                   diag["fits"], diag["singular"], 100 * diag["singular"] / diag["fits"],
                   diag["warnings"], 100 * diag["warnings"] / diag["fits"], diag["errors"]))
@@ -614,6 +614,7 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
   
   boot_obj
 }
+
 
 #-----------------------------------------------
 # 2) Tidy table: percentile CIs + boot.pval p's
