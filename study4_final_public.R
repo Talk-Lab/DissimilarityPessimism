@@ -63,7 +63,7 @@ mode_chr <- function(x) {
   # deterministic tie-breaker: earliest value observed
   winners <- names(tab)[tab == max(tab)]
   # pick the first occurrence of any winner in the original (non-missing) order
-  x_first <- x[match(winners, x)][1]
+  x_first <- x[which(x %in% winners)[1]]
   x_first
 }
 
