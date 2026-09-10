@@ -457,7 +457,19 @@ rm_dis$r; rm_sim$r
 #----------------------------
 # FINAL model 
 #----------------------------
+
 run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "perc") {
+  
+  # ADD 1: refuse to run if any analysis variable has missing values, so the three
+  # equations are always fit on the same rows (lmer would otherwise drop rows per model)
+  na_counts <- colSums(is.na(data_subset[, c("participant_id", "self_other", "sim_dissim",
+                                             "conf", "valence", "belief")]))
+  if (any(na_counts > 0)) {
+    stop("Missing values in analysis variables: ",
+         paste(names(na_counts)[na_counts > 0], na_counts[na_counts > 0],
+               sep = " = ", collapse = ", "),
+         ". Define one complete-case analysis sample before calling this function.")
+  }
   
   # Centered numeric contrasts (clear and stable)
   dat <- data_subset %>%
@@ -480,26 +492,39 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
     M1 * partner_type_c + M2 * partner_type_c +
     (1 + rating_type_c + partner_type_c + rating_type_c:partner_type_c || participant_id)
   
+  # ADD 2: tally of fits, singular fits, and non-singular warnings (e.g. convergence)
+  diag <- c(fits = 0, singular = 0, warnings = 0, errors = 0)
+  
+  fit_lmer <- function(formula, df) {
+    warned <- FALSE
+    fit <- tryCatch(
+      withCallingHandlers(
+        lmer(formula, data = df, REML = FALSE,
+             control = lmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e5))),
+        warning = function(w) { warned <<- TRUE; invokeRestart("muffleWarning") },
+        message = function(m) invokeRestart("muffleMessage")   # silences the boundary spam
+      ),
+      error = function(e) e
+    )
+    diag["fits"] <<- diag["fits"] + 1
+    if (inherits(fit, "error")) { diag["errors"] <<- diag["errors"] + 1; return(fit) }
+    if (isSingular(fit))         diag["singular"] <<- diag["singular"] + 1
+    if (warned)                  diag["warnings"] <<- diag["warnings"] + 1
+    fit
+  }
+  
   # Helper: compute the 15 path quantities from a data.frame
   compute_effects <- function(df) {
-    # Fit full models; if any fitting error, propagate NA vector
-    m1 <- try(lmer(fm_m1, data = df, REML = FALSE,
-                   control = lmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e5))),
-              silent = FALSE)
-    if (inherits(m1, "try-error")) return(rep(NA_real_, 15))
-    
-    m2 <- try(lmer(fm_m2, data = df, REML = FALSE,
-                   control = lmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e5))),
-              silent = FALSE)
-    if (inherits(m2, "try-error")) return(rep(NA_real_, 15))
-    
-    m3 <- try(lmer(fm_y,  data = df, REML = FALSE,
-                   control = lmerControl(optimizer = "bobyqa", optCtrl = list(maxfun = 2e5))),
-              silent = FALSE)
-    if (inherits(m3, "try-error")) return(rep(NA_real_, 15))
+    m1 <- fit_lmer(fm_m1, df); if (inherits(m1, "error")) return(rep(NA_real_, 15))
+    m2 <- fit_lmer(fm_m2, df); if (inherits(m2, "error")) return(rep(NA_real_, 15))
+    m3 <- fit_lmer(fm_y,  df); if (inherits(m3, "error")) return(rep(NA_real_, 15))
     
     fe1 <- fixef(m1); fe2 <- fixef(m2); fe3 <- fixef(m3)
-    gb  <- function(fe, nm) if (nm %in% names(fe)) unname(fe[[nm]]) else 0
+    # a missing coefficient name is an error, not a silent zero
+    gb  <- function(fe, nm) {
+      if (!nm %in% names(fe)) stop("Coefficient not found: ", nm)
+      unname(fe[[nm]])
+    }
     
     # Moderator at dissimilar (-.5) vs similar (+.5)
     Wd <- -0.5; Ws <- +0.5
@@ -510,11 +535,11 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
     a2_d <- gb(fe2,"rating_type_c") + Wd * gb(fe2,"rating_type_c:partner_type_c")
     a2_s <- gb(fe2,"rating_type_c") + Ws * gb(fe2,"rating_type_c:partner_type_c")
     
-    # b-paths: M1/M2 -> Y
-    b1_d <- gb(fe3,"M1") + Wd * gb(fe3,"M1:partner_type_c")
-    b1_s <- gb(fe3,"M1") + Ws * gb(fe3,"M1:partner_type_c")
-    b2_d <- gb(fe3,"M2") + Wd * gb(fe3,"M2:partner_type_c")
-    b2_s <- gb(fe3,"M2") + Ws * gb(fe3,"M2:partner_type_c")
+    # b-paths: M1/M2 -> Y  (R names these interactions partner_type_c:M1 / :M2)
+    b1_d <- gb(fe3,"M1") + Wd * gb(fe3,"partner_type_c:M1")
+    b1_s <- gb(fe3,"M1") + Ws * gb(fe3,"partner_type_c:M1")
+    b2_d <- gb(fe3,"M2") + Wd * gb(fe3,"partner_type_c:M2")
+    b2_s <- gb(fe3,"M2") + Ws * gb(fe3,"partner_type_c:M2")
     
     # c' (direct): X -> Y
     cp_d <- gb(fe3,"rating_type_c") + Wd * gb(fe3,"rating_type_c:partner_type_c")
@@ -546,8 +571,13 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
   ids_all <- unique(dat$participant_id)
   stat_fun <- function(id_vec, i, original_data) {
     samp_ids <- id_vec[i]
-    d2 <- do.call(rbind, lapply(samp_ids, function(pid)
-      original_data[original_data$participant_id == pid, , drop = FALSE]))
+    # each draw gets its own cluster ID, so a participant sampled twice
+    # is two clusters, not one cluster with duplicated rows
+    d2 <- do.call(rbind, lapply(seq_along(samp_ids), function(k) {
+      rows <- original_data[original_data$participant_id == samp_ids[k], , drop = FALSE]
+      rows$participant_id <- k
+      rows
+    }))
     compute_effects(d2)
   }
   
@@ -572,6 +602,12 @@ run_moderated_parallel_mediation <- function(data_subset, R = 1000, ci_type = "p
   
   boot_obj$t <- boot_obj$t[keep, , drop = FALSE]
   boot_obj$R <- nrow(boot_obj$t)
+  
+  # ADD 2 (cont.): report and store the diagnostic tally
+  message(sprintf("Fits: %d | singular: %d (%.1f%%) | non-singular warnings: %d (%.1f%%) | errors: %d",
+                  diag["fits"], diag["singular"], 100 * diag["singular"] / diag["fits"],
+                  diag["warnings"], 100 * diag["warnings"] / diag["fits"], diag["errors"]))
+  attr(boot_obj, "fit_diagnostics") <- diag
   
   # Store the CI type used as an attribute (for downstream functions)
   attr(boot_obj, "ci_type") <- ci_type
@@ -658,7 +694,7 @@ create_tidy_boot_table_moderated <- function(boot_obj, ci_type = NULL) {
 set.seed(12345)
 
 # Overall
-boot_overall <- run_moderated_parallel_mediation(df_subset, R = 200)  # increase to 5000 for final
+boot_overall <- run_moderated_parallel_mediation(df_subset, R = 5000)  # increase to 5000 for final
 tbl_overall  <- create_tidy_boot_table_moderated(boot_overall)
 print(tbl_overall)
 
@@ -671,23 +707,6 @@ boot_race <- run_moderated_parallel_mediation(dplyr::filter(df_subset, general_r
 tbl_race  <- create_tidy_boot_table_moderated(boot_race)
 print(tbl_race)
 
-#hand check a few numbers for sanity
-idx     <- 10
-theta0  <- boot_overall$t0[idx]           # your point estimate (~ 0.0197)
-thetas  <- boot_overall$t[, idx]          # bootstrap replicates for this effect
-R_eff   <- nrow(boot_overall$t)
-
-# 95% percentile CI (matches your table):
-ci_perc <- quantile(thetas, c(.025, .975), na.rm = TRUE)
-ci_perc
-
-k      <- sum(thetas <= 0, na.rm = TRUE)    # how many bootstrap effects ≤ 0
-p_est  <- 2 * min(k, R_eff - k) / R_eff     # two-sided p (resolution 1/R_eff)
-p_est
-# With no draws ≤ 0, p_est = 0 -> reported as 1/R_eff = 0.001 via boot.pval
-
-#confirm with BCa
-boot.ci(boot_overall, type = c("perc", "bca"), index = idx)
 
 #a and b paths
 fit_mediation_models <- function(data_subset) {
@@ -801,14 +820,9 @@ compute_raw_indirects <- function(paths_tbl) {
 
 raw_indirects <- compute_raw_indirects(paths)
 raw_indirects
-
-#don't match exacty - not a problem
-#For inference on indirects, the bootstrap is the right tool because an indirect is a non‑linear function of multiple coefficients with non‑trivial covariance. 
-#Bootstrap approach is doing exactly what it should. (The p‑values you report are obtained by CI‑inversion of the bootstrap distribution, which is the recommended practice for such composites.
-
 ##################################
 
-### AGGREGATE
+### AGGREGATE & PLOT
 
 ##################################
 
@@ -816,7 +830,8 @@ d_long_1 <- read_csv(glue("{DATA_PATH}/study1_long_aggregate.csv"))
 d_long_2 <- read_csv(glue("{DATA_PATH}/study2_long_aggregate.csv"))
 d_long_3a <- read_csv(glue("{DATA_PATH}/study3a_long_aggregate.csv"))
 d_long_3b <- read_csv(glue("{DATA_PATH}/study3b_long_aggregate.csv"))
-d_long_4 <- read_csv(glue("{DATA_PATH}/study4_long_aggregate.csv"))
+d_long_4 <- read_csv(glue("{DATA_PATH}/study4_long_aggregate.csv")) %>%
+  rename(pid = participant_id)
 d_long_5 <- read_csv(glue("{DATA_PATH}/study5_long_aggregate.csv"))
 
 #recodes
@@ -870,6 +885,9 @@ classify_bias <- function(data,
       self  = !!self_code,
       other = !!other_code
     )
+  
+  wide_df <- wide_df %>%
+    filter(!is.na(self), !is.na(other))      # keep complete Self/Other pairs only
   
   # bias score: Self_dissim - Other_dissim
   wide_df <- wide_df %>%
@@ -988,6 +1006,8 @@ classify_bias(d_long_5,
               sample_type = "Field",
               aggregate   = FALSE)
 
+bias_all %>% summarise(N = sum(n), .by = c(study, domain))
+
 bias_plot_df <- bias_all %>%
   group_by(study, domain, sample) %>%
   mutate(total_n = sum(n)) %>%
@@ -1049,34 +1069,41 @@ fig5
 
 save_plot_multi <- function(plot,
                             file_stem,
-                            exts   = c("png", "jpeg", "pdf"),
-                            width  = 8,
-                            height = 6,
-                            dpi    = 300,
+                            exts   = c("pdf", "tiff", "jpeg"),
+                            width  = 10,      # inches at final print size (6.5 = full page width)
+                            height = 8,
+                            dpi    = 600,      # raster resolution for line art with text
                             path   = PLOT_PATH) {
   # If the object is from grid.arrange() we convert it first
   if (inherits(plot, "gtable")) {
     plot <- gridExtra::arrangeGrob(plot)
   }
   
-  # Iterate over requested extensions
   purrr::walk(exts, function(ext) {
-    ggsave(
-      filename = glue::glue("{file_stem}.{ext}"),
-      plot     = plot,
-      device   = ext,          # lets ggsave pick the right device
-      path     = path,
-      width    = width,
-      height   = height,
-      dpi      = dpi
-    )
+    if (ext == "pdf") {
+      # vector, fonts embedded, Unicode-safe
+      ggsave(filename = glue::glue("{file_stem}.pdf"), plot = plot, path = path,
+             device = grDevices::cairo_pdf, width = width, height = height, units = "in")
+    } else if (ext == "tiff") {
+      # lossless raster, LZW keeps the file size sane
+      ggsave(filename = glue::glue("{file_stem}.tiff"), plot = plot, path = path,
+             device = "tiff", compression = "lzw", dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else if (ext == "jpeg") {
+      ggsave(filename = glue::glue("{file_stem}.jpeg"), plot = plot, path = path,
+             device = "jpeg", quality = 100, dpi = dpi,
+             width = width, height = height, units = "in", bg = "white")
+    } else {
+      ggsave(filename = glue::glue("{file_stem}.{ext}"), plot = plot, path = path,
+             device = ext, dpi = dpi, width = width, height = height, units = "in", bg = "white")
+    }
   })
   invisible(TRUE)
 }
 
 save_plot_multi(fig5,
-                file_stem = "fig5",
-                exts      = c("png", "pdf", "jpeg"),   # add/remove as needed
+                file_stem = "Figure5",
                 width     = 10,
                 height    = 8)
+
 
